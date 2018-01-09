@@ -366,7 +366,7 @@ class Initiate(object):
                     Settings.repository_info)
             self.travis_permissions()
 
-            Helpers.Command(command_to_execute, True).execute()
+            print(Helpers.Command(command_to_execute, True).execute())
 
 
 class Helpers(object):  # pylint: disable=too-few-public-methods
