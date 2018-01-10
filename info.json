@@ -6,5 +6,6 @@
     "list_name": "Badd-Boyz-Hosts.list",
     "name": "Badd-Boyz-Hosts",
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
-    "stable": "0"
+    "stable": "0",
+    "currently_under_test": "0"
 }
