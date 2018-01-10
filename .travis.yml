@@ -1,9 +1,9 @@
 env:
   global:
-    - secure: tRMMJEa++EUuWwuWVlUEW3wQTr7eSWgyvmcs9Zc11Hc1s4KQ8lZn1A2FmrCPXWH1JI7exFChs6r4qjIyV2vpXLqA1Gut2bcu2+Z9DPrNnMhd88hXV4am7W8ZMul5G5OgWN5j89zDNxh7qwqEwgLGjv3B3Skpol0Zjp2kWEGeFKJgCvcenrPhZf7QCDTYxYYzagbfOPikOYpb9yeo6Qz5fXSHujhnz5d8NWxHcBA0torzBjOjKlHGTUzF+CPoTB3xIzFtYQjJbAUqxnGCRDj39fqmKOieWUJB0Qg+M09IhG1ery/xd+YxUr8A2d+WuJM0gAR7QUO6rgLWUGr7oMyM6/wX0Abg5G2kfOw/0EH82HAe1TH8cQoUjdIvmSsGpee0H93D/3V8NElsiJHAQp9FDI2c0dbby040nkmS71TegNLVUjq1FryV8PiUnEj26sbTq1E8MBAXa4SK3P80+D3wQUk7IicFxXK2tVqmBrzNEjFoDFK/a3y0eP0m10G3lp31EARHl0znKg0mhqjjfLqpbIJlPw1YrAaGk/kQjSUK6MhVmyFyYEN3ASxT1KDsw6u9/UOQp9vJdLiiUPMT7oFDH/6ec4ScJbOzqIAysiWvJiYUcdUutV9PQiSIxRtyH+2dbc2AvkCx/sMlXazUWhbjDpj2L3tdJnb1ni3bNnvCZaM=
+    - secure: N8txeWFUYTLesw3382oMwQH2LJRFVJvEvDNmH8CS4kyNbtgeEFDj98Rw4Jc+94fWuEdhgxM1t8ZbicC/JCPLx49qi0YGGf9964yGupJ2r5mLhrrvPucv+blPZRS/NW/5XEducQUDcDS5mnQDq46yIeS0QYRLYAT0loWHvPMujbqR4AdzKh1p9wBYpkFrC7CYESZ/Hsl5rqSmecmh/ybQ25Vi11cbs1njmpWLuVo0IBlQ84hTe8RH6lMSiJa6MF1+AuQ8l1hWfzAQaTuUaFoR8tsq4yyWUe9ejSXApsKKz64CWHilAbmYD+eDJnqDF2AS5voD0pz9oUId3lKd0mcOGoELBHtbjk6WOuiQfdE6m9hrRGDMEv/rJWyZvs2CQLOGxrgG1Lzsu/99NeygnYNEass00/PRkY3Xktl3jmh/V+4JFp/2DeFzOEWAgTNX93K1Sofkptul/H/2P+/xDaeOjIwWAsWrKePt9QZElhSgtjXcwUc2SITuhr/NWq3W1gNo4jGXhverwWOQufoUjd16uP8jXW7Xms1+1FU2zC2Zml34qDIYvtJqCDgDL3p1M7dYuOqrxpP7pC0z79uzENFLAzhKsRc7KAgzvGVsrz0MUA1cbw39HhGNd1lmAmV0ODnqTuQegapKsM4QxsnLDzn1TzK7Dl0cMrUPq7WXQ7AnLW8=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: funilrys@outlook.com
-    - TRAVIS_REPO_SLUG: dead-hosts/repository-structure
+    - TRAVIS_REPO_SLUG: dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza
     - GIT_BRANCH: master
 
 language: python
@@ -26,7 +26,6 @@ before_install:
   - pip3 install colorama
 
 script:
-  # - ls -al /home/travis/virtualenv/python3.6.3/lib/python3.6/site-packages
   - export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
   - export GH_TOKEN=${GH_TOKEN}
   - export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
