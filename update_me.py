@@ -205,7 +205,7 @@ class Initiate(object):
         for file in Settings.PyFunceble:
             file_path = Settings.current_directory + file
 
-            if Settings.stable:
+            if not path.isfile(file_path) or Settings.stable:
                 download_link = Settings.PyFunceble[file].replace(
                     'master', 'dev')
             else:
