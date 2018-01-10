@@ -1,11 +1,11 @@
 {
     "autosave_minutes": "10",
     "commit_autosave_message": "Test of Badd-Boyz-Hosts",
+    "currently_under_test": "0",
     "days_until_next_test": "2",
-    "last_test": "0",
+    "last_test": "1515580017",
     "list_name": "Badd-Boyz-Hosts.list",
     "name": "Badd-Boyz-Hosts",
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
-    "stable": "0",
-    "currently_under_test": "0"
+    "stable": "0"
 }
