@@ -205,14 +205,15 @@ class Initiate(object):
         for file in Settings.PyFunceble:
             file_path = Settings.current_directory + file
 
-            if not path.isfile(file_path) or Settings.stable:
+            if not path.isfile(file_path) or not Settings.stable:
                 download_link = Settings.PyFunceble[file].replace(
                     'master', 'dev')
             else:
-                download_link = Settings.PyFunceble[file].replace(
+                download_link = Settings.PyFunceble[file]. replace(
                     'dev', 'master')
 
-            Helpers.Download(download_link, file_path).link()
+            if not Helpers.Download(download_link, file_path).link():
+                raise Exception('Unable to download %s.' % download_link)
 
             self.travis_permissions()
 
