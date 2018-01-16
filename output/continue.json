@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "number_of_down": 439,
+        "number_of_down": 476,
         "number_of_invalid": 0,
-        "number_of_tested": 7150,
-        "number_of_up": 6711
+        "number_of_tested": 7791,
+        "number_of_up": 7315
     }
 }
