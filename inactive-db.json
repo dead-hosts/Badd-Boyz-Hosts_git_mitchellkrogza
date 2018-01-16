@@ -597,9 +597,7 @@
             "simplescienceprojects.net",
             "sionn.biz",
             "siphic5.top",
-            "sis9the.top"
-        ],
-        "to_test": [
+            "sis9the.top",
             "skytechme.com",
             "slateformchase.com",
             "slitter-io.com",
@@ -630,7 +628,9 @@
             "takecarewage.com",
             "tamiracenter.co.id",
             "tamsyadaressalaam.org",
-            "tandoku.net",
+            "tandoku.net"
+        ],
+        "to_test": [
             "teachherspayteachers.com",
             "teamassociates.net",
             "technovrbd.com",
