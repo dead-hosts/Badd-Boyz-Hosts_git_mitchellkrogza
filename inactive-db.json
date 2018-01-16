@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1515851415": [
+        "1516110786": [
             "24x7-server-support.site",
             "28n2gl3wfyb0.ru",
             "3-letter-domains.net",
@@ -16,6 +16,7 @@
             "aac52006ec82a24e08b665f4db2b5013f7.com",
             "aad1f4acb0a373420d9b0c4202d38d94fa.com",
             "aagoop7.to",
+            "abekattestreger.dk",
             "acera500.ru",
             "acgs.tk",
             "achiwvecard.com",
@@ -27,24 +28,31 @@
             "adultfullhd.com",
             "adultwebhosting.info",
             "aeghie6dien.info",
+            "aej5tua.top",
+            "aekaa5a.top",
             "aekee1a.bid",
             "aenie9u.bid",
             "aew9eigieng.info",
             "affordablewebsitesandmobileapps.com",
             "ahn2phee3oh.info",
+            "ahw4eih.top",
             "aidee2e.bid",
             "airai7f.top",
             "aivae2o.to",
             "aive3bi.bid",
+            "aiw1ohz.top",
             "aj2shil.bid",
             "ak.cr",
             "akademisokagi.com",
             "all-tuts.com",
             "almanargroup.sa",
+            "alternativa.pp.ua",
             "amehdaily.com",
             "amyfoxfitness.com",
             "andezcoppers.com.br",
-            "andreandre.de",
+            "andreandre.de"
+        ],
+        "to_test": [
             "annoras-lifestyle.de",
             "anonamizer.com",
             "aosexkontakte.net",
@@ -686,9 +694,7 @@
             "zichoh6.bid",
             "ziej6ai.bid",
             "znapapp.ae",
-            "zoo-zip.de"
-        ],
-        "to_test": [
+            "zoo-zip.de",
             "12azar.ir"
         ]
     }
