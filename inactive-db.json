@@ -570,9 +570,7 @@
             "scanner-viktor.top",
             "scanner-walt.top",
             "scanner-walter.top",
-            "scanner-willy.top"
-        ],
-        "to_test": [
+            "scanner-willy.top",
             "schwabinchen.de",
             "seanksutton.com",
             "searchimage.co",
@@ -584,6 +582,7 @@
             "sei9poo.top",
             "seidler-gmbh.de",
             "selfieholiday.com",
+            "seomarketings.online",
             "sex-dating.co",
             "sexo.camorg.net",
             "sexyinsaree.com",
@@ -597,14 +596,16 @@
             "simple-share-buttons.com",
             "simplescienceprojects.net",
             "sionn.biz",
-            "siphic5.top",
             "sis9the.top",
             "skytechme.com",
             "slateformchase.com",
+            "slayerlife.com",
             "slitter-io.com",
             "slther-io.com",
             "sohoindia.net",
-            "sonicdirvein.com",
+            "sonicdirvein.com"
+        ],
+        "to_test": [
             "space4update.pw",
             "spasswelt.xyz",
             "speedup-my.site",
