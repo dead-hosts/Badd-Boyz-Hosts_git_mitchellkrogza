@@ -1,21 +1,19 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1516110786": [
+        "1516542774": [
             "24x7-server-support.site",
             "28n2gl3wfyb0.ru",
             "3-letter-domains.net",
             "360.jarakadvertising.com",
             "402m.de",
+            "801854.com",
             "8lufu.com",
             "a1host.com.au",
             "aa8780bb28a1de4eb5bff33c28a218a930.com",
             "aa8b68101d388c446389283820863176e7.com",
-            "aa9bd78f328a6a41279d0fad0a88df1901.com",
-            "aa9d046aab36af4ff182f097f840430d51.com",
             "aaa38852e886ac4af1a3cff9b47cab6272.com",
-            "aac52006ec82a24e08b665f4db2b5013f7.com",
-            "aad1f4acb0a373420d9b0c4202d38d94fa.com",
             "aagoop7.to",
+            "abccomputer.co.tz",
             "abekattestreger.dk",
             "acera500.ru",
             "acgs.tk",
@@ -45,7 +43,9 @@
             "ak.cr",
             "akademisokagi.com",
             "all-tuts.com",
-            "almanargroup.sa",
+            "almanargroup.sa"
+        ],
+        "to_test": [
             "alternativa.pp.ua",
             "amehdaily.com",
             "amyfoxfitness.com",
@@ -762,9 +762,7 @@
             "ziej6ai.bid",
             "znapapp.ae",
             "zoo-zip.de",
-            "zooh1od.top"
-        ],
-        "to_test": [
+            "zooh1od.top",
             "12azar.ir"
         ]
     }
