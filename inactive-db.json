@@ -1,12 +1,13 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1516542774": [
+        "1516732475": [
             "24x7-server-support.site",
             "28n2gl3wfyb0.ru",
             "3-letter-domains.net",
             "360.jarakadvertising.com",
             "402m.de",
             "801854.com",
+            "847853.com",
             "8lufu.com",
             "a1host.com.au",
             "aa8780bb28a1de4eb5bff33c28a218a930.com",
@@ -48,8 +49,11 @@
             "am-se.com",
             "amehdaily.com",
             "amyfoxfitness.com",
+            "analytics-ads.xyz",
             "andezcoppers.com.br",
-            "andreandre.de",
+            "andreandre.de"
+        ],
+        "to_test": [
             "annoras-lifestyle.de",
             "anonamizer.com",
             "aosexkontakte.net",
@@ -760,9 +764,7 @@
             "zichoh6.bid",
             "ziej6ai.bid",
             "zoo-zip.de",
-            "zooh1od.top"
-        ],
-        "to_test": [
+            "zooh1od.top",
             "12azar.ir"
         ]
     }
