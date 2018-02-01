@@ -608,9 +608,7 @@
             "scanner-viktor.top",
             "scanner-walt.top",
             "scanner-walter.top",
-            "scanner-willy.top"
-        ],
-        "to_test": [
+            "scanner-willy.top",
             "schwabinchen.de",
             "seanksutton.com",
             "searchimage.co",
@@ -645,7 +643,9 @@
             "sonicdirvein.com",
             "space4update.pw",
             "speedup-my.site",
-            "spinylla.ru",
+            "spinylla.ru"
+        ],
+        "to_test": [
             "sstamlyn.gq",
             "starlight-events.net",
             "starsport4.com",
