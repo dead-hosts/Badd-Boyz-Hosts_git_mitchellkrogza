@@ -256,9 +256,7 @@
             "flatbook.pl",
             "flying-chefs.de",
             "foh6bah.top",
-            "foi2vie.bid"
-        ],
-        "to_test": [
+            "foi2vie.bid",
             "foodsupplements.com.au",
             "forum.afwajamal.com",
             "forum.buskerdroid.com",
@@ -272,6 +270,8 @@
             "freebitcoins.online",
             "freegamesplay.online",
             "freejabs.com",
+            "fullcolorcoverage.com",
+            "gai9h7.top",
             "galerymusic.id",
             "ganeshabakery.id",
             "gei7oos.top",
@@ -294,7 +294,9 @@
             "grupofrutexport.com.mx",
             "gsmtlf.ru",
             "gstatey.net",
-            "gsvx.5gbfree.com",
+            "gsvx.5gbfree.com"
+        ],
+        "to_test": [
             "gupdate4all.com",
             "gutkewichmann.de",
             "gwebtools.com.br",
