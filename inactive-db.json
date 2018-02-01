@@ -775,13 +775,12 @@
             "wwwdiariodenavarra.com",
             "wwwgazete.com",
             "wwwgirlchanh.com",
-            "wwwmpof.com"
-        ],
-        "to_test": [
+            "wwwmpof.com",
             "wwwmywififiext.net",
             "xlncglasshardware.com",
             "xn----9sbebi2bvzr7h.xn--p1ai",
             "xn----itbeirbjbi7bc6bh2d.xn--p1ai",
+            "xn----itbkqkfiq.xn--p1ai",
             "xn--1-8sbcpb0bdm8k6a.xn--p1ai",
             "xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai",
             "xn--989awoz98btnal2e708b.com",
@@ -803,7 +802,9 @@
             "zichoh6.bid",
             "ziej6ai.bid",
             "zoo-zip.de",
-            "zooh1od.top",
+            "zooh1od.top"
+        ],
+        "to_test": [
             "24x7-server-support.site"
         ]
     }
