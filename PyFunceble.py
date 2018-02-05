@@ -1809,6 +1809,7 @@ class Referer(object):
             'cv',
             'cw',
             'cy',
+            'dj',
             'eg',
             'et',
             'fm',
@@ -1817,9 +1818,12 @@ class Referer(object):
             'gr',
             'gt',
             'jo',
+            'kh',
             'lb',
             'mil',
             'mt',
+            'mv',
+            'mw',
             'ne',
             'ni',
             'np',
@@ -1830,6 +1834,7 @@ class Referer(object):
             'pn',
             'py',
             'sr',
+            'ss',
             'sv',
             'tj',
             'tp',
@@ -2689,7 +2694,7 @@ if __name__ == '__main__':
             '-v',
             '--version',
             action='version',
-            version='%(prog)s 0.24.2-beta'
+            version='%(prog)s 0.24.7-beta'
         )
 
         ARGS = PARSER.parse_args()
