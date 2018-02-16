@@ -158,11 +158,11 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # This tell us in which branch we have to push
     travis_branch = 'master'
     # Minimum of minutes before we start commiting to upstream under Travis CI.
-    travis_autosave_minutes = 15
+    travis_autosave_minutes = 10
     # Default travis final commit message
-    travis_autosave_final_commit = "PyFunceble - Results"
+    travis_autosave_final_commit = "[Results] Test of Badd-Boyz-Hosts"
     # Default travis commit message
-    travis_autosave_commit = "PyFunceble - Autosave"
+    travis_autosave_commit = "[Autosave] Test of Badd-Boyz-Hosts"
     # Output into unified files.
     unified_file = True
     ##########################################################################
@@ -242,7 +242,7 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Note: DO NOT FORGET `/` AT THE END.
 
     # Current directory.
-    current_dir = '%%current_dir%%'
+    current_dir = '/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/'
     # Current directory separator
     dir_separator = directory_separator
     # Output directory.
