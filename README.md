@@ -15,7 +15,7 @@ This repository is maintained by the members of the [Dead Hosts/Lists/Badd-Boyz-
 
 [Dead-Hosts](https://github.com/dead-hosts) is the replacement of the original idea behind [funilrys/dead-hosts](https://github.com/funilrys/dead-hosts).
 
-The idea was to test a hosts file or a list of domains for active domains and blocklist dead ones using PyFunceble and Travis CI.
+The idea was to test hosts file or a list of domains for active domains and blocklist dead ones using PyFunceble and Travis CI.
 
 As [funilrys/dead-hosts](https://github.com/funilrys/dead-hosts) grew up, it became impossible to have all those lists into one repository, that is why we use the GitHub organization system in order to create different repository for each list that has to be tested.
 
