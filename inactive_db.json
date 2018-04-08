@@ -1,8 +1,9 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1522965592": [
-            "214.13.190.195.unknown.steephost.net",
-            "aasoldes.fr",
+        "0": [
+            "214.13.190.195.unknown.steephost.net"
+        ],
+        "to_test": [
             "adultsexshop.dk",
             "apenologia.pt",
             "bizpromotefreebooster.com",
@@ -53,7 +54,6 @@
             "wyniki-lista.pl",
             "zditm.pl",
             "znanekobiety.pl"
-        ],
-        "to_test": []
+        ]
     }
 }
