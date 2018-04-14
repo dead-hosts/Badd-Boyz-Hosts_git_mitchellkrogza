@@ -1,6 +1,10 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1523544805": [
+        "1523716735": [
+            "4rebaopfgrewe.top",
+            "aed4uozi.com"
+        ],
+        "to_test": [
             "aguai.com.ar",
             "anapa-inns.ru",
             "applesstore.top",
@@ -89,11 +93,8 @@
             "xfutdbnryjmh.bid",
             "xfvzkoevuw.bid",
             "zditm.pl",
-            "znanekobiety.pl"
-        ],
-        "to_test": [
-            "123kontaktanzeigen.de",
-            "aed4uozi.com"
+            "znanekobiety.pl",
+            "123kontaktanzeigen.de"
         ]
     }
 }
