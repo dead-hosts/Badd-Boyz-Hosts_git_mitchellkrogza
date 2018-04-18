@@ -1,7 +1,9 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1523890186": [
-            "aed4uozi.com",
+        "1524062976": [
+            "aed4uozi.com"
+        ],
+        "to_test": [
             "aguai.com.ar",
             "amateur.rules.nu",
             "anapa-inns.ru",
@@ -83,9 +85,7 @@
             "w3data.co",
             "workle.website",
             "wwwinbank.pl",
-            "zditm.pl"
-        ],
-        "to_test": [
+            "zditm.pl",
             "123kontaktanzeigen.de"
         ]
     }
