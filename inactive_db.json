@@ -1,9 +1,11 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1524408410": [
-            "aboomnsaoq.top",
+        "1524581182": [
+            "925.lt",
             "adstat.fgsta.com",
-            "aed4uozi.com",
+            "aed4uozi.com"
+        ],
+        "to_test": [
             "amateur.rules.nu",
             "anapa-inns.ru",
             "androids-store.com",
@@ -143,9 +145,7 @@
             "wwwinbank.pl",
             "xn--gar-hla.io",
             "young.rules.nu",
-            "zditm.pl"
-        ],
-        "to_test": [
+            "zditm.pl",
             "123kontaktanzeigen.de"
         ]
     }
