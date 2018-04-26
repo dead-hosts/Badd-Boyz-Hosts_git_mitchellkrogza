@@ -1,9 +1,14 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1524581182": [
+        "1524753605": [
+            "123kontaktanzeigen.de",
             "925.lt",
+            "adrenalin-stk.ru",
             "adstat.fgsta.com",
-            "aed4uozi.com",
+            "aed4uozi.com"
+        ],
+        "to_test": [
+            "modelguru.de",
             "aliexpresscashback.club",
             "amateur.rules.nu",
             "anapa-inns.ru",
@@ -146,11 +151,8 @@
             "wwwinbank.pl",
             "xn--gar-hla.io",
             "young.rules.nu",
-            "zditm.pl"
-        ],
-        "to_test": [
-            "modelguru.de",
-            "123kontaktanzeigen.de"
+            "zditm.pl",
+            "100s.pl"
         ]
     }
 }
