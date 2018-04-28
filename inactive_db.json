@@ -1,10 +1,14 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1524753605": [
+        "1524926536": [
             "123kontaktanzeigen.de",
+            "51unlim.ru",
             "925.lt",
+            "acounts.limited.otelrehberi.net",
             "adrenalin-stk.ru",
-            "adstat.fgsta.com",
+            "adstat.fgsta.com"
+        ],
+        "to_test": [
             "aed4uozi.com",
             "aliexpresscashback.club",
             "all4invest.info",
@@ -226,9 +230,7 @@
             "zkvdsdsftimj.bid",
             "zlfttgbmzk.bid",
             "zlrlbfigwz.bid",
-            "znsonssdb.bid"
-        ],
-        "to_test": [
+            "znsonssdb.bid",
             "100s.pl"
         ]
     }
