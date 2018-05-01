@@ -551,6 +551,8 @@
         "--commit-autosave-message \"[Autosave] Test of Badd-Boyz-Hosts\"",
         "--commit-results-message \"[Results] Test of Badd-Boyz-Hosts\"",
         "--commit-autosave-message \"[Autosave] Test of Badd-Boyz-Hosts\"",
+        "--commit-results-message \"[Results] Test of Badd-Boyz-Hosts\"",
+        "--commit-autosave-message \"[Autosave] Test of Badd-Boyz-Hosts\"",
         "--commit-results-message \"[Results] Test of Badd-Boyz-Hosts\""
     ],
     "clean_list_file": "clean.list",
@@ -558,7 +560,7 @@
     "commit_autosave_message": "Test of Badd-Boyz-Hosts",
     "currently_under_test": "1",
     "days_until_next_test": "1",
-    "last_test": "1525134348",
+    "last_test": "1525135379",
     "list_name": "Badd-Boyz-Hosts.list",
     "name": "Badd-Boyz-Hosts",
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/PULL_REQUESTS/domains.txt",
