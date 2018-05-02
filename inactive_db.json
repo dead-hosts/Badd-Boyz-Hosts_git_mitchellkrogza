@@ -1,12 +1,14 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1525099653": [
+        "1525272497": [
             "51unlim.ru",
             "925.lt",
             "admin.archivemagno.com",
             "adrenalin-stk.ru",
             "adstat.fgsta.com",
-            "aed4uozi.com",
+            "aed4uozi.com"
+        ],
+        "to_test": [
             "all4invest.info",
             "amateur.rules.nu",
             "anale-sex.nl",
@@ -180,11 +182,10 @@
             "young.rules.nu",
             "yumy.nl",
             "zditm.pl",
-            "123kontaktanzeigen.de",
             "c3sngvwp.com",
             "italiancookers.com",
-            "top-prestige.de"
-        ],
-        "to_test": []
+            "top-prestige.de",
+            "123kontaktanzeigen.de"
+        ]
     }
 }
