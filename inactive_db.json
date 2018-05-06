@@ -206,10 +206,7 @@
             "shopsclik.ru",
             "shopvilleroyboch.com.ua",
             "showyourbody.nl",
-            "simplenobile.com"
-        ],
-        "to_test": [
-            "platesauto.com",
+            "simplenobile.com",
             "slvv9.com",
             "smokewithrabbits.com",
             "snjack.info",
@@ -220,7 +217,10 @@
             "tacbelarus.ru",
             "talant-factory.ru",
             "teendreams.nl",
-            "terrabrs.com",
+            "terrabrs.com"
+        ],
+        "to_test": [
+            "platesauto.com",
             "theforeclosures.net",
             "tippelx.nl",
             "truemfilelj.gq",
