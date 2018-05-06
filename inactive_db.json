@@ -10,9 +10,7 @@
             "admin.archivemagno.com",
             "adrenalin-stk.ru",
             "adstat.fgsta.com",
-            "aed4uozi.com"
-        ],
-        "to_test": [
+            "aed4uozi.com",
             "all4invest.info",
             "allcredits.su",
             "amateur.rules.nu",
@@ -22,7 +20,9 @@
             "anonymizeme.pro",
             "apelsinnik.website",
             "applyexploercard.com",
-            "auth-bedachungen.de",
+            "auth-bedachungen.de"
+        ],
+        "to_test": [
             "babedatabase.com",
             "bambooclothings.com",
             "bareback.rules.nu",
