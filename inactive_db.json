@@ -1,14 +1,18 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1525445190": [
+        "1525617998": [
+            "173js173.com",
             "1st-class.ch",
-            "2020iscoming.info",
+            "28l8o.com",
             "51unlim.ru",
             "925.lt",
+            "acads.net",
             "admin.archivemagno.com",
             "adrenalin-stk.ru",
             "adstat.fgsta.com",
-            "aed4uozi.com",
+            "aed4uozi.com"
+        ],
+        "to_test": [
             "all4invest.info",
             "allcredits.su",
             "amateur.rules.nu",
@@ -243,9 +247,7 @@
             "y1i69.com",
             "yemengaglar.com",
             "young.rules.nu",
-            "zditm.pl"
-        ],
-        "to_test": [
+            "zditm.pl",
             "123kontaktanzeigen.de"
         ]
     }
