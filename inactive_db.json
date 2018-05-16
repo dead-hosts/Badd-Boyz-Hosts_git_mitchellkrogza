@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1526309402": [
+        "1526482251": [
+            "123kontaktanzeigen.de",
             "173js173.com",
             "1st-class.ch",
             "28l8o.com",
@@ -8,10 +9,13 @@
             "925.lt",
             "abmuctymq.top",
             "acads.net",
+            "acortar.tk",
             "admin.archivemagno.com",
             "adrenalin-stk.ru",
             "ads.thebulgarianpost.com",
-            "adstat.fgsta.com",
+            "adstat.fgsta.com"
+        ],
+        "to_test": [
             "aed4uozi.com",
             "ahipegllx.top",
             "alihanmaron.com",
@@ -342,10 +346,8 @@
             "young.rules.nu",
             "yzhsqdexo.top",
             "zcfywnicu.top",
-            "zqzcphioh.top"
-        ],
-        "to_test": [
-            "123kontaktanzeigen.de"
+            "zqzcphioh.top",
+            "0190-telefonsex.de.lv"
         ]
     }
 }
