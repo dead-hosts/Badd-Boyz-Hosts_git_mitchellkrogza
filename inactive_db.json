@@ -916,10 +916,9 @@
             "venicebeach.nu",
             "verbateam.se",
             "verification.prima2.cf",
-            "verifications.appleid.apple.com.egift-me.com"
-        ],
-        "to_test": [
+            "verifications.appleid.apple.com.egift-me.com",
             "www.nosilia.se"
-        ]
+        ],
+        "to_test": []
     }
 }
