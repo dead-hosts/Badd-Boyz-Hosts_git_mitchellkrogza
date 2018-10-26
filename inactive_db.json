@@ -1189,9 +1189,7 @@
             "ads-codes.net",
             "ads.lycos-europe.com",
             "adsports.in",
-            "ads.thebulgarianpost.com"
-        ],
-        "to_test": [
+            "ads.thebulgarianpost.com",
             "avantcreit.com",
             "avantlog.com.br",
             "awkffaxch.top",
@@ -1200,7 +1198,9 @@
             "babedatabase.com",
             "baby-care-ru.ru",
             "backstock-records.de",
-            "badass-customs.se",
+            "badass-customs.se"
+        ],
+        "to_test": [
             "cherrypointplace.ca",
             "christianlouboutinreplica.pw",
             "christianlouboutinsaleoutletonline.us",
