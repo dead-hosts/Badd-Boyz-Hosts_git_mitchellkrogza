@@ -30840,10 +30840,20 @@
             "expiration_date": "19-jan-2021",
             "state": "future"
         },
+        "thepiratebay.uno": {
+            "epoch": "1541462400",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
         "thepiratepartybay.com": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
             "state": "future"
+        },
+        "thepirateproxy.biz": {
+            "epoch": "1539820800",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
         },
         "thepokertimer.com": {
             "epoch": "1555545600",
@@ -30965,6 +30975,11 @@
             "expiration_date": "21-aug-2019",
             "state": "future"
         },
+        "thevision.it": {
+            "epoch": "1552780800",
+            "expiration_date": "17-mar-2019",
+            "state": "future"
+        },
         "theweddingstyle.net": {
             "epoch": "1570492800",
             "expiration_date": "08-oct-2019",
@@ -31014,6 +31029,11 @@
             "epoch": "1537056000",
             "expiration_date": "16-sep-2018",
             "state": "past"
+        },
+        "thisisart.us": {
+            "epoch": "1555977600",
+            "expiration_date": "23-apr-2019",
+            "state": "future"
         },
         "thomascam.com": {
             "epoch": "1571270400",
@@ -31083,6 +31103,11 @@
         "top100escortpick.com": {
             "epoch": "1544054400",
             "expiration_date": "06-dec-2018",
+            "state": "future"
+        },
+        "top100girls.biz": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
             "state": "future"
         },
         "top100links.com": {
@@ -31199,6 +31224,11 @@
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
             "state": "future"
+        },
+        "topnudes.us": {
+            "epoch": "1537401600",
+            "expiration_date": "20-sep-2018",
+            "state": "past"
         },
         "toporno.net": {
             "epoch": "1548288000",
@@ -31445,6 +31475,11 @@
             "expiration_date": "26-jan-2019",
             "state": "future"
         },
+        "trafficfactory.biz": {
+            "epoch": "1685404800",
+            "expiration_date": "30-may-2023",
+            "state": "future"
+        },
         "trafficjunky.com": {
             "epoch": "1628380800",
             "expiration_date": "08-aug-2021",
@@ -31463,6 +31498,11 @@
         "trafficmp.com": {
             "epoch": "1561075200",
             "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "trafficreceiver.club": {
+            "epoch": "1557100800",
+            "expiration_date": "06-may-2019",
             "state": "future"
         },
         "trafficstandard.com": {
@@ -31553,6 +31593,411 @@
         "transsexual.nu": {
             "epoch": "1540944000",
             "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "trashysluts.com": {
+            "epoch": "1536364800",
+            "expiration_date": "08-sep-2018",
+            "state": "past"
+        },
+        "travesti.ws": {
+            "epoch": "1570233600",
+            "expiration_date": "05-oct-2019",
+            "state": "future"
+        },
+        "travmateholidays.com": {
+            "epoch": "1560211200",
+            "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "trdstation.com": {
+            "epoch": "1565136000",
+            "expiration_date": "07-aug-2019",
+            "state": "future"
+        },
+        "treebanana.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "treeguild.com": {
+            "epoch": "1546819200",
+            "expiration_date": "07-jan-2019",
+            "state": "future"
+        },
+        "trendingtopics.id": {
+            "epoch": "1548892800",
+            "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "tri-slona.org": {
+            "epoch": "1546128000",
+            "expiration_date": "30-dec-2018",
+            "state": "future"
+        },
+        "trickydicky.net": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "tricomzone.com": {
+            "epoch": "1545436800",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "trifectanet.com": {
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
+        },
+        "trigemer.com": {
+            "epoch": "1546992000",
+            "expiration_date": "09-jan-2019",
+            "state": "future"
+        },
+        "trkdf.com": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "trkur.com": {
+            "epoch": "1547337600",
+            "expiration_date": "13-jan-2019",
+            "state": "future"
+        },
+        "trollskogenssmycken.se": {
+            "epoch": "1535500800",
+            "expiration_date": "29-aug-2018",
+            "state": "past"
+        },
+        "tronto.com": {
+            "epoch": "1554681600",
+            "expiration_date": "08-apr-2019",
+            "state": "future"
+        },
+        "troop578.org": {
+            "epoch": "1548979200",
+            "expiration_date": "01-feb-2019",
+            "state": "future"
+        },
+        "trophyroombar.com": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "troxcorp.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
+        "troyporno.com": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "trubywriting.com": {
+            "epoch": "1571961600",
+            "expiration_date": "25-oct-2019",
+            "state": "future"
+        },
+        "trucri.me": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "trudogolik.net": {
+            "epoch": "1552176000",
+            "expiration_date": "10-mar-2019",
+            "state": "future"
+        },
+        "true-experts.com": {
+            "epoch": "1570838400",
+            "expiration_date": "12-oct-2019",
+            "state": "future"
+        },
+        "true-porno.com": {
+            "epoch": "1542844800",
+            "expiration_date": "22-nov-2018",
+            "state": "future"
+        },
+        "true2file.com": {
+            "epoch": "1551312000",
+            "expiration_date": "28-feb-2019",
+            "state": "future"
+        },
+        "truecumsluts.com": {
+            "epoch": "1549411200",
+            "expiration_date": "06-feb-2019",
+            "state": "future"
+        },
+        "trueeros.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "truefilen32.com": {
+            "epoch": "1549497600",
+            "expiration_date": "07-feb-2019",
+            "state": "future"
+        },
+        "truefiles.net": {
+            "epoch": "1572048000",
+            "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "truelolita.com": {
+            "epoch": "1545004800",
+            "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "truepasswords.com": {
+            "epoch": "1543104000",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "truliia.com": {
+            "epoch": "1565654400",
+            "expiration_date": "13-aug-2019",
+            "state": "future"
+        },
+        "trumpetedextremes.com": {
+            "epoch": "1550534400",
+            "expiration_date": "19-feb-2019",
+            "state": "future"
+        },
+        "trustedhealthtips.com": {
+            "epoch": "1566172800",
+            "expiration_date": "19-aug-2019",
+            "state": "future"
+        },
+        "trustedmaccleaner.com": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
+        "trutedid.com": {
+            "epoch": "1568160000",
+            "expiration_date": "11-sep-2019",
+            "state": "future"
+        },
+        "truyennguoilon.biz": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "trxporn.com": {
+            "epoch": "1545609600",
+            "expiration_date": "24-dec-2018",
+            "state": "future"
+        },
+        "try-rx.com": {
+            "epoch": "1551484800",
+            "expiration_date": "02-mar-2019",
+            "state": "future"
+        },
+        "tryme-scandinavianbar.se": {
+            "epoch": "1535500800",
+            "expiration_date": "29-aug-2018",
+            "state": "past"
+        },
+        "trytoimprovesecurity.com": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
+        "tsan.net": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "tspeeds.com": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "tsyndicate.com": {
+            "epoch": "1843084800",
+            "expiration_date": "28-may-2028",
+            "state": "future"
+        },
+        "ttga.in": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "ttoc8ok.com": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
+        "ttrraacckkrr.com": {
+            "epoch": "1544572800",
+            "expiration_date": "12-dec-2018",
+            "state": "future"
+        },
+        "ttsq.fr": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
+        "tub3.org": {
+            "epoch": "1541462400",
+            "expiration_date": "06-nov-2018",
+            "state": "future"
+        },
+        "tubbing.net": {
+            "epoch": "1542412800",
+            "expiration_date": "17-nov-2018",
+            "state": "future"
+        },
+        "tubbybucks.com": {
+            "epoch": "1568505600",
+            "expiration_date": "15-sep-2019",
+            "state": "future"
+        },
+        "tube8.com": {
+            "epoch": "1630800000",
+            "expiration_date": "05-sep-2021",
+            "state": "future"
+        },
+        "tubegalorel.com": {
+            "epoch": "1563321600",
+            "expiration_date": "17-jul-2019",
+            "state": "future"
+        },
+        "tubeoffline.com": {
+            "epoch": "1560384000",
+            "expiration_date": "13-jun-2019",
+            "state": "future"
+        },
+        "tubeporn.ca": {
+            "epoch": "1545436800",
+            "expiration_date": "22-dec-2018",
+            "state": "future"
+        },
+        "tuberkulezanet.ru": {
+            "epoch": "1556409600",
+            "expiration_date": "28-apr-2019",
+            "state": "future"
+        },
+        "tuberkuleznik.ru": {
+            "epoch": "1559520000",
+            "expiration_date": "03-jun-2019",
+            "state": "future"
+        },
+        "tubo360.com": {
+            "epoch": "1674864000",
+            "expiration_date": "28-jan-2023",
+            "state": "future"
+        },
+        "tuckpointingmasonrysystems.com": {
+            "epoch": "1561593600",
+            "expiration_date": "27-jun-2019",
+            "state": "future"
+        },
+        "tufe.info": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "tufsl.com": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
+        "tuhostcr.com": {
+            "epoch": "1547942400",
+            "expiration_date": "20-jan-2019",
+            "state": "future"
+        },
+        "tulatoly.com": {
+            "epoch": "1549584000",
+            "expiration_date": "08-feb-2019",
+            "state": "future"
+        },
+        "tunez9ja.com": {
+            "epoch": "1544832000",
+            "expiration_date": "15-dec-2018",
+            "state": "future"
+        },
+        "tupper-posuda.ru": {
+            "epoch": "1568246400",
+            "expiration_date": "12-sep-2019",
+            "state": "future"
+        },
+        "tupper-shop.ru": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "turbatii.com": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "turbo-suslik.org": {
+            "epoch": "1564790400",
+            "expiration_date": "03-aug-2019",
+            "state": "future"
+        },
+        "turbospeed.info": {
+            "epoch": "1542153600",
+            "expiration_date": "14-nov-2018",
+            "state": "future"
+        },
+        "turelatoporno.com": {
+            "epoch": "1570060800",
+            "expiration_date": "03-oct-2019",
+            "state": "future"
+        },
+        "turist-strani.ru": {
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
+            "state": "future"
+        },
+        "turkerotica.com": {
+            "epoch": "1544486400",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "turkerotica.net": {
+            "epoch": "1544745600",
+            "expiration_date": "14-dec-2018",
+            "state": "future"
+        },
+        "turkeyduster.com": {
+            "epoch": "1544918400",
+            "expiration_date": "16-dec-2018",
+            "state": "future"
+        },
+        "turkishporno.info": {
+            "epoch": "1548201600",
+            "expiration_date": "23-jan-2019",
+            "state": "future"
+        },
+        "turkishsikis.net": {
+            "epoch": "1547510400",
+            "expiration_date": "15-jan-2019",
+            "state": "future"
+        },
+        "turkpornofilmleri.com": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "future"
+        },
+        "turtlediary.co": {
+            "epoch": "1561420800",
+            "expiration_date": "25-jun-2019",
+            "state": "future"
+        },
+        "turtlejar.com": {
+            "epoch": "1548115200",
+            "expiration_date": "22-jan-2019",
+            "state": "future"
+        },
+        "turvgori.ru": {
+            "epoch": "1569456000",
+            "expiration_date": "26-sep-2019",
             "state": "future"
         },
         "tusgatitas.com": {
@@ -32055,6 +32500,11 @@
             "expiration_date": "21-dec-2018",
             "state": "future"
         },
+        "uro-scato.biz": {
+            "epoch": "1538438400",
+            "expiration_date": "02-oct-2018",
+            "state": "past"
+        },
         "uroffer.link": {
             "epoch": "1559779200",
             "expiration_date": "06-jun-2019",
@@ -32265,14 +32715,39 @@
             "expiration_date": "05-nov-2018",
             "state": "future"
         },
+        "videos-porno-gratuites.biz": {
+            "epoch": "1537920000",
+            "expiration_date": "26-sep-2018",
+            "state": "past"
+        },
+        "videos-porno.biz": {
+            "epoch": "1539820800",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
+        },
         "videos-porno.tv": {
             "epoch": "1536710400",
             "expiration_date": "12-sep-2018",
             "state": "past"
         },
+        "videos-pornos.biz": {
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
+        },
+        "videos-sexe.biz": {
+            "epoch": "1538265600",
+            "expiration_date": "30-sep-2018",
+            "state": "past"
+        },
         "videos-sexo.com": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "videos-xxx.biz": {
+            "epoch": "1545264000",
+            "expiration_date": "20-dec-2018",
             "state": "future"
         },
         "videoshop.dk": {
@@ -32625,6 +33100,21 @@
             "expiration_date": "02-dec-2019",
             "state": "future"
         },
+        "vwu.co": {
+            "epoch": "1561852800",
+            "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "vx6.biz": {
+            "epoch": "1543104000",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "vyc.co": {
+            "epoch": "1554940800",
+            "expiration_date": "11-apr-2019",
+            "state": "future"
+        },
         "vykup-avto-krasnodar.ru": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
@@ -32658,6 +33148,11 @@
         "w3bdsm.info": {
             "epoch": "1540944000",
             "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "w3data.co": {
+            "epoch": "1555632000",
+            "expiration_date": "19-apr-2019",
             "state": "future"
         },
         "w3javascript.com": {
@@ -32815,10 +33310,20 @@
             "expiration_date": "19-mar-2019",
             "state": "future"
         },
+        "web-proxy.biz": {
+            "epoch": "1539820800",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
+        },
         "web-sex.org": {
             "epoch": "1568851200",
             "expiration_date": "19-sep-2019",
             "state": "future"
+        },
+        "webadvance.club": {
+            "epoch": "1540425600",
+            "expiration_date": "25-oct-2018",
+            "state": "past"
         },
         "webalan.ru": {
             "epoch": "1555027200",
@@ -32888,6 +33393,11 @@
         "webgirlpink.com": {
             "epoch": "1572134400",
             "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "webhostingstar.us": {
+            "epoch": "1548806400",
+            "expiration_date": "30-jan-2019",
             "state": "future"
         },
         "webinfotech.net": {
@@ -32965,6 +33475,11 @@
             "expiration_date": "07-oct-2019",
             "state": "future"
         },
+        "websiteunblocker.us": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
         "websitevaluebot.com": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
@@ -33038,6 +33553,11 @@
         "weevah2.top": {
             "epoch": "1540944000",
             "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "weeze.it": {
+            "epoch": "1563840000",
+            "expiration_date": "23-jul-2019",
             "state": "future"
         },
         "wegetfucked.com": {
@@ -33143,6 +33663,11 @@
         "wholesalejerseys-cheapest.com": {
             "epoch": "1552262400",
             "expiration_date": "11-mar-2019",
+            "state": "future"
+        },
+        "whore-nightclubs.biz": {
+            "epoch": "1542067200",
+            "expiration_date": "13-nov-2018",
             "state": "future"
         },
         "willa-marina.pl": {
@@ -33358,6 +33883,11 @@
         "worldclassautoroc.com": {
             "epoch": "1561075200",
             "expiration_date": "21-jun-2019",
+            "state": "future"
+        },
+        "worldhistory.biz": {
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
             "state": "future"
         },
         "worldinternetauthority.com": {
