@@ -29750,6 +29750,11 @@
             "expiration_date": "09-oct-2019",
             "state": "future"
         },
+        "sitopreferito.it": {
+            "epoch": "1551398400",
+            "expiration_date": "01-mar-2019",
+            "state": "future"
+        },
         "situ.it": {
             "epoch": "1557619200",
             "expiration_date": "12-may-2019",
@@ -29853,7 +29858,7 @@
         "skyteens.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "skyway24.ru": {
             "epoch": "1543104000",
@@ -30170,6 +30175,11 @@
             "expiration_date": "01-jun-2019",
             "state": "future"
         },
+        "sokratesolkusz.pl": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
         "soldens.ru": {
             "epoch": "1575590400",
             "expiration_date": "06-dec-2019",
@@ -30350,10 +30360,20 @@
             "expiration_date": "02-oct-2018",
             "state": "past"
         },
+        "ssmklfrn.bid": {
+            "epoch": "1535500800",
+            "expiration_date": "29-aug-2018",
+            "state": "past"
+        },
         "sstroy44.ru": {
             "epoch": "1571616000",
             "expiration_date": "21-oct-2019",
             "state": "future"
+        },
+        "ssuhghnjxbp.bid": {
+            "epoch": "1535241600",
+            "expiration_date": "26-aug-2018",
+            "state": "past"
         },
         "staceyscloset.com": {
             "epoch": "1548979200",
@@ -31060,6 +31080,11 @@
             "expiration_date": "14-dec-2018",
             "state": "future"
         },
+        "sweetcandy.us": {
+            "epoch": "1544313600",
+            "expiration_date": "09-dec-2018",
+            "state": "future"
+        },
         "sweetcum.net": {
             "epoch": "1536192000",
             "expiration_date": "06-sep-2018",
@@ -31078,6 +31103,11 @@
         "sweeties.info": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
+            "state": "future"
+        },
+        "sweeties.ro": {
+            "epoch": "1620000000",
+            "expiration_date": "03-may-2021",
             "state": "future"
         },
         "sweetjenna.com": {
@@ -31336,8 +31366,8 @@
             "state": "future"
         },
         "takeadd.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "takeflyte.com": {
@@ -31705,6 +31735,11 @@
             "expiration_date": "04-jan-2019",
             "state": "future"
         },
+        "thebarn.nu": {
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
         "thebestselectiontgp.com": {
             "epoch": "1570060800",
             "expiration_date": "03-oct-2019",
@@ -31968,6 +32003,11 @@
         "thespybot.com": {
             "epoch": "1544140800",
             "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "thetardistimes.ovh": {
+            "epoch": "1543190400",
+            "expiration_date": "26-nov-2018",
             "state": "future"
         },
         "thetattoohut.com": {
@@ -32590,6 +32630,11 @@
             "expiration_date": "09-dec-2018",
             "state": "future"
         },
+        "transgenders.us": {
+            "epoch": "1536105600",
+            "expiration_date": "05-sep-2018",
+            "state": "past"
+        },
         "transitionblog.com": {
             "epoch": "1562803200",
             "expiration_date": "11-jul-2019",
@@ -32648,6 +32693,11 @@
         "trendingtopics.id": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
+            "state": "future"
+        },
+        "trevin.it": {
+            "epoch": "1557964800",
+            "expiration_date": "16-may-2019",
             "state": "future"
         },
         "tri-slona.org": {
