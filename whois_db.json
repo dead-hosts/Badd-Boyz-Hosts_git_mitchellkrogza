@@ -23715,6 +23715,11 @@
             "expiration_date": "31-oct-2018",
             "state": "future"
         },
+        "porn-w.org": {
+            "epoch": "1830038400",
+            "expiration_date": "29-dec-2027",
+            "state": "future"
+        },
         "porn-x-videos.com": {
             "epoch": "1570147200",
             "expiration_date": "04-oct-2019",
@@ -24560,6 +24565,11 @@
             "expiration_date": "04-dec-2018",
             "state": "future"
         },
+        "pornwindows.com": {
+            "epoch": "1548633600",
+            "expiration_date": "28-jan-2019",
+            "state": "future"
+        },
         "porny.fr": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
@@ -24645,10 +24655,15 @@
             "expiration_date": "26-aug-2019",
             "state": "future"
         },
+        "positivity.it": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
         "postclass.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "postquampro.com": {
             "epoch": "1565481600",
