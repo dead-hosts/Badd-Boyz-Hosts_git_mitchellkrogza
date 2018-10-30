@@ -17433,7 +17433,7 @@
         "katewinslet.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "katrinashotline.net": {
             "epoch": "1570320000",
@@ -18113,7 +18113,7 @@
         "kutjevullen.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "kutwijf.info": {
             "epoch": "1568419200",
@@ -18430,6 +18430,11 @@
             "expiration_date": "23-mar-2019",
             "state": "future"
         },
+        "lanticoforno.it": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
         "lanzarotehoppa.com": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
@@ -18598,7 +18603,7 @@
         "letspee.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "letteshop.com": {
             "epoch": "1545264000",
@@ -18768,7 +18773,7 @@
         "livelnternet.net": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "livenudechat.us": {
             "epoch": "1538092800",
@@ -18798,7 +18803,7 @@
         "love-token.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "lovematch123.com": {
             "epoch": "1537228800",
@@ -19476,8 +19481,8 @@
             "state": "past"
         },
         "mature-porn-sites.info": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "mature-sex-hunter.com": {
@@ -19513,7 +19518,7 @@
         "matureinc.com": {
             "epoch": "1540771200",
             "expiration_date": "29-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "maturelog.biz": {
             "epoch": "1544400000",
@@ -19593,6 +19598,11 @@
         "maturewomenpics.org": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "mauriziobonanomi.it": {
+            "epoch": "1549756800",
+            "expiration_date": "10-feb-2019",
             "state": "future"
         },
         "mavenrestin.com": {
@@ -19883,6 +19893,11 @@
         "meduza-consult.ru": {
             "epoch": "1568764800",
             "expiration_date": "18-sep-2019",
+            "state": "future"
+        },
+        "meendo-free-traffic.ga": {
+            "epoch": "1744848000",
+            "expiration_date": "17-apr-2025",
             "state": "future"
         },
         "meeting-group.com": {
