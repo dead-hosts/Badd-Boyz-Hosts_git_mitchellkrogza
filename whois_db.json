@@ -27275,6 +27275,11 @@
             "expiration_date": "01-nov-2018",
             "state": "future"
         },
+        "sashagreyblog.ga": {
+            "epoch": "1769558400",
+            "expiration_date": "28-jan-2026",
+            "state": "future"
+        },
         "saskiasteele.net": {
             "epoch": "1570492800",
             "expiration_date": "08-oct-2019",
@@ -29451,8 +29456,8 @@
             "state": "future"
         },
         "sheeweknits.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "shegot.info": {
@@ -29651,8 +29656,8 @@
             "state": "future"
         },
         "shockinganals.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "shockingbjs.com": {
