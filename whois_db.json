@@ -2448,7 +2448,7 @@
         "all-blonde.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "all-india-escorts.com": {
             "epoch": "1541462400",
@@ -2473,7 +2473,7 @@
         "all-thumbs.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "all4invest.info": {
             "epoch": "1562716800",
@@ -2663,7 +2663,7 @@
         "allpornpics.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "allpregnantporn.com": {
             "epoch": "1570579200",
@@ -2678,7 +2678,7 @@
         "allsaints.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "allseoservices247.com": {
             "epoch": "1559174400",
@@ -2693,7 +2693,7 @@
         "allsexdomain.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "allshemaleporn.com": {
             "epoch": "1544659200",
@@ -2823,6 +2823,11 @@
         "alphavisions.net": {
             "epoch": "1554249600",
             "expiration_date": "03-apr-2019",
+            "state": "future"
+        },
+        "aluma.it": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
             "state": "future"
         },
         "alupoint.com": {
