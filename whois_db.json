@@ -2918,7 +2918,7 @@
         "amateur-porn.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amateur-pussy-pictures.com": {
             "epoch": "1544572800",
@@ -2948,12 +2948,12 @@
         "amateurgirls.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amateurhardcoreporn.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amateurhuren.org": {
             "epoch": "1569024000",
@@ -2998,7 +2998,7 @@
         "amateursex.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amateursexclips.org": {
             "epoch": "1544054400",
@@ -3038,17 +3038,17 @@
         "amateursrus.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amateurteen.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amateurteens.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amateurtour.biz": {
             "epoch": "1554422400",
@@ -3063,7 +3063,7 @@
         "amateurwives.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "amatorsikis.org": {
             "epoch": "1541721600",
@@ -3133,6 +3133,11 @@
         "ambersstories.nu": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
+            "state": "future"
+        },
+        "ambutec.it": {
+            "epoch": "1552953600",
+            "expiration_date": "19-mar-2019",
             "state": "future"
         },
         "amege.com": {
@@ -3283,7 +3288,7 @@
         "anal-fisting.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "anal-intentions.com": {
             "epoch": "1544400000",
@@ -3293,7 +3298,7 @@
         "anal-links.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "anal-love.net": {
             "epoch": "1547769600",
@@ -3318,12 +3323,12 @@
         "analaction.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "analasian.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "analcreampie.net": {
             "epoch": "1571097600",
@@ -3343,12 +3348,12 @@
         "analfilth.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "analingus.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "analpics.net": {
             "epoch": "1569888000",
@@ -3393,7 +3398,7 @@
         "analsluts.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "ananashotel.com": {
             "epoch": "1565222400",
@@ -3538,7 +3543,7 @@
         "animalhouse.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "answerzones.com": {
             "epoch": "1554076800",
@@ -3808,7 +3813,7 @@
         "artoferotica.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "arvigoshop.com": {
             "epoch": "1559260800",
@@ -3945,6 +3950,11 @@
             "expiration_date": "15-sep-2019",
             "state": "future"
         },
+        "assculturaleincontri.it": {
+            "epoch": "1539648000",
+            "expiration_date": "16-oct-2018",
+            "state": "past"
+        },
         "asseenontv.ru": {
             "epoch": "1565308800",
             "expiration_date": "09-aug-2019",
@@ -3958,11 +3968,16 @@
         "assfuckers.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "auto-deals247.com": {
             "epoch": "1550361600",
             "expiration_date": "17-feb-2019",
+            "state": "future"
+        },
+        "auto-moto-elektronika.cz": {
+            "epoch": "1555891200",
+            "expiration_date": "22-apr-2019",
             "state": "future"
         },
         "auto-zapchasti.org": {
@@ -4145,9 +4160,204 @@
             "expiration_date": "21-jan-2019",
             "state": "future"
         },
+        "avpayments.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "avramstroy.ru": {
+            "epoch": "1549324800",
+            "expiration_date": "05-feb-2019",
+            "state": "future"
+        },
         "b.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "baby-soft.ca": {
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "babylyst.com": {
+            "epoch": "1563408000",
+            "expiration_date": "18-jul-2019",
+            "state": "future"
+        },
+        "babynow.org": {
+            "epoch": "1570752000",
+            "expiration_date": "11-oct-2019",
+            "state": "future"
+        },
+        "babywantsbling.com": {
+            "epoch": "1551139200",
+            "expiration_date": "26-feb-2019",
+            "state": "future"
+        },
+        "bacanal.cl": {
+            "epoch": "1544659200",
+            "expiration_date": "13-dec-2018",
+            "state": "future"
+        },
+        "back.dog": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
+            "state": "future"
+        },
+        "backalleyblowjobs.com": {
+            "epoch": "1544227200",
+            "expiration_date": "08-dec-2018",
+            "state": "future"
+        },
+        "backgroundpictures.net": {
+            "epoch": "1535673600",
+            "expiration_date": "31-aug-2018",
+            "state": "past"
+        },
+        "backlink4u.net": {
+            "epoch": "1570579200",
+            "expiration_date": "09-oct-2019",
+            "state": "future"
+        },
+        "backlinkwatch.com": {
+            "epoch": "1556755200",
+            "expiration_date": "02-may-2019",
+            "state": "future"
+        },
+        "backofficellc.com": {
+            "epoch": "1613520000",
+            "expiration_date": "17-feb-2021",
+            "state": "future"
+        },
+        "backonline.info": {
+            "epoch": "1545523200",
+            "expiration_date": "23-dec-2018",
+            "state": "future"
+        },
+        "backpaininstantrelief.com": {
+            "epoch": "1564185600",
+            "expiration_date": "27-jul-2019",
+            "state": "future"
+        },
+        "backseat-bangers.biz": {
+            "epoch": "1545782400",
+            "expiration_date": "26-dec-2018",
+            "state": "future"
+        },
+        "backseatbangers-porn.info": {
+            "epoch": "1540944000",
+            "expiration_date": "31-oct-2018",
+            "state": "future"
+        },
+        "backvids.com": {
+            "epoch": "1571184000",
+            "expiration_date": "16-oct-2019",
+            "state": "future"
+        },
+        "bahisstratejileri.info": {
+            "epoch": "1567814400",
+            "expiration_date": "07-sep-2019",
+            "state": "future"
+        },
+        "balook.com": {
+            "epoch": "1567468800",
+            "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "baltgem.com": {
+            "epoch": "1596067200",
+            "expiration_date": "30-jul-2020",
+            "state": "future"
+        },
+        "bamrot.com": {
+            "epoch": "1568851200",
+            "expiration_date": "19-sep-2019",
+            "state": "future"
+        },
+        "banan.tv": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
+            "state": "future"
+        },
+        "bananapower.net": {
+            "epoch": "1569628800",
+            "expiration_date": "28-sep-2019",
+            "state": "future"
+        },
+        "bandelstjohns.com": {
+            "epoch": "1570320000",
+            "expiration_date": "06-oct-2019",
+            "state": "future"
+        },
+        "bandisintown.com": {
+            "epoch": "1543104000",
+            "expiration_date": "25-nov-2018",
+            "state": "future"
+        },
+        "bangbrosporn.org": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "bangbross.info": {
+            "epoch": "1548460800",
+            "expiration_date": "26-jan-2019",
+            "state": "future"
+        },
+        "bangherboobs.com": {
+            "epoch": "1544486400",
+            "expiration_date": "11-dec-2018",
+            "state": "future"
+        },
+        "banginamateurs.com": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "bangkokbabes.nu": {
+            "epoch": "1540857600",
+            "expiration_date": "30-oct-2018",
+            "state": "past"
+        },
+        "bangkokcitythumbs.com": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
+            "state": "future"
+        },
+        "banka-navibor.by": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "bankcrediti.ru": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
+        "bankfirsttennessee.biz": {
+            "epoch": "1540339200",
+            "expiration_date": "24-oct-2018",
+            "state": "past"
+        },
+        "banki-credit-online.ru": {
+            "epoch": "1571616000",
+            "expiration_date": "21-oct-2019",
+            "state": "future"
+        },
+        "banki76.ru": {
+            "epoch": "1562457600",
+            "expiration_date": "07-jul-2019",
+            "state": "future"
+        },
+        "bankiem.pl": {
+            "epoch": "1561334400",
+            "expiration_date": "24-jun-2019",
+            "state": "future"
+        },
+        "bankmib.ru": {
+            "epoch": "1549929600",
+            "expiration_date": "12-feb-2019",
             "state": "future"
         },
         "bannerpower.com": {
@@ -4510,6 +4720,11 @@
             "expiration_date": "15-sep-2018",
             "state": "past"
         },
+        "bestwaystogetpaid.us": {
+            "epoch": "1571356800",
+            "expiration_date": "18-oct-2019",
+            "state": "future"
+        },
         "bestwebsiteawards.com": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
@@ -4630,10 +4845,20 @@
             "expiration_date": "28-oct-2018",
             "state": "past"
         },
+        "bewumuhax.bid": {
+            "epoch": "1535241600",
+            "expiration_date": "26-aug-2018",
+            "state": "past"
+        },
         "beyaek3.top": {
             "epoch": "1547942400",
             "expiration_date": "20-jan-2019",
             "state": "future"
+        },
+        "bfz.biz": {
+            "epoch": "1539820800",
+            "expiration_date": "18-oct-2018",
+            "state": "past"
         },
         "bg6s0.com": {
             "epoch": "1550102400",
@@ -4650,6 +4875,11 @@
             "expiration_date": "06-nov-2018",
             "state": "future"
         },
+        "bhmenavkijeufq.bid": {
+            "epoch": "1534896000",
+            "expiration_date": "22-aug-2018",
+            "state": "past"
+        },
         "bhojpurtoday.com": {
             "epoch": "1560297600",
             "expiration_date": "12-jun-2019",
@@ -4660,6 +4890,16 @@
             "expiration_date": "16-oct-2019",
             "state": "future"
         },
+        "bhpipoz.pl": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
+        },
+        "bianche.it": {
+            "epoch": "1555113600",
+            "expiration_date": "13-apr-2019",
+            "state": "future"
+        },
         "bibitu.ru": {
             "epoch": "1560297600",
             "expiration_date": "12-jun-2019",
@@ -4668,6 +4908,11 @@
         "bibys.com": {
             "epoch": "1548288000",
             "expiration_date": "24-jan-2019",
+            "state": "future"
+        },
+        "bier.win": {
+            "epoch": "1633996800",
+            "expiration_date": "12-oct-2021",
             "state": "future"
         },
         "bieshubbs.com": {
@@ -4683,7 +4928,17 @@
         "big-cum-shots.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
+            "state": "past"
+        },
+        "big-dicks.biz": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
             "state": "future"
+        },
+        "big-mammaries.biz": {
+            "epoch": "1538179200",
+            "expiration_date": "29-sep-2018",
+            "state": "past"
         },
         "big-shemale.net": {
             "epoch": "1569542400",
@@ -4708,6 +4963,16 @@
         "bigairusa.com": {
             "epoch": "1562716800",
             "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
+        "bigb00bs.biz": {
+            "epoch": "1538438400",
+            "expiration_date": "02-oct-2018",
+            "state": "past"
+        },
+        "bigblackpussy.biz": {
+            "epoch": "1545091200",
+            "expiration_date": "18-dec-2018",
             "state": "future"
         },
         "bigboobsexpics.com": {
@@ -4750,6 +5015,11 @@
             "expiration_date": "03-mar-2019",
             "state": "future"
         },
+        "bigerotik.biz": {
+            "epoch": "1537920000",
+            "expiration_date": "26-sep-2018",
+            "state": "past"
+        },
         "bigfuckingtits.info": {
             "epoch": "1570320000",
             "expiration_date": "06-oct-2019",
@@ -4775,6 +5045,11 @@
             "expiration_date": "16-aug-2019",
             "state": "future"
         },
+        "bigsearch.biz": {
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
+            "state": "future"
+        },
         "bigsextits.com": {
             "epoch": "1568851200",
             "expiration_date": "19-sep-2019",
@@ -4798,7 +5073,7 @@
         "bigtitporn.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "bigtitshot.com": {
             "epoch": "1544572800",
@@ -4925,6 +5200,26 @@
             "expiration_date": "24-mar-2019",
             "state": "future"
         },
+        "bjgaxcstxlvm.bid": {
+            "epoch": "1536278400",
+            "expiration_date": "07-sep-2018",
+            "state": "past"
+        },
+        "bjknjsfrevt.bid": {
+            "epoch": "1536019200",
+            "expiration_date": "04-sep-2018",
+            "state": "past"
+        },
+        "bjkookfanmxx.bid": {
+            "epoch": "1534377600",
+            "expiration_date": "16-aug-2018",
+            "state": "past"
+        },
+        "bjmrnfwcoqp.bid": {
+            "epoch": "1535673600",
+            "expiration_date": "31-aug-2018",
+            "state": "past"
+        },
         "bjorkbacken.nu": {
             "epoch": "1556841600",
             "expiration_date": "03-may-2019",
@@ -4940,6 +5235,11 @@
             "expiration_date": "18-dec-2018",
             "state": "future"
         },
+        "bjswchnxfoui.bid": {
+            "epoch": "1536451200",
+            "expiration_date": "09-sep-2018",
+            "state": "past"
+        },
         "bjzm365.com": {
             "epoch": "1569369600",
             "expiration_date": "25-sep-2019",
@@ -4949,6 +5249,11 @@
             "epoch": "1569628800",
             "expiration_date": "28-sep-2019",
             "state": "future"
+        },
+        "bkeueifcqeicli.bid": {
+            "epoch": "1536192000",
+            "expiration_date": "06-sep-2018",
+            "state": "past"
         },
         "bkgr.se": {
             "epoch": "1561248000",
@@ -4970,6 +5275,11 @@
             "expiration_date": "29-dec-2018",
             "state": "future"
         },
+        "black-lesbian.biz": {
+            "epoch": "1536883200",
+            "expiration_date": "14-sep-2018",
+            "state": "past"
+        },
         "black-porn-star.net": {
             "epoch": "1548115200",
             "expiration_date": "22-jan-2019",
@@ -4978,17 +5288,22 @@
         "black-porn.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "black-pussy.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "black-sex-links.net": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
             "state": "future"
+        },
+        "black-xxx.biz": {
+            "epoch": "1536883200",
+            "expiration_date": "14-sep-2018",
+            "state": "past"
         },
         "black24porn.com": {
             "epoch": "1568332800",
@@ -5018,7 +5333,7 @@
         "blackbitches.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "blackbreath.com": {
             "epoch": "1571184000",
@@ -5038,7 +5353,7 @@
         "blackcunts.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "blackdnyc.com": {
             "epoch": "1550448000",
@@ -5054,6 +5369,11 @@
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
             "state": "future"
+        },
+        "blackfuck.biz": {
+            "epoch": "1538006400",
+            "expiration_date": "27-sep-2018",
+            "state": "past"
         },
         "blackgirlworld.com": {
             "epoch": "1541030400",
@@ -5093,7 +5413,7 @@
         "blackporno.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "blackpussi.com": {
             "epoch": "1544486400",
@@ -5103,7 +5423,7 @@
         "blackpussy.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "blackscissor.com": {
             "epoch": "1543795200",
@@ -5138,7 +5458,7 @@
         "blackwoman.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "blagovest-med.ru": {
             "epoch": "1574121600",
@@ -5168,7 +5488,7 @@
         "blowjobers.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "blowjobhdmovies.com": {
             "epoch": "1548115200",
@@ -5178,7 +5498,7 @@
         "blowmebaby.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "blowmoldings.com": {
             "epoch": "1565308800",
