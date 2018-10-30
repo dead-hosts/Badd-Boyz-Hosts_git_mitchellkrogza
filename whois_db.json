@@ -9455,6 +9455,11 @@
             "expiration_date": "02-dec-2018",
             "state": "future"
         },
+        "ecialde.it": {
+            "epoch": "1541635200",
+            "expiration_date": "08-nov-2018",
+            "state": "future"
+        },
         "ecigbrandsonreview.com": {
             "epoch": "1569024000",
             "expiration_date": "21-sep-2019",
@@ -9690,6 +9695,11 @@
             "expiration_date": "27-nov-2018",
             "state": "future"
         },
+        "egovaleo.it": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
         "egvar.net": {
             "epoch": "1543708800",
             "expiration_date": "02-dec-2018",
@@ -9830,6 +9840,11 @@
             "expiration_date": "24-jun-2019",
             "state": "future"
         },
+        "elektromax-serwis.pl": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
+            "state": "future"
+        },
         "elevateoperations.com": {
             "epoch": "1569542400",
             "expiration_date": "27-sep-2019",
@@ -9868,7 +9883,7 @@
         "elitegfs.com": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "elitepcgames.com": {
             "epoch": "1560902400",
@@ -9991,13 +10006,18 @@
             "state": "future"
         },
         "enjoy18.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "enjoywebcamsex.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "enklawy.pl": {
+            "epoch": "1543795200",
+            "expiration_date": "03-dec-2018",
             "state": "future"
         },
         "enolpharma.com": {
@@ -10078,7 +10098,7 @@
         "erotikbilder.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "erotikclup.net": {
             "epoch": "1541808000",
@@ -10138,7 +10158,7 @@
         "erotikwelt.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "erotiquement.fr": {
             "epoch": "1549411200",
@@ -10246,9 +10266,9 @@
             "state": "future"
         },
         "etemis.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "ethan.wang": {
             "epoch": "1559260800",
@@ -10498,7 +10518,7 @@
         "exhibisionist.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "exhibits4court.com": {
             "epoch": "1584403200",
@@ -10553,7 +10573,7 @@
         "exoticdancers.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "exoticelaine.com": {
             "epoch": "1546041600",
@@ -10665,6 +10685,11 @@
             "expiration_date": "04-sep-2019",
             "state": "future"
         },
+        "faacebok.pl": {
+            "epoch": "1561507200",
+            "expiration_date": "26-jun-2019",
+            "state": "future"
+        },
         "fabianomotta.com": {
             "epoch": "1548201600",
             "expiration_date": "23-jan-2019",
@@ -10733,6 +10758,11 @@
         "faceow.com": {
             "epoch": "1569715200",
             "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "faceportal.pl": {
+            "epoch": "1544313600",
+            "expiration_date": "09-dec-2018",
             "state": "future"
         },
         "faceyourbook.com": {
@@ -10981,8 +11011,8 @@
             "state": "future"
         },
         "fawcettinsurance.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
             "state": "future"
         },
         "fayesworld.com": {
@@ -11083,7 +11113,7 @@
         "feetfetish.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "feetjobwhores.com": {
             "epoch": "1569715200",
@@ -11230,6 +11260,36 @@
             "expiration_date": "30-sep-2019",
             "state": "future"
         },
+        "fetish-pics.nu": {
+            "epoch": "1540857600",
+            "expiration_date": "30-oct-2018",
+            "state": "past"
+        },
+        "fetish-place.net": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "fetish-s.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "fetish-world.info": {
+            "epoch": "1543017600",
+            "expiration_date": "24-nov-2018",
+            "state": "future"
+        },
+        "fetish-world.nu": {
+            "epoch": "1540857600",
+            "expiration_date": "30-oct-2018",
+            "state": "past"
+        },
+        "fetish-x.com": {
+            "epoch": "1571097600",
+            "expiration_date": "15-oct-2019",
+            "state": "future"
+        },
         "fetish1.com": {
             "epoch": "1568851200",
             "expiration_date": "19-sep-2019",
@@ -11268,6 +11328,156 @@
         "fetishgang.com": {
             "epoch": "1570406400",
             "expiration_date": "07-oct-2019",
+            "state": "future"
+        },
+        "fetishgossip.com": {
+            "epoch": "1570492800",
+            "expiration_date": "08-oct-2019",
+            "state": "future"
+        },
+        "fetishhub.net": {
+            "epoch": "1569715200",
+            "expiration_date": "29-sep-2019",
+            "state": "future"
+        },
+        "fetishinside.com": {
+            "epoch": "1547164800",
+            "expiration_date": "11-jan-2019",
+            "state": "future"
+        },
+        "fetishist.nu": {
+            "epoch": "1536019200",
+            "expiration_date": "04-sep-2018",
+            "state": "past"
+        },
+        "fetishix.net": {
+            "epoch": "1571270400",
+            "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "fetishmaniac.com": {
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "fetishmontreal.com": {
+            "epoch": "1544140800",
+            "expiration_date": "07-dec-2018",
+            "state": "future"
+        },
+        "fetishonlinestore.com": {
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
+        "fetishotel.com": {
+            "epoch": "1569974400",
+            "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "fetishsex.dk": {
+            "epoch": "1532995200",
+            "expiration_date": "31-jul-2018",
+            "state": "past"
+        },
+        "fetishsex.nu": {
+            "epoch": "1536019200",
+            "expiration_date": "04-sep-2018",
+            "state": "past"
+        },
+        "fetiteprofesioniste.biz": {
+            "epoch": "1538006400",
+            "expiration_date": "27-sep-2018",
+            "state": "past"
+        },
+        "fettefrauen.net": {
+            "epoch": "1546646400",
+            "expiration_date": "05-jan-2019",
+            "state": "future"
+        },
+        "fettetitten.net": {
+            "epoch": "1543536000",
+            "expiration_date": "30-nov-2018",
+            "state": "future"
+        },
+        "fhukaja.pl": {
+            "epoch": "1558224000",
+            "expiration_date": "19-may-2019",
+            "state": "future"
+        },
+        "fiberally.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "fick-affairen.com": {
+            "epoch": "1572134400",
+            "expiration_date": "27-oct-2019",
+            "state": "future"
+        },
+        "fickenprivat.info": {
+            "epoch": "1553990400",
+            "expiration_date": "31-mar-2019",
+            "state": "future"
+        },
+        "fickenzz.net": {
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
+            "state": "future"
+        },
+        "fickkontakte.org": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
+        "fickluder69.com": {
+            "epoch": "1557273600",
+            "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "fickvotze.com": {
+            "epoch": "1568678400",
+            "expiration_date": "17-sep-2019",
+            "state": "future"
+        },
+        "fil.ru": {
+            "epoch": "1554076800",
+            "expiration_date": "01-apr-2019",
+            "state": "future"
+        },
+        "filmy-xxx.pl": {
+            "epoch": "1543276800",
+            "expiration_date": "27-nov-2018",
+            "state": "future"
+        },
+        "filost.com": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
+        "filterfixer.com": {
+            "epoch": "1541548800",
+            "expiration_date": "07-nov-2018",
+            "state": "future"
+        },
+        "filthybabes.net": {
+            "epoch": "1567728000",
+            "expiration_date": "06-sep-2019",
+            "state": "future"
+        },
+        "filthysociety.com": {
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
+        },
+        "finance-daily.ru": {
+            "epoch": "1546214400",
+            "expiration_date": "31-dec-2018",
+            "state": "future"
+        },
+        "financialnewsupdates.com": {
+            "epoch": "1571702400",
+            "expiration_date": "22-oct-2019",
             "state": "future"
         },
         "forced-sex.biz": {
@@ -11578,7 +11788,7 @@
         "free-amatuer.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "free-anal.biz": {
             "epoch": "1536883200",
@@ -11591,8 +11801,8 @@
             "state": "future"
         },
         "free-crypto.info": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "free-daily-porn-pics.com": {
@@ -11708,7 +11918,7 @@
         "free-porno.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "free-pornography.com": {
             "epoch": "1547856000",
@@ -11753,7 +11963,7 @@
         "freeanalsex.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freeandyoung.com": {
             "epoch": "1540944000",
@@ -11808,7 +12018,7 @@
         "freecumshots.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freedailyxvids.com": {
             "epoch": "1545782400",
@@ -11828,7 +12038,7 @@
         "freefatsex.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freefootfetish.nu": {
             "epoch": "1545868800",
@@ -11871,9 +12081,9 @@
             "state": "future"
         },
         "freegayporn.biz": {
-            "epoch": "1536796800",
-            "expiration_date": "13-sep-2018",
-            "state": "past"
+            "epoch": "1568332800",
+            "expiration_date": "13-sep-2019",
+            "state": "future"
         },
         "freegothicporn.org": {
             "epoch": "1569024000",
@@ -11883,7 +12093,7 @@
         "freegroupsex.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freehanbam.net": {
             "epoch": "1556323200",
@@ -11973,7 +12183,7 @@
         "freenudes.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freeolders.com": {
             "epoch": "1545177600",
@@ -11983,7 +12193,7 @@
         "freepages.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freepattern.ru": {
             "epoch": "1564358400",
@@ -12053,7 +12263,7 @@
         "freepornopics.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freepornos.biz": {
             "epoch": "1543017600",
@@ -12063,7 +12273,7 @@
         "freepornpics.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "freepornpics.org": {
             "epoch": "1541980800",
@@ -12268,11 +12478,11 @@
         "fuckandsuck.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckbastard.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
             "state": "future"
         },
         "fuckbuddybestgilf.info": {
@@ -12318,7 +12528,7 @@
         "fuckingass.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckingbots.net": {
             "epoch": "1544227200",
@@ -12338,7 +12548,7 @@
         "fuckingpics.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckingpink.com": {
             "epoch": "1544400000",
@@ -12373,7 +12583,7 @@
         "fuckphotos.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckpics.nu": {
             "epoch": "1536019200",
@@ -12393,7 +12603,7 @@
         "fuckpussy.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckshow.nu": {
             "epoch": "1536019200",
@@ -12403,7 +12613,7 @@
         "fuckshows.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckslit.com": {
             "epoch": "1544572800",
@@ -12418,7 +12628,7 @@
         "fuckteens.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fucktesting.com": {
             "epoch": "1548460800",
@@ -12433,7 +12643,7 @@
         "fuckthebeast.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckvalentine.com": {
             "epoch": "1548806400",
@@ -12448,7 +12658,7 @@
         "fuckwomen.nu": {
             "epoch": "1540857600",
             "expiration_date": "30-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "fuckz.net": {
             "epoch": "1544400000",
