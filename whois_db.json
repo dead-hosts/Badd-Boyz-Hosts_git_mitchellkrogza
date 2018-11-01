@@ -388,7 +388,7 @@
         "15bb51.info": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "15x.info": {
             "epoch": "1542499200",
@@ -421,8 +421,8 @@
             "state": "future"
         },
         "17youzi.com": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "1818sex.com": {
@@ -473,7 +473,7 @@
         "18pure.info": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "18teengirl.com": {
             "epoch": "1544745600",
@@ -498,7 +498,7 @@
         "1auntie-phone-sex.info": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "1bet.com": {
             "epoch": "1586476800",
@@ -556,8 +556,8 @@
             "state": "future"
         },
         "1re.info": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "1stat.ru": {
@@ -568,7 +568,7 @@
         "1stproxy.info": {
             "epoch": "1540944000",
             "expiration_date": "31-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "1studio.net": {
             "epoch": "1551052800",
@@ -606,8 +606,8 @@
             "state": "future"
         },
         "2012hacks.info": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "2013tomsshoesforsale.com": {
@@ -916,8 +916,8 @@
             "state": "future"
         },
         "3d-daughter-list.info": {
-            "epoch": "1540944000",
-            "expiration_date": "31-oct-2018",
+            "epoch": "1572480000",
+            "expiration_date": "31-oct-2019",
             "state": "future"
         },
         "3dbluerayplayer.com": {
@@ -1158,7 +1158,7 @@
         "4unblock.info": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "4ur.click": {
             "epoch": "1583280000",
@@ -1181,9 +1181,9 @@
             "state": "future"
         },
         "4xporn.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "4youcom.com": {
             "epoch": "1571270400",
@@ -1223,7 +1223,7 @@
         "529collegesaving.com": {
             "epoch": "1541030400",
             "expiration_date": "01-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "52djcy.com": {
             "epoch": "1543017600",
@@ -1608,7 +1608,7 @@
         "99topnn.info": {
             "epoch": "1540944000",
             "expiration_date": "31-oct-2018",
-            "state": "future"
+            "state": "past"
         },
         "9c51vda.com": {
             "epoch": "1552089600",
@@ -2406,9 +2406,9 @@
             "state": "future"
         },
         "aliecspres.com": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "aliexpresscashback.club": {
             "epoch": "1556323200",
