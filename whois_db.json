@@ -34123,7 +34123,7 @@
         "videoslingerie.com": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "videoslive.net": {
             "epoch": "1542499200",
@@ -34445,6 +34445,11 @@
             "expiration_date": "12-mar-2019",
             "state": "future"
         },
+        "vodlive.pl": {
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
+            "state": "future"
+        },
         "vshs.com": {
             "epoch": "1563062400",
             "expiration_date": "14-jul-2019",
@@ -34726,9 +34731,9 @@
             "state": "future"
         },
         "webcam-sexy.org": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "webcam-whores.com": {
             "epoch": "1544054400",
@@ -34881,9 +34886,9 @@
             "state": "future"
         },
         "webunblockproxy.info": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "weburok.com": {
             "epoch": "1585180800",
@@ -36016,9 +36021,9 @@
             "state": "future"
         },
         "xxxfactors.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "xxxfeast.com": {
             "epoch": "1548547200",
@@ -36131,9 +36136,9 @@
             "state": "future"
         },
         "xxxmom.info": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "xxxmovie.se": {
             "epoch": "1540252800",
@@ -36258,7 +36263,7 @@
         "xxxproam.com": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "xxxpussypics.nu": {
             "epoch": "1540944000",
@@ -36541,9 +36546,9 @@
             "state": "past"
         },
         "ypcpw.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "ypfghpqnkgbxu.bid": {
             "epoch": "1535328000",
@@ -36601,9 +36606,9 @@
             "state": "future"
         },
         "ytqm.org": {
-            "epoch": "1540857600",
-            "expiration_date": "30-oct-2018",
-            "state": "past"
+            "epoch": "1572393600",
+            "expiration_date": "30-oct-2019",
+            "state": "future"
         },
         "yubikk.info": {
             "epoch": "1554336000",
