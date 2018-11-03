@@ -30401,8 +30401,8 @@
             "state": "future"
         },
         "softupdate.net": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "softwareoutfit.com": {
@@ -30501,9 +30501,9 @@
             "state": "future"
         },
         "spasswelt.net": {
-            "epoch": "1534291200",
-            "expiration_date": "15-aug-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "spb-plitka.ru": {
             "epoch": "1573084800",
@@ -30641,9 +30641,9 @@
             "state": "future"
         },
         "stackthatbucks.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "stacyhubert.com": {
             "epoch": "1579824000",
@@ -31741,8 +31741,8 @@
             "state": "future"
         },
         "teenokay.com": {
-            "epoch": "1541116800",
-            "expiration_date": "02-nov-2018",
+            "epoch": "1572652800",
+            "expiration_date": "02-nov-2019",
             "state": "future"
         },
         "teenolga.com": {
@@ -32710,6 +32710,11 @@
             "expiration_date": "12-dec-2018",
             "state": "future"
         },
+        "totalshavingsolution.nu": {
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
+        },
         "totaltits.com": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
@@ -32846,9 +32851,9 @@
             "state": "future"
         },
         "traffictrade.info": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "traffictrade.life": {
             "epoch": "1569456000",
