@@ -5863,7 +5863,7 @@
         "buyforzat5.com": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "buyfriend.ru": {
             "epoch": "1552608000",
@@ -6033,7 +6033,7 @@
         "cammeisjes.info": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "camoandbows.com": {
             "epoch": "1564012800",
