@@ -16728,7 +16728,7 @@
         "interracialsex.nu": {
             "epoch": "1541203200",
             "expiration_date": "03-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "interracialslutsex.com": {
             "epoch": "1544227200",
@@ -17366,9 +17366,9 @@
             "state": "future"
         },
         "juliannmore.com": {
-            "epoch": "1541030400",
-            "expiration_date": "01-nov-2018",
-            "state": "past"
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
         },
         "juliaworld.net": {
             "epoch": "1552435200",
