@@ -6488,7 +6488,7 @@
         "chpoki.com": {
             "epoch": "1541376000",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "chris-ukorg.org": {
             "epoch": "1559952000",
@@ -7511,9 +7511,9 @@
             "state": "future"
         },
         "cumfiesta-pics.info": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "cumfukme.com": {
             "epoch": "1569888000",
@@ -8758,7 +8758,7 @@
         "docfetish.com": {
             "epoch": "1541376000",
             "expiration_date": "05-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "docloudy.com": {
             "epoch": "1579996800",
@@ -9196,9 +9196,9 @@
             "state": "future"
         },
         "dream-x.net": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "dreamboys.nu": {
             "epoch": "1536019200",
