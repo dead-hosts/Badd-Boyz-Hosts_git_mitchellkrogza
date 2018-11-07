@@ -4886,8 +4886,8 @@
             "state": "future"
         },
         "bhavanabank.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "bhmenavkijeufq.bid": {
@@ -5798,7 +5798,7 @@
         "bottegavenetaloewesale.biz": {
             "epoch": "1541462400",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bottrue.com": {
             "epoch": "1541548800",
@@ -5871,9 +5871,9 @@
             "state": "future"
         },
         "buyforzat5.com": {
-            "epoch": "1541203200",
-            "expiration_date": "03-nov-2018",
-            "state": "past"
+            "epoch": "1572739200",
+            "expiration_date": "03-nov-2019",
+            "state": "future"
         },
         "buyfriend.ru": {
             "epoch": "1552608000",
@@ -5916,8 +5916,8 @@
             "state": "future"
         },
         "buyplatformbed.com": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
             "state": "future"
         },
         "buypuppies.ca": {
