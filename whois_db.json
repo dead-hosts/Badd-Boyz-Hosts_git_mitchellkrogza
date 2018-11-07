@@ -851,9 +851,9 @@
             "state": "future"
         },
         "3-dauto.com": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "3-gay.com": {
             "epoch": "1545264000",
@@ -1691,24 +1691,24 @@
             "state": "future"
         },
         "a48.info": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "a62.info": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "a71.info": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "a74.info": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "a7search.com": {
             "epoch": "1543276800",
@@ -1721,9 +1721,9 @@
             "state": "future"
         },
         "a94.info": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "aa08daf7e13b6345e09e92f771507fa5f4.com": {
             "epoch": "1545868800",
@@ -1871,9 +1871,9 @@
             "state": "future"
         },
         "abacusnet.info": {
-            "epoch": "1541376000",
-            "expiration_date": "05-nov-2018",
-            "state": "past"
+            "epoch": "1572912000",
+            "expiration_date": "05-nov-2019",
+            "state": "future"
         },
         "abacuspresents.com": {
             "epoch": "1546387200",
@@ -1953,7 +1953,7 @@
         "abercrombieport.com": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "abetran.com": {
             "epoch": "1600473600",
@@ -2138,6 +2138,11 @@
         "ad-logics.com": {
             "epoch": "1578096000",
             "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
+        "airmore.co": {
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
             "state": "future"
         },
         "airnetinfotech.com": {
@@ -2526,8 +2531,8 @@
             "state": "future"
         },
         "allbestpantyhose.com": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "allbritishescorts.com": {
