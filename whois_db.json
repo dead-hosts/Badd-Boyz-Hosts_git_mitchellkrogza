@@ -15228,7 +15228,7 @@
         "holidayvoucher.us": {
             "epoch": "1541548800",
             "expiration_date": "07-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "holidayxxx.com": {
             "epoch": "1545868800",
@@ -16768,7 +16768,7 @@
         "intimshop-fantasy.ru": {
             "epoch": "1541462400",
             "expiration_date": "06-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "inventive.ca": {
             "epoch": "1548374400",
@@ -17875,6 +17875,11 @@
             "expiration_date": "28-dec-2018",
             "state": "future"
         },
+        "kimexfinances.ci": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
         "kimsvids.com": {
             "epoch": "1542585600",
             "expiration_date": "19-nov-2018",
@@ -17883,6 +17888,11 @@
         "kimvonmartin.com": {
             "epoch": "1578528000",
             "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
+        "kinesiology.pl": {
+            "epoch": "1572998400",
+            "expiration_date": "06-nov-2019",
             "state": "future"
         },
         "kinesismotorsport.com": {
