@@ -11671,9 +11671,9 @@
             "state": "future"
         },
         "filterfixer.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
-            "state": "past"
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
         },
         "filthybabes.net": {
             "epoch": "1567728000",
@@ -13301,9 +13301,9 @@
             "state": "future"
         },
         "garnirwanda.com": {
-            "epoch": "1541548800",
-            "expiration_date": "07-nov-2018",
-            "state": "past"
+            "epoch": "1573084800",
+            "expiration_date": "07-nov-2019",
+            "state": "future"
         },
         "gay3x.net": {
             "epoch": "1572998400",
@@ -13326,8 +13326,8 @@
             "state": "future"
         },
         "gaybookworld.com": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
+            "epoch": "1573171200",
+            "expiration_date": "08-nov-2019",
             "state": "future"
         },
         "gayboy.biz": {
@@ -14096,8 +14096,8 @@
             "state": "future"
         },
         "gracecore.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "graceevents.org": {
@@ -15388,7 +15388,7 @@
         "hothorneygirls.com": {
             "epoch": "1541721600",
             "expiration_date": "09-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hothotbabes.info": {
             "epoch": "1572739200",
