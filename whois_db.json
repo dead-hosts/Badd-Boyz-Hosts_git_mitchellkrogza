@@ -16771,9 +16771,9 @@
             "state": "future"
         },
         "intimshop-fantasy.ru": {
-            "epoch": "1541462400",
-            "expiration_date": "06-nov-2018",
-            "state": "past"
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
         },
         "inventive.ca": {
             "epoch": "1548374400",
@@ -18931,8 +18931,8 @@
             "state": "future"
         },
         "li122.cn": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "libaa.com": {
