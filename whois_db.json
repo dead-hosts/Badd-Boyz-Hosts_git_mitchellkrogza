@@ -9928,7 +9928,7 @@
         "ehui.info": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "eighteeny.com": {
             "epoch": "1572566400",
@@ -10723,7 +10723,7 @@
         "exhibi-club.com": {
             "epoch": "1541894400",
             "expiration_date": "11-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "exhibicionismo-publico.com": {
             "epoch": "1572480000",
