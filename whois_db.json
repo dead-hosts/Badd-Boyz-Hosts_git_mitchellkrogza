@@ -9671,9 +9671,9 @@
             "state": "future"
         },
         "ecialde.it": {
-            "epoch": "1541635200",
-            "expiration_date": "08-nov-2018",
-            "state": "past"
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
         },
         "ecigbrandsonreview.com": {
             "epoch": "1569024000",
@@ -9926,9 +9926,9 @@
             "state": "future"
         },
         "ehui.info": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "eighteeny.com": {
             "epoch": "1572566400",
@@ -10520,6 +10520,11 @@
             "expiration_date": "10-dec-2018",
             "state": "future"
         },
+        "etymonline.co": {
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
+            "state": "future"
+        },
         "eu-cookie-law.info": {
             "epoch": "1558828800",
             "expiration_date": "26-may-2019",
@@ -10721,9 +10726,9 @@
             "state": "future"
         },
         "exhibi-club.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "exhibicionismo-publico.com": {
             "epoch": "1572480000",
@@ -10848,7 +10853,7 @@
         "exploitedmilf.com": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "explore2be.com": {
             "epoch": "1551312000",
