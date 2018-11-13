@@ -28833,7 +28833,7 @@
         "sexwars.pl": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "sexwebcamsblog.com": {
             "epoch": "1536105600",
@@ -29681,9 +29681,9 @@
             "state": "future"
         },
         "shenzhengarden.com": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
-            "state": "past"
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
+            "state": "future"
         },
         "sherkconstruction.ca": {
             "epoch": "1555545600",
@@ -30776,8 +30776,8 @@
             "state": "future"
         },
         "star-movies.com": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "stardevine.com": {
@@ -31973,6 +31973,11 @@
         "teenxxx.dk": {
             "epoch": "1561852800",
             "expiration_date": "30-jun-2019",
+            "state": "future"
+        },
+        "terpav.com": {
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
             "state": "future"
         },
         "tgps.biz": {
