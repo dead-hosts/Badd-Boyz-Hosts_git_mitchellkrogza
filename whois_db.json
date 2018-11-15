@@ -4053,7 +4053,7 @@
         "av-cash.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "av-db.com": {
             "epoch": "1569628800",
@@ -4626,8 +4626,8 @@
             "state": "future"
         },
         "benifitsaccess.org": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
+            "epoch": "1605398400",
+            "expiration_date": "15-nov-2020",
             "state": "future"
         },
         "benpres-holdings.com": {
@@ -5331,8 +5331,8 @@
             "state": "future"
         },
         "blackandblew.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "blackandthick.com": {
@@ -5593,7 +5593,7 @@
         "boa-plc.com": {
             "epoch": "1542240000",
             "expiration_date": "15-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bombes-orientales.com": {
             "epoch": "1544572800",
@@ -5686,8 +5686,8 @@
             "state": "future"
         },
         "boobs-club.com": {
-            "epoch": "1542153600",
-            "expiration_date": "14-nov-2018",
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "boobshack.com": {
@@ -6576,9 +6576,9 @@
             "state": "future"
         },
         "cialismed.com": {
-            "epoch": "1542067200",
-            "expiration_date": "13-nov-2018",
-            "state": "past"
+            "epoch": "1573603200",
+            "expiration_date": "13-nov-2019",
+            "state": "future"
         },
         "cialisovercounteratwalmartusa.com": {
             "epoch": "1565222400",
@@ -7506,8 +7506,8 @@
             "state": "future"
         },
         "culu.info": {
-            "epoch": "1541894400",
-            "expiration_date": "11-nov-2018",
+            "epoch": "1573430400",
+            "expiration_date": "11-nov-2019",
             "state": "future"
         },
         "cum-facials.nu": {
