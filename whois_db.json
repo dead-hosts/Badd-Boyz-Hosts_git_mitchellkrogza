@@ -10536,9 +10536,9 @@
             "state": "future"
         },
         "eu-survey.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
-            "state": "past"
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
         },
         "eugenevaultstorage.com": {
             "epoch": "1572566400",
@@ -10676,9 +10676,9 @@
             "state": "future"
         },
         "evidencecleanergold.com": {
-            "epoch": "1542240000",
-            "expiration_date": "15-nov-2018",
-            "state": "past"
+            "epoch": "1573776000",
+            "expiration_date": "15-nov-2019",
+            "state": "future"
         },
         "evil69.com": {
             "epoch": "1569628800",
