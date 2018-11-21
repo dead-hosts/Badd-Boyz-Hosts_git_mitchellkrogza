@@ -24348,7 +24348,7 @@
         "pornoups.com": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "pornovideo-gratis.biz": {
             "epoch": "1568419200",
@@ -24456,8 +24456,8 @@
             "state": "past"
         },
         "pornpix.org": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "pornpixx.com": {
@@ -24516,9 +24516,9 @@
             "state": "future"
         },
         "pornsaves.com": {
-            "epoch": "1536537600",
-            "expiration_date": "10-sep-2018",
-            "state": "past"
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "pornseksvideo.com": {
             "epoch": "1572134400",
@@ -26336,9 +26336,9 @@
             "state": "future"
         },
         "quoram.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
-            "state": "past"
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
+            "state": "future"
         },
         "qveoxhidesgy.bid": {
             "epoch": "1534377600",
