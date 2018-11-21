@@ -5153,7 +5153,7 @@
         "bisexland.com": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bismatic.com": {
             "epoch": "1546819200",
@@ -5538,7 +5538,7 @@
         "bluenight.org": {
             "epoch": "1542758400",
             "expiration_date": "21-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bluerobot.info": {
             "epoch": "1573430400",
@@ -5848,6 +5848,11 @@
         "branchlearn.com": {
             "epoch": "1579132800",
             "expiration_date": "16-jan-2020",
+            "state": "future"
+        },
+        "bredesen.dk": {
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "buy-meds24.com": {
@@ -6596,8 +6601,8 @@
             "state": "future"
         },
         "cienum.fr": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "cif.su": {
@@ -7396,8 +7401,8 @@
             "state": "future"
         },
         "crystalxxxmovies.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "cs-gra.pl": {
@@ -9021,8 +9026,8 @@
             "state": "future"
         },
         "doo-interactive.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "dookie.biz": {
@@ -9791,8 +9796,8 @@
             "state": "future"
         },
         "edmyth.com": {
-            "epoch": "1542672000",
-            "expiration_date": "20-nov-2018",
+            "epoch": "1574208000",
+            "expiration_date": "20-nov-2019",
             "state": "future"
         },
         "edosushicresthill.com": {
