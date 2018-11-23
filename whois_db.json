@@ -30625,6 +30625,11 @@
             "expiration_date": "10-sep-2018",
             "state": "past"
         },
+        "spaplanet.pl": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "sparkcognition.co": {
             "epoch": "1561507200",
             "expiration_date": "26-jun-2019",
@@ -31331,8 +31336,8 @@
             "state": "future"
         },
         "survivingthemadness.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "susanholtphotography.com": {
