@@ -31,8 +31,8 @@
             "state": "future"
         },
         "00sexus.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "00webcams.com": {
@@ -271,9 +271,9 @@
             "state": "future"
         },
         "11-15.net": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "11pikachu.ru": {
             "epoch": "1572652800",
@@ -338,7 +338,7 @@
         "12research.com": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "12u.info": {
             "epoch": "1557619200",
@@ -676,8 +676,8 @@
             "state": "future"
         },
         "24tradeplus.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "24videos.tv": {
@@ -1256,8 +1256,8 @@
             "state": "future"
         },
         "5dimessports.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "5finder.com": {
@@ -1333,7 +1333,7 @@
         "666s.info": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "66av.cc": {
             "epoch": "1537401600",
@@ -1376,8 +1376,8 @@
             "state": "future"
         },
         "6ftlady.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "6server.com": {
@@ -1573,7 +1573,7 @@
         "9000videos.com": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "90i.info": {
             "epoch": "1547942400",
@@ -1633,7 +1633,7 @@
         "9hp.info": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "9ics.cn": {
             "epoch": "1570233600",
