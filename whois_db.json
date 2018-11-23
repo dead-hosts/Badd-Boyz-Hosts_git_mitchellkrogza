@@ -5151,9 +5151,9 @@
             "state": "future"
         },
         "bisexland.com": {
-            "epoch": "1542758400",
-            "expiration_date": "21-nov-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "bismatic.com": {
             "epoch": "1546819200",
@@ -5556,8 +5556,8 @@
             "state": "future"
         },
         "bluesman.nu": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "blumepower.net": {
@@ -5606,9 +5606,9 @@
             "state": "future"
         },
         "bondage-here.com": {
-            "epoch": "1536710400",
-            "expiration_date": "12-sep-2018",
-            "state": "past"
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
+            "state": "future"
         },
         "bondage-porn.net": {
             "epoch": "1570147200",
@@ -5748,12 +5748,12 @@
         "bootsonclearance.info": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bootsoutlets-store12.info": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "bootydancer.com": {
             "epoch": "1571184000",
@@ -6598,6 +6598,11 @@
         "ciceklioglu.com": {
             "epoch": "1668988800",
             "expiration_date": "21-nov-2022",
+            "state": "future"
+        },
+        "ciekawinki.pl": {
+            "epoch": "1574294400",
+            "expiration_date": "21-nov-2019",
             "state": "future"
         },
         "cienum.fr": {
@@ -8395,6 +8400,11 @@
             "expiration_date": "28-nov-2018",
             "state": "future"
         },
+        "deviltorrents.pl": {
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
+            "state": "future"
+        },
         "diarioaconcagua.com": {
             "epoch": "1562025600",
             "expiration_date": "02-jul-2019",
@@ -8733,6 +8743,11 @@
         "dkvorota.ru": {
             "epoch": "1545004800",
             "expiration_date": "17-dec-2018",
+            "state": "future"
+        },
+        "dlesite.ru": {
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "dlruifeng.com": {
