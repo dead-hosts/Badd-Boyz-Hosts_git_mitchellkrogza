@@ -248,7 +248,7 @@
         "101gals.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "101raccoon.ru": {
             "epoch": "1555632000",
@@ -648,7 +648,7 @@
         "24-xxx.biz": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "24695.com": {
             "epoch": "1565568000",
@@ -738,7 +738,7 @@
         "2chicks1dick.biz": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "2gaap.com": {
             "epoch": "1569715200",
@@ -971,8 +971,8 @@
             "state": "future"
         },
         "3lm.info": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "3porno.org": {
@@ -1403,7 +1403,7 @@
         "724106.biz": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "72impala.com": {
             "epoch": "1551398400",
@@ -1621,8 +1621,8 @@
             "state": "future"
         },
         "9fb.info": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "9h7n8.com": {
@@ -1713,7 +1713,7 @@
         "a7search.com": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "a85.info": {
             "epoch": "1570492800",
@@ -2323,7 +2323,7 @@
         "alessandroesse.biz": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "alexa-silver.com": {
             "epoch": "1549411200",
@@ -2518,7 +2518,7 @@
         "allavailable.me": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "allbdpaper.com": {
             "epoch": "1552089600",
