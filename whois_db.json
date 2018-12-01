@@ -1126,9 +1126,9 @@
             "state": "future"
         },
         "4realzed.com": {
-            "epoch": "1537488000",
-            "expiration_date": "21-sep-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "4replicawatch.net": {
             "epoch": "1565049600",
@@ -1548,7 +1548,7 @@
         "8streams.com": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "8teentrannies.com": {
             "epoch": "1544486400",
@@ -3026,8 +3026,8 @@
             "state": "future"
         },
         "amateursexplace.com": {
-            "epoch": "1543536000",
-            "expiration_date": "30-nov-2018",
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
             "state": "future"
         },
         "amateursexshop.us": {
