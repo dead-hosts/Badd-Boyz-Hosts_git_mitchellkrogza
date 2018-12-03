@@ -34900,6 +34900,11 @@
             "expiration_date": "19-mar-2019",
             "state": "future"
         },
+        "web-play.ru": {
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
+            "state": "future"
+        },
         "web-proxy.biz": {
             "epoch": "1539820800",
             "expiration_date": "18-oct-2018",
@@ -35551,8 +35556,8 @@
             "state": "future"
         },
         "worldwideporno.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "worthlessporn.com": {
