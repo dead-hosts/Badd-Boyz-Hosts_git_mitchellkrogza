@@ -24403,7 +24403,7 @@
         "pornotum.com": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "pornotuvo.com": {
             "epoch": "1546041600",
@@ -26536,8 +26536,8 @@
             "state": "future"
         },
         "rapexxx.org": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "rapidgator-porn.ga": {
