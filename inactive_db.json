@@ -1424,9 +1424,7 @@
             "ring4rhino.com",
             "rivaajplanner.com",
             "rniaeba.ga",
-            "rociofashion.com"
-        ],
-        "to_test": [
+            "rociofashion.com",
             "ypfghpqnkgbxu.bid",
             "yqmvckcnojc.bid",
             "yrfjqlpvrc.bid",
@@ -1435,8 +1433,8 @@
             "ytjadaazjjy.bid",
             "ytmmpddn.bid",
             "yzhsqdexo.top",
-            "za-rejestruj.pl",
             "zapatos.net.pl",
+            "za-rejestruj.pl",
             "zcfywnicu.top",
             "zdbzkrphx.bid",
             "zebramart.ru",
@@ -1450,6 +1448,7 @@
             "zqzcphioh.top",
             "zwariowane.pl",
             "zyv.tiziana.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
