@@ -4223,7 +4223,7 @@
         "bacanal.cl": {
             "epoch": "1544659200",
             "expiration_date": "13-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "back.dog": {
             "epoch": "1569110400",
