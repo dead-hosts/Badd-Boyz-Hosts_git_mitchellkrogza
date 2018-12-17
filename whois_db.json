@@ -3433,7 +3433,7 @@
         "ancome.ru": {
             "epoch": "1544918400",
             "expiration_date": "16-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "andersondiamonds.com": {
             "epoch": "1563062400",
