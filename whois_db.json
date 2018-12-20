@@ -5668,7 +5668,7 @@
         "bonzaivids.com": {
             "epoch": "1545264000",
             "expiration_date": "20-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "bonzbuddy.com": {
             "epoch": "1574899200",
@@ -7351,9 +7351,9 @@
             "state": "future"
         },
         "creamdolls.com": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
-            "state": "past"
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
         },
         "creameet.com": {
             "epoch": "1555718400",
@@ -7571,8 +7571,8 @@
             "state": "future"
         },
         "cumingayass.net": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
             "state": "future"
         },
         "cumluv.com": {
@@ -9046,9 +9046,9 @@
             "state": "future"
         },
         "donna7753191.ru": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "donnemature.org": {
             "epoch": "1569196800",
