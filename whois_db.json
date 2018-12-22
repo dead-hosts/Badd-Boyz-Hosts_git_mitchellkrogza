@@ -36768,7 +36768,7 @@
         "youtoner.it": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "youtube-proxy.info": {
             "epoch": "1574899200",
@@ -37266,9 +37266,9 @@
             "state": "future"
         },
         "zorras.cc": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
-            "state": "past"
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
         },
         "zssdi.it": {
             "epoch": "1573862400",

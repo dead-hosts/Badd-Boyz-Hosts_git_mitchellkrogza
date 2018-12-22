@@ -1438,9 +1438,7 @@
             "route666.se",
             "rsg-releases.pw",
             "run4anywhere.com",
-            "rvfybrjcr.top"
-        ],
-        "to_test": [
+            "rvfybrjcr.top",
             "youri.nu",
             "ypfghpqnkgbxu.bid",
             "yqmvckcnojc.bid",
@@ -1450,8 +1448,8 @@
             "ytjadaazjjy.bid",
             "ytmmpddn.bid",
             "yzhsqdexo.top",
-            "za-rejestruj.pl",
             "zapatos.net.pl",
+            "za-rejestruj.pl",
             "zcfywnicu.top",
             "zdbzkrphx.bid",
             "zebramart.ru",
@@ -1464,6 +1462,7 @@
             "zqal.xyz",
             "zqzcphioh.top",
             "zyv.tiziana.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
