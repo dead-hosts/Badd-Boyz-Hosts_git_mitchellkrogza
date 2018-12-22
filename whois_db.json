@@ -5666,9 +5666,9 @@
             "state": "future"
         },
         "bonzaivids.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
-            "state": "past"
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
         },
         "bonzbuddy.com": {
             "epoch": "1574899200",
@@ -6926,8 +6926,8 @@
             "state": "future"
         },
         "com-news24.com": {
-            "epoch": "1545350400",
-            "expiration_date": "21-dec-2018",
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "com-pro1.us": {
@@ -12263,7 +12263,7 @@
         "freeasianvideos.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "freeass.nu": {
             "epoch": "1536019200",
@@ -12298,7 +12298,7 @@
         "freecartoonxxx.com": {
             "epoch": "1545436800",
             "expiration_date": "22-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "freecex.com": {
             "epoch": "1571961600",
