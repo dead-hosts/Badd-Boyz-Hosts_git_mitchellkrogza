@@ -3601,9 +3601,9 @@
             "state": "future"
         },
         "aphroditeshaven.com": {
-            "epoch": "1545264000",
-            "expiration_date": "20-dec-2018",
-            "state": "past"
+            "epoch": "1576800000",
+            "expiration_date": "20-dec-2019",
+            "state": "future"
         },
         "api-apple.com": {
             "epoch": "1548028800",
