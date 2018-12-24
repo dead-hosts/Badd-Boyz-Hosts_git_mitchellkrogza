@@ -601,9 +601,9 @@
             "state": "future"
         },
         "2012countdown.info": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
-            "state": "past"
+            "epoch": "1576972800",
+            "expiration_date": "22-dec-2019",
+            "state": "future"
         },
         "2012hacks.info": {
             "epoch": "1572480000",
@@ -943,7 +943,7 @@
         "3dporn.biz": {
             "epoch": "1545609600",
             "expiration_date": "24-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "3dsemulator.info": {
             "epoch": "1568851200",
@@ -1778,7 +1778,7 @@
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "epoch": "1545609600",
             "expiration_date": "24-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "epoch": "1547769600",
@@ -2071,8 +2071,8 @@
             "state": "future"
         },
         "acoustoopticmodulator.com": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "acproyectos.com": {
@@ -2396,8 +2396,8 @@
             "state": "future"
         },
         "algawhra.com": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "algodon.net": {
