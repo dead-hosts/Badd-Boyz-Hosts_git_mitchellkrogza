@@ -201,8 +201,8 @@
             "state": "future"
         },
         "1000russianwomen.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "1000websporno.com": {
@@ -1386,8 +1386,8 @@
             "state": "future"
         },
         "6stuff.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "7156.info": {
@@ -1523,7 +1523,7 @@
         "88square.biz": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "8gold.com": {
             "epoch": "1574121600",
@@ -1591,8 +1591,8 @@
             "state": "future"
         },
         "94cdn.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "98oi.ru": {
@@ -1776,9 +1776,9 @@
             "state": "future"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
-            "state": "past"
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
         },
         "aac52006ec82a24e08b665f4db2b5013f7.com": {
             "epoch": "1547769600",
