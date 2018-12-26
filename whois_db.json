@@ -12231,9 +12231,9 @@
             "state": "future"
         },
         "free4gay.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
-            "state": "past"
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
         },
         "freeact.info": {
             "epoch": "1569024000",
@@ -12313,7 +12313,7 @@
         "freedailyxvids.com": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "freediversion.com": {
             "epoch": "1536624000",
@@ -12393,7 +12393,7 @@
         "freehdmovies.biz": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "freehealthpoints.com": {
             "epoch": "1559260800",
