@@ -24298,7 +24298,7 @@
         "pornosikistv.net": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "pornosite.tv": {
             "epoch": "1547683200",
@@ -24736,9 +24736,9 @@
             "state": "future"
         },
         "pornstarspic.com": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
-            "state": "past"
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
+            "state": "future"
         },
         "pornstarswearingstockings.com": {
             "epoch": "1575417600",
