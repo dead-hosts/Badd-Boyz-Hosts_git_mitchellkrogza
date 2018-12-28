@@ -1439,9 +1439,7 @@
             "salat.pl",
             "sallysdottrar.se",
             "sandra-strip.de",
-            "sandstr2.de"
-        ],
-        "to_test": [
+            "sandstr2.de",
             "ypfghpqnkgbxu.bid",
             "yqmvckcnojc.bid",
             "yrfjqlpvrc.bid",
@@ -1450,8 +1448,8 @@
             "ytjadaazjjy.bid",
             "ytmmpddn.bid",
             "yzhsqdexo.top",
-            "za-rejestruj.pl",
             "zapatos.net.pl",
+            "za-rejestruj.pl",
             "zcfywnicu.top",
             "zdbzkrphx.bid",
             "zebramart.ru",
@@ -1464,6 +1462,7 @@
             "zqal.xyz",
             "zqzcphioh.top",
             "zyv.tiziana.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
