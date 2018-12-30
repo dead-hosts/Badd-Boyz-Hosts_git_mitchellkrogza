@@ -30611,8 +30611,8 @@
             "state": "past"
         },
         "softlinesolutions.me": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "softomix.com": {
@@ -30708,7 +30708,7 @@
         "spankingvideo.us": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "spankme.info": {
             "epoch": "1568851200",
@@ -30936,9 +30936,9 @@
             "state": "future"
         },
         "stansporn.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
-            "state": "past"
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
         },
         "stanthonyscatholicchurch.org": {
             "epoch": "1564876800",
@@ -35381,8 +35381,8 @@
             "state": "future"
         },
         "wineration.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "winerd.com": {
@@ -36230,6 +36230,11 @@
             "expiration_date": "03-oct-2019",
             "state": "future"
         },
+        "xxxadultsextoys.com": {
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
+            "state": "future"
+        },
         "xxxage.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
@@ -36471,9 +36476,9 @@
             "state": "past"
         },
         "xxxperfect.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
-            "state": "past"
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
+            "state": "future"
         },
         "xxxperv.com": {
             "epoch": "1569974400",
