@@ -206,9 +206,9 @@
             "state": "future"
         },
         "1000websporno.com": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
-            "state": "past"
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
+            "state": "future"
         },
         "1001lingerie.com": {
             "epoch": "1547769600",
@@ -1351,8 +1351,8 @@
             "state": "past"
         },
         "69lingerie.com": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
             "state": "future"
         },
         "69proof.com": {
@@ -1363,7 +1363,7 @@
         "69tubex.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "6amateure.net": {
             "epoch": "1570320000",
@@ -2053,7 +2053,7 @@
         "acneforums.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "acompanhantesdeportugal.com": {
             "epoch": "1546905600",
