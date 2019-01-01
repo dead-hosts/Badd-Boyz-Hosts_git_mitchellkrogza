@@ -10833,7 +10833,7 @@
         "exoticaproductions.com": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "exoticclubhouse.com": {
             "epoch": "1572480000",
@@ -10846,8 +10846,8 @@
             "state": "past"
         },
         "exoticelaine.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "exoticpornshow.com": {
@@ -11091,8 +11091,8 @@
             "state": "future"
         },
         "factwest.com": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
             "state": "future"
         },
         "fades.biz": {
@@ -16498,7 +16498,7 @@
         "imagegalleries.org": {
             "epoch": "1546300800",
             "expiration_date": "01-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "imageprostyle-communication.fr": {
             "epoch": "1566259200",
@@ -16791,8 +16791,8 @@
             "state": "future"
         },
         "internetartfair.com": {
-            "epoch": "1546300800",
-            "expiration_date": "01-jan-2019",
+            "epoch": "1577836800",
+            "expiration_date": "01-jan-2020",
             "state": "future"
         },
         "internetoboz.ru": {
