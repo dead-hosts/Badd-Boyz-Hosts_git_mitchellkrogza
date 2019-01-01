@@ -19941,8 +19941,8 @@
             "state": "future"
         },
         "maturesex365.com": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
             "state": "future"
         },
         "maturesexdreams.com": {
@@ -28543,7 +28543,7 @@
         "sexguiden.dk": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "sexharassed.com": {
             "epoch": "1573257600",
