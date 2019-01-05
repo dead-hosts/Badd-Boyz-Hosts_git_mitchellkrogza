@@ -146,8 +146,8 @@
             "state": "future"
         },
         "0nn.info": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "0ping.info": {
@@ -866,8 +866,8 @@
             "state": "future"
         },
         "300sk.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "30sec.info": {
@@ -1413,7 +1413,7 @@
         "7438.info": {
             "epoch": "1546646400",
             "expiration_date": "05-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "777-club.ru": {
             "epoch": "1551052800",
@@ -1771,9 +1771,9 @@
             "state": "future"
         },
         "aab94f698f36684c5a852a2ef272e031bb.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
-            "state": "past"
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
+            "state": "future"
         },
         "aac500b7a15b2646968f6bd8c6305869d7.com": {
             "epoch": "1577145600",
