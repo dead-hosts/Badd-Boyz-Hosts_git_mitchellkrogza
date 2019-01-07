@@ -668,7 +668,7 @@
         "24holdem.com": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "24sexycams.com": {
             "epoch": "1576368000",
@@ -1411,9 +1411,9 @@
             "state": "future"
         },
         "7438.info": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
-            "state": "past"
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "777-club.ru": {
             "epoch": "1551052800",
@@ -1758,6 +1758,11 @@
         "aaa419.com": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
+        "aaad.pl": {
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "aaannuairex.com": {
@@ -3023,7 +3028,7 @@
         "amateursexdvd.com": {
             "epoch": "1546819200",
             "expiration_date": "07-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "amateursexplace.com": {
             "epoch": "1575072000",
@@ -3541,8 +3546,8 @@
             "state": "future"
         },
         "animal-drawings.com": {
-            "epoch": "1546732800",
-            "expiration_date": "06-jan-2019",
+            "epoch": "1578268800",
+            "expiration_date": "06-jan-2020",
             "state": "future"
         },
         "animal36.com": {
