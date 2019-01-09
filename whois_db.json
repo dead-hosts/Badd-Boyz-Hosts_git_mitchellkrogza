@@ -8326,8 +8326,8 @@
             "state": "future"
         },
         "design-lands.ru": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "designdevise.com": {
@@ -8478,7 +8478,7 @@
         "dickwhacker.com": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "dicky.pl": {
             "epoch": "1573257600",
@@ -8906,8 +8906,8 @@
             "state": "future"
         },
         "doeco.ru": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
             "state": "future"
         },
         "dog.ca": {
@@ -9908,7 +9908,7 @@
         "educs.in": {
             "epoch": "1546992000",
             "expiration_date": "09-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "edudktabmq.bid": {
             "epoch": "1534809600",
