@@ -4181,8 +4181,8 @@
             "state": "future"
         },
         "avon-severozapad.ru": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "avon-ukraine.com": {
@@ -6598,7 +6598,7 @@
         "ci3ixee8.com": {
             "epoch": "1547164800",
             "expiration_date": "11-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cialisforsalecialiscostcye.com": {
             "epoch": "1571961600",
@@ -8081,8 +8081,8 @@
             "state": "future"
         },
         "dartz.fr": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "darxk.com": {
@@ -8181,8 +8181,8 @@
             "state": "future"
         },
         "deluxedumps.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
             "state": "future"
         },
         "demarsnc.it": {
@@ -8216,8 +8216,8 @@
             "state": "future"
         },
         "dengi-pod-zalog-nedvizhimosti.ru": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "denizlihorozusatisi.com": {
@@ -8296,9 +8296,9 @@
             "state": "future"
         },
         "derinceozelders.com": {
-            "epoch": "1534464000",
-            "expiration_date": "17-aug-2018",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "descargar-musica-gratis.net": {
             "epoch": "1572480000",
@@ -8351,8 +8351,8 @@
             "state": "future"
         },
         "destinationsrvmaine.com": {
-            "epoch": "1547078400",
-            "expiration_date": "10-jan-2019",
+            "epoch": "1578614400",
+            "expiration_date": "10-jan-2020",
             "state": "future"
         },
         "destop.org": {
@@ -8476,9 +8476,9 @@
             "state": "future"
         },
         "dickwhacker.com": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
-            "state": "past"
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
         },
         "dicky.pl": {
             "epoch": "1573257600",
@@ -9906,9 +9906,9 @@
             "state": "future"
         },
         "educs.in": {
-            "epoch": "1546992000",
-            "expiration_date": "09-jan-2019",
-            "state": "past"
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
         },
         "edudktabmq.bid": {
             "epoch": "1534809600",
