@@ -16006,9 +16006,9 @@
             "state": "past"
         },
         "humorflow.com": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "humorpool.com": {
             "epoch": "1571875200",
@@ -17741,8 +17741,8 @@
             "state": "future"
         },
         "karachev-city.ru": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "karadene.com": {
