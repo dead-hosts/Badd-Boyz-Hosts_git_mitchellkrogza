@@ -24173,7 +24173,7 @@
         "porno-transsexuals.ru": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "porno-v1.com": {
             "epoch": "1567728000",
@@ -24426,9 +24426,9 @@
             "state": "future"
         },
         "pornoton.net": {
-            "epoch": "1547164800",
-            "expiration_date": "11-jan-2019",
-            "state": "past"
+            "epoch": "1578700800",
+            "expiration_date": "11-jan-2020",
+            "state": "future"
         },
         "pornotoon.net": {
             "epoch": "1548115200",
