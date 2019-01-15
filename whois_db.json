@@ -9886,8 +9886,8 @@
             "state": "future"
         },
         "education-cz.ru": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
             "state": "future"
         },
         "educationalmail.com": {
@@ -9998,7 +9998,7 @@
         "eireloom.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "eixst.ru": {
             "epoch": "1548547200",
@@ -10128,7 +10128,7 @@
         "eliga88.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "elile.ru": {
             "epoch": "1551139200",
