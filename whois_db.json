@@ -26458,7 +26458,7 @@
         "quoo4ae.top": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "quoram.com": {
             "epoch": "1574121600",
@@ -28566,9 +28566,9 @@
             "state": "past"
         },
         "sexguiden.dk": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
-            "state": "past"
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
         },
         "sexharassed.com": {
             "epoch": "1573257600",
@@ -28751,9 +28751,9 @@
             "state": "future"
         },
         "sexoengrupo.net": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
-            "state": "past"
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
         },
         "sexoextraterrestre.com": {
             "epoch": "1576195200",
@@ -29723,7 +29723,7 @@
         "shaylarentube.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "shchaoneng.cn": {
             "epoch": "1574985600",
@@ -29916,9 +29916,9 @@
             "state": "future"
         },
         "shit4shit.com": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
-            "state": "past"
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
         },
         "shitmovs.com": {
             "epoch": "1573171200",
