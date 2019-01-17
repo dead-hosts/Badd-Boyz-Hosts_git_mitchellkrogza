@@ -6926,8 +6926,8 @@
             "state": "future"
         },
         "com-nbc-news.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "com-news24.com": {
@@ -7151,9 +7151,9 @@
             "state": "future"
         },
         "coolbar.pro": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
-            "state": "past"
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
         },
         "coolemailnames.com": {
             "epoch": "1554768000",
@@ -7698,7 +7698,7 @@
         "customcedarfencesofmichigan.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "customchopperstuff.com": {
             "epoch": "1564444800",
@@ -8383,7 +8383,7 @@
         "detroitexotics.com": {
             "epoch": "1547683200",
             "expiration_date": "17-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "detskehry.cz": {
             "epoch": "1571356800",
@@ -9816,8 +9816,8 @@
             "state": "future"
         },
         "edgewaterconst.com": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "edibrooks.com": {
@@ -9996,9 +9996,9 @@
             "state": "future"
         },
         "eireloom.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
-            "state": "past"
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
         },
         "eixst.ru": {
             "epoch": "1548547200",
@@ -10126,9 +10126,9 @@
             "state": "future"
         },
         "eliga88.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
-            "state": "past"
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
         },
         "elile.ru": {
             "epoch": "1551139200",
@@ -11341,9 +11341,9 @@
             "state": "future"
         },
         "fdetc.org": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
-            "state": "past"
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
+            "state": "future"
         },
         "fdzone.org": {
             "epoch": "1577491200",
