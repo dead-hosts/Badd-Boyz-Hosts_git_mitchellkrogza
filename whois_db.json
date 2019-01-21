@@ -5646,9 +5646,9 @@
             "state": "future"
         },
         "bondagefilm.dk": {
-            "epoch": "1546214400",
-            "expiration_date": "31-dec-2018",
-            "state": "past"
+            "epoch": "1577750400",
+            "expiration_date": "31-dec-2019",
+            "state": "future"
         },
         "bondagemart.com": {
             "epoch": "1570838400",
@@ -6921,9 +6921,9 @@
             "state": "future"
         },
         "com-msnbcnews.com": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
-            "state": "past"
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
+            "state": "future"
         },
         "com-nbc-news.com": {
             "epoch": "1579132800",
@@ -7126,8 +7126,8 @@
             "state": "future"
         },
         "cookevegas.com": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "cookingmeat.ru": {
@@ -8871,8 +8871,8 @@
             "state": "future"
         },
         "doctorpear.com": {
-            "epoch": "1547942400",
-            "expiration_date": "20-jan-2019",
+            "epoch": "1579478400",
+            "expiration_date": "20-jan-2020",
             "state": "future"
         },
         "doctorshe.com": {
@@ -9971,9 +9971,9 @@
             "state": "past"
         },
         "egovaleo.it": {
-            "epoch": "1546646400",
-            "expiration_date": "05-jan-2019",
-            "state": "past"
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "egvar.net": {
             "epoch": "1575244800",
@@ -10543,7 +10543,7 @@
         "etek.club": {
             "epoch": "1547942400",
             "expiration_date": "20-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "etemis.com": {
             "epoch": "1572220800",
@@ -11213,6 +11213,11 @@
         "fanfuxxx.com": {
             "epoch": "1571702400",
             "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "fanskoda.pl": {
+            "epoch": "1579564800",
+            "expiration_date": "21-jan-2020",
             "state": "future"
         },
         "fastsexsearch.com": {
