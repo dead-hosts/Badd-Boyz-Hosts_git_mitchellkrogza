@@ -35591,8 +35591,8 @@
             "state": "future"
         },
         "worldis.me": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
             "state": "future"
         },
         "worldlovers.ru": {
@@ -36348,7 +36348,7 @@
         "xxxfeast.com": {
             "epoch": "1548547200",
             "expiration_date": "27-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "xxxfiles.dk": {
             "epoch": "1569801600",
@@ -36576,8 +36576,8 @@
             "state": "past"
         },
         "xxxpowed.info": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "xxxproam.com": {
@@ -36626,8 +36626,8 @@
             "state": "future"
         },
         "xxxreviews.info": {
-            "epoch": "1548374400",
-            "expiration_date": "25-jan-2019",
+            "epoch": "1579910400",
+            "expiration_date": "25-jan-2020",
             "state": "future"
         },
         "xxxrocket.com": {
@@ -36646,8 +36646,8 @@
             "state": "future"
         },
         "xxxsexclass.com": {
-            "epoch": "1548115200",
-            "expiration_date": "22-jan-2019",
+            "epoch": "1579651200",
+            "expiration_date": "22-jan-2020",
             "state": "future"
         },
         "xxxsexnude.com": {
@@ -36841,9 +36841,9 @@
             "state": "future"
         },
         "youtoner.it": {
-            "epoch": "1545436800",
-            "expiration_date": "22-dec-2018",
-            "state": "past"
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
         },
         "youtube-proxy.info": {
             "epoch": "1574899200",
