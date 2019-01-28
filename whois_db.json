@@ -26398,7 +26398,7 @@
         "quick-decor-dz.com": {
             "epoch": "1548633600",
             "expiration_date": "28-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "quick-offer.com": {
             "epoch": "1579478400",
@@ -29046,9 +29046,9 @@
             "state": "future"
         },
         "sexwank.com": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
-            "state": "past"
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
         },
         "sexwars.pl": {
             "epoch": "1542067200",
@@ -29961,8 +29961,8 @@
             "state": "future"
         },
         "shockingbjs.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
             "state": "future"
         },
         "shodanhq.com": {
