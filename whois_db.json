@@ -17628,7 +17628,7 @@
         "justsayingbro.com": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "justteenmovie.com": {
             "epoch": "1572480000",
@@ -17956,9 +17956,9 @@
             "state": "past"
         },
         "kickass-porn.com": {
-            "epoch": "1548633600",
-            "expiration_date": "28-jan-2019",
-            "state": "past"
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
         },
         "kickasscash.biz": {
             "epoch": "1592092800",
@@ -19338,7 +19338,7 @@
         "luckyboy.cc": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "luckycn.cn": {
             "epoch": "1609718400",
