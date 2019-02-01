@@ -356,9 +356,9 @@
             "state": "future"
         },
         "1337crew.info": {
-            "epoch": "1548806400",
-            "expiration_date": "30-jan-2019",
-            "state": "past"
+            "epoch": "1580342400",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
         },
         "138shenbosbo.com": {
             "epoch": "1575849600",
@@ -1001,8 +1001,8 @@
             "state": "future"
         },
         "3wt4c.com": {
-            "epoch": "1548979200",
-            "expiration_date": "01-feb-2019",
+            "epoch": "1580515200",
+            "expiration_date": "01-feb-2020",
             "state": "future"
         },
         "3x-fist-fucking.com": {
@@ -1143,7 +1143,7 @@
         "4sin.net": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "4th3d48.com": {
             "epoch": "1552089600",
@@ -2023,7 +2023,7 @@
         "accur.biz": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "acenar.com": {
             "epoch": "1579392000",
@@ -3276,8 +3276,8 @@
             "state": "future"
         },
         "amunow.org": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "amwatching.com": {
