@@ -29761,8 +29761,8 @@
             "state": "future"
         },
         "shegot.info": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "shehuge.com": {
@@ -30908,7 +30908,7 @@
         "staceyscloset.com": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "stackpoints.com": {
             "epoch": "1569283200",
@@ -30951,8 +30951,8 @@
             "state": "future"
         },
         "stairliftstrue.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
             "state": "future"
         },
         "staket-pvc.se": {
@@ -35411,8 +35411,8 @@
             "state": "past"
         },
         "windowssearch-exp.com": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "windowzlive.com": {
@@ -37173,7 +37173,7 @@
         "zlektorem.pl": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "znakomstva-piter78.ru": {
             "epoch": "1566172800",
@@ -37223,7 +37223,7 @@
         "zoguo.com": {
             "epoch": "1548979200",
             "expiration_date": "01-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "zojirushi-products.ru": {
             "epoch": "1578787200",
