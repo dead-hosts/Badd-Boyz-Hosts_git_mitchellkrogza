@@ -8236,8 +8236,8 @@
             "state": "future"
         },
         "dennispearsondesign.com": {
-            "epoch": "1549324800",
-            "expiration_date": "05-feb-2019",
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
             "state": "future"
         },
         "densart.com": {
@@ -11156,9 +11156,9 @@
             "state": "future"
         },
         "faisaliya.com": {
-            "epoch": "1549152000",
-            "expiration_date": "03-feb-2019",
-            "state": "past"
+            "epoch": "1580688000",
+            "expiration_date": "03-feb-2020",
+            "state": "future"
         },
         "falcoware.com": {
             "epoch": "1596153600",
@@ -11689,6 +11689,11 @@
             "epoch": "1536019200",
             "expiration_date": "04-sep-2018",
             "state": "past"
+        },
+        "fetishshop.pl": {
+            "epoch": "1580860800",
+            "expiration_date": "05-feb-2020",
+            "state": "future"
         },
         "fetiteprofesioniste.biz": {
             "epoch": "1538006400",
