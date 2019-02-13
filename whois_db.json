@@ -18796,9 +18796,9 @@
             "state": "future"
         },
         "lakemedelsvarket.se": {
-            "epoch": "1535414400",
-            "expiration_date": "28-aug-2018",
-            "state": "past"
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
         },
         "lakita.com": {
             "epoch": "1551744000",
@@ -19176,8 +19176,8 @@
             "state": "past"
         },
         "lideragro.ru": {
-            "epoch": "1549929600",
-            "expiration_date": "12-feb-2019",
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
             "state": "future"
         },
         "lie2anyone.com": {
