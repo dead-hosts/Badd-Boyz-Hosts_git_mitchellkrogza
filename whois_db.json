@@ -17681,8 +17681,8 @@
             "state": "future"
         },
         "ka04b.com": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
             "state": "future"
         },
         "kabannihon.biz": {
@@ -18296,8 +18296,8 @@
             "state": "future"
         },
         "kj2hy.com": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
             "state": "future"
         },
         "kkd-consulting.com": {
@@ -19511,8 +19511,8 @@
             "state": "past"
         },
         "lvescore.com": {
-            "epoch": "1550102400",
-            "expiration_date": "14-feb-2019",
+            "epoch": "1581638400",
+            "expiration_date": "14-feb-2020",
             "state": "future"
         },
         "lvxg.com": {
@@ -21123,7 +21123,7 @@
         "mycaf.it": {
             "epoch": "1550102400",
             "expiration_date": "14-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "mycamdenliving.com": {
             "epoch": "1576454400",
