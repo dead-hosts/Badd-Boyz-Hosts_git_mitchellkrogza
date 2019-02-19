@@ -11050,6 +11050,11 @@
             "expiration_date": "27-jan-2020",
             "state": "future"
         },
+        "facebooka.se": {
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
+        },
         "facebookaccounthack.net": {
             "epoch": "1536192000",
             "expiration_date": "06-sep-2018",
