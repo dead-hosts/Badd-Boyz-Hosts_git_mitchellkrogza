@@ -1273,7 +1273,7 @@
         "5forex.ru": {
             "epoch": "1550448000",
             "expiration_date": "18-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "5hmmm1mk.top": {
             "epoch": "1566172800",
@@ -2396,9 +2396,9 @@
             "state": "past"
         },
         "alfalakgifts.com": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
-            "state": "past"
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "alfapro.ru": {
             "epoch": "1578873600",
@@ -2411,8 +2411,8 @@
             "state": "future"
         },
         "algodon.net": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "alhijaztrvl.com": {
