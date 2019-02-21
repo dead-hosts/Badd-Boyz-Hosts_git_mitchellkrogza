@@ -14183,7 +14183,7 @@
         "gogalleryawesome.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "gogirl.info": {
             "epoch": "1571356800",
@@ -16051,8 +16051,8 @@
             "state": "future"
         },
         "humanelydrew.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "humanistiskhalsoforskning.se": {
