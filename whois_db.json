@@ -22725,9 +22725,19 @@
             "expiration_date": "02-feb-2019",
             "state": "future"
         },
+        "ofertasbh.com.br": {
+            "epoch": "1578528000",
+            "expiration_date": "09-jan-2020",
+            "state": "future"
+        },
         "oferte.pl": {
             "epoch": "1553472000",
             "expiration_date": "25-mar-2019",
+            "state": "future"
+        },
+        "ofertypan.pl": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
             "state": "future"
         },
         "offer-pills.ru": {
@@ -22793,6 +22803,11 @@
         "omanko1.com": {
             "epoch": "1571443200",
             "expiration_date": "19-oct-2019",
+            "state": "future"
+        },
+        "omercadobitcoin.com.br": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
             "state": "future"
         },
         "omniproject.net": {
@@ -23063,6 +23078,11 @@
         "oskar-esgibtnureinen.com": {
             "epoch": "1565308800",
             "expiration_date": "09-aug-2019",
+            "state": "future"
+        },
+        "oskon.com.tr": {
+            "epoch": "1571529600",
+            "expiration_date": "20-oct-2019",
             "state": "future"
         },
         "ostrowmaz24.com": {
@@ -24220,6 +24240,11 @@
             "expiration_date": "22-jul-2019",
             "state": "future"
         },
+        "planetavirtual.com.br": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
         "planetcancerfree.se": {
             "epoch": "1535500800",
             "expiration_date": "29-aug-2018",
@@ -24715,9 +24740,19 @@
             "expiration_date": "12-dec-2018",
             "state": "future"
         },
+        "porno.biz.pl": {
+            "epoch": "1572825600",
+            "expiration_date": "04-nov-2019",
+            "state": "future"
+        },
         "pornoduel.com": {
             "epoch": "1577923200",
             "expiration_date": "02-jan-2020",
+            "state": "future"
+        },
+        "pornogay.com.br": {
+            "epoch": "1571443200",
+            "expiration_date": "19-oct-2019",
             "state": "future"
         },
         "pornogig.com": {
@@ -25340,6 +25375,11 @@
             "expiration_date": "04-dec-2019",
             "state": "future"
         },
+        "pornvtope.blogspot.com.br": {
+            "epoch": "1575504000",
+            "expiration_date": "05-dec-2019",
+            "state": "future"
+        },
         "pornwindows.com": {
             "epoch": "1580169600",
             "expiration_date": "28-jan-2020",
@@ -25433,6 +25473,11 @@
         "positivity.it": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
+            "state": "future"
+        },
+        "pospr.waw.pl": {
+            "epoch": "1551916800",
+            "expiration_date": "07-mar-2019",
             "state": "future"
         },
         "postclass.com": {
@@ -25548,6 +25593,11 @@
         "pozvonim.com": {
             "epoch": "1578614400",
             "expiration_date": "10-jan-2020",
+            "state": "future"
+        },
+        "pp-budpostach.com.ua": {
+            "epoch": "1574035200",
+            "expiration_date": "18-nov-2019",
             "state": "future"
         },
         "ppcexpertclasses.com": {
