@@ -14335,6 +14335,11 @@
             "expiration_date": "13-nov-2019",
             "state": "future"
         },
+        "glx.com.br": {
+            "epoch": "1571875200",
+            "expiration_date": "24-oct-2019",
+            "state": "future"
+        },
         "gms1.ru": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
@@ -14483,6 +14488,11 @@
         "gogps.me": {
             "epoch": "1655856000",
             "expiration_date": "22-jun-2022",
+            "state": "future"
+        },
+        "goldentorrent.pl": {
+            "epoch": "1557619200",
+            "expiration_date": "12-may-2019",
             "state": "future"
         },
         "gotomontenegro.net": {
@@ -14735,6 +14745,11 @@
             "expiration_date": "17-oct-2019",
             "state": "future"
         },
+        "greatfireoflondon.org.uk": {
+            "epoch": "1552003200",
+            "expiration_date": "08-mar-2019",
+            "state": "future"
+        },
         "greatgrace.ru": {
             "epoch": "1578009600",
             "expiration_date": "03-jan-2020",
@@ -14855,6 +14870,11 @@
             "expiration_date": "17-jun-2019",
             "state": "future"
         },
+        "grutaazul.com.br": {
+            "epoch": "1547683200",
+            "expiration_date": "17-jan-2019",
+            "state": "past"
+        },
         "grvoflsctenq.bid": {
             "epoch": "1534204800",
             "expiration_date": "14-aug-2018",
@@ -14933,6 +14953,11 @@
         "gtopstats.com": {
             "epoch": "1556064000",
             "expiration_date": "24-apr-2019",
+            "state": "future"
+        },
+        "guagliano.com.ar": {
+            "epoch": "1556236800",
+            "expiration_date": "26-apr-2019",
             "state": "future"
         },
         "guar.info": {
@@ -15148,6 +15173,11 @@
         "hackmyaccount.com": {
             "epoch": "1567468800",
             "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "hacks24.pl": {
+            "epoch": "1558137600",
+            "expiration_date": "18-may-2019",
             "state": "future"
         },
         "hacktougroup.ru": {
