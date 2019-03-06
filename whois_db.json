@@ -3351,8 +3351,8 @@
             "state": "future"
         },
         "amt-k.ru": {
-            "epoch": "1551830400",
-            "expiration_date": "06-mar-2019",
+            "epoch": "1583366400",
+            "expiration_date": "05-mar-2020",
             "state": "future"
         },
         "amung.us": {
@@ -3376,9 +3376,9 @@
             "state": "future"
         },
         "anal-acrobats.com": {
-            "epoch": "1551657600",
-            "expiration_date": "04-mar-2019",
-            "state": "past"
+            "epoch": "1583280000",
+            "expiration_date": "04-mar-2020",
+            "state": "future"
         },
         "anal-cinema.org": {
             "epoch": "1575676800",
