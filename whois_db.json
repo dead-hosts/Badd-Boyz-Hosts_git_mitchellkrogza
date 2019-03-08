@@ -2186,8 +2186,8 @@
             "state": "future"
         },
         "activepr.ru": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
             "state": "future"
         },
         "activewatch.ro": {
@@ -7468,7 +7468,7 @@
         "cosadclinic.com": {
             "epoch": "1552003200",
             "expiration_date": "08-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "cositos.com.mx": {
             "epoch": "1576454400",
