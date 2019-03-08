@@ -7466,9 +7466,9 @@
             "state": "future"
         },
         "cosadclinic.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
-            "state": "past"
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
         },
         "cositos.com.mx": {
             "epoch": "1576454400",
