@@ -1451,9 +1451,7 @@
             "www.hgwclan.de",
             "www.jaybeee.name",
             "www.nosilia.se",
-            "www.poesiadelsud.it"
-        ],
-        "to_test": [
+            "www.poesiadelsud.it",
             "www.simsweek.pl",
             "www.softwareviews.net",
             "www.sportygorskie.pl",
@@ -1535,6 +1533,7 @@
             "zone-kev717.info",
             "zqzcphioh.top",
             "zyv.tiziana.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
