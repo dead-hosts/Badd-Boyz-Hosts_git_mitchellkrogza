@@ -26215,6 +26215,11 @@
             "expiration_date": "18-dec-2018",
             "state": "future"
         },
+        "pufip.com": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
+            "state": "future"
+        },
         "puliquan.com": {
             "epoch": "1610236800",
             "expiration_date": "10-jan-2021",
@@ -27201,8 +27206,8 @@
             "state": "future"
         },
         "rapevideosmovies.com": {
-            "epoch": "1552262400",
-            "expiration_date": "11-mar-2019",
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "rapexxx.org": {
