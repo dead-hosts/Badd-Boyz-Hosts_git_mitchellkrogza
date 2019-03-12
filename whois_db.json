@@ -1058,7 +1058,7 @@
         "420bankofwashington.com": {
             "epoch": "1552348800",
             "expiration_date": "12-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "423.ru": {
             "epoch": "1562198400",
