@@ -1484,9 +1484,7 @@
             "xn-----6kcaacnblni5c5bicdpcmficy.xn--p1ai",
             "xn-----7kceclhb4abre1b4a0ccl2fxch1a.xn--p1ai",
             "xn--90acenikpebbdd4f6d.xn--p1ai",
-            "xn--avgng-ora.se"
-        ],
-        "to_test": [
+            "xn--avgng-ora.se",
             "xn--elektriker-malm-ntb.nu",
             "xn--gar-hla.io",
             "xn--lstadhemnra-t8ae.se",
@@ -1548,6 +1546,7 @@
             "zone-kev717.info",
             "zqzcphioh.top",
             "zyv.tiziana.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
