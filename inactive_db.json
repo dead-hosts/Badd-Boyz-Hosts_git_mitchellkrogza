@@ -1101,9 +1101,7 @@
             "companie.biz",
             "completelyfreeporn.biz",
             "compliance-barak.xyz",
-            "compliance-george.xyz"
-        ],
-        "to_test": [
+            "compliance-george.xyz",
             "imap.bioquest.se",
             "imap.romulan.nu",
             "imap.spamcero.com",
@@ -1233,7 +1231,9 @@
             "lesby.cl",
             "letgoletgod.com.au",
             "leuksteltwintigers.nl",
-            "lev-livet.se",
+            "lev-livet.se"
+        ],
+        "to_test": [
             "shop-hasan.ru",
             "shopcheermakeup.info",
             "shopsclik.ru",
