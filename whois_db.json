@@ -9273,7 +9273,7 @@
         "domain2008.com": {
             "epoch": "1552694400",
             "expiration_date": "16-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "domini.cat": {
             "epoch": "1557014400",
