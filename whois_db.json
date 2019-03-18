@@ -1241,8 +1241,8 @@
             "state": "future"
         },
         "511a.cn": {
-            "epoch": "1552867200",
-            "expiration_date": "18-mar-2019",
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
             "state": "future"
         },
         "5241.it": {
@@ -2356,9 +2356,9 @@
             "state": "future"
         },
         "albergoabruzzo.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
-            "state": "past"
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
         },
         "alberguecasaanita.com": {
             "epoch": "1569801600",
@@ -3673,7 +3673,7 @@
         "antcompany.com": {
             "epoch": "1552867200",
             "expiration_date": "18-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "anthonymthompson.com": {
             "epoch": "1575072000",
