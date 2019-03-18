@@ -9271,9 +9271,9 @@
             "state": "future"
         },
         "domain2008.com": {
-            "epoch": "1552694400",
-            "expiration_date": "16-mar-2019",
-            "state": "past"
+            "epoch": "1584316800",
+            "expiration_date": "16-mar-2020",
+            "state": "future"
         },
         "domini.cat": {
             "epoch": "1557014400",
