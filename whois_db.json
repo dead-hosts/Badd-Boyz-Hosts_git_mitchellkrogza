@@ -21621,9 +21621,9 @@
             "state": "future"
         },
         "mycreditrepairfix.com": {
-            "epoch": "1552867200",
-            "expiration_date": "18-mar-2019",
-            "state": "past"
+            "epoch": "1584489600",
+            "expiration_date": "18-mar-2020",
+            "state": "future"
         },
         "mydancexpress.com": {
             "epoch": "1572998400",
@@ -30318,7 +30318,7 @@
         "share-buttons-for-free.com": {
             "epoch": "1553040000",
             "expiration_date": "20-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "shareagree.com": {
             "epoch": "1570147200",
