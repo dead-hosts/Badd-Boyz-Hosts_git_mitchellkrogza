@@ -1308,9 +1308,7 @@
             "mabcogroup-bd.com",
             "mac-shield.com",
             "mail.romsasjord.se",
-            "mailinblack.co"
-        ],
-        "to_test": [
+            "mailinblack.co",
             "swollen.lip.st",
             "synergcysd.com",
             "synergyofsteel.de",
@@ -1541,6 +1539,7 @@
             "zone-kev717.info",
             "zqzcphioh.top",
             "zyv.tiziana.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
