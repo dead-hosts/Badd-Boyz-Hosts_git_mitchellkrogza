@@ -31338,7 +31338,7 @@
         "soft1.ru": {
             "epoch": "1553299200",
             "expiration_date": "23-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "softclit.com": {
             "epoch": "1568073600",
