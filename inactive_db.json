@@ -1119,9 +1119,7 @@
             "compliance-barak.xyz",
             "compliance-george.xyz",
             "consulfrance-munich.de",
-            "controlhertoy.be"
-        ],
-        "to_test": [
+            "controlhertoy.be",
             "imap.spamcero.com",
             "imap.synpatico.ca",
             "imap.xtream.com",
@@ -1253,7 +1251,9 @@
             "lgkzmjfu.bid",
             "lgogujahrnxr.bid",
             "lhmnbgieieksdv.bid",
-            "lhxgdmcyropacl.bid",
+            "lhxgdmcyropacl.bid"
+        ],
+        "to_test": [
             "sms.pessoafisicabb.com",
             "snaffo.se",
             "snjack.info",
