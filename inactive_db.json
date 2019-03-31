@@ -1205,9 +1205,7 @@
             "wkuayaogbegtyp.bid",
             "wmzfcchqnkrux.bid",
             "wnhwpkiaozow.bid",
-            "wojtaszek.xorg.pl"
-        ],
-        "to_test": [
+            "wojtaszek.xorg.pl",
             "cdn.mentonealabama.gov",
             "cdn.ns2.skima.is",
             "cemevisa.co",
@@ -1283,7 +1281,9 @@
             "delux-clas.com",
             "demo02.firstdigitalshowcase.com",
             "denkend.ru",
-            "dentalimpllants.com",
+            "dentalimpllants.com"
+        ],
+        "to_test": [
             "keloa97w2.fanpage-serviese2.cf",
             "keralatravelcabs.in",
             "kfz-vergleich.xyz",
