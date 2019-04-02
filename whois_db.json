@@ -17111,8 +17111,8 @@
             "state": "past"
         },
         "insomniagamingfestival.com": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "insomniatguide.com": {
@@ -17583,6 +17583,11 @@
         "ipsite.net": {
             "epoch": "1578009600",
             "expiration_date": "03-jan-2020",
+            "state": "future"
+        },
+        "iptool.xyz": {
+            "epoch": "1584921600",
+            "expiration_date": "23-mar-2020",
             "state": "future"
         },
         "ipw.me": {
@@ -18100,6 +18105,11 @@
             "expiration_date": "27-nov-2018",
             "state": "past"
         },
+        "justprofit.xyz": {
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
+        },
         "justsayingbro.com": {
             "epoch": "1580342400",
             "expiration_date": "30-jan-2020",
@@ -18370,6 +18380,11 @@
             "expiration_date": "11-nov-2019",
             "state": "future"
         },
+        "keenoutlet.online": {
+            "epoch": "1584144000",
+            "expiration_date": "14-mar-2020",
+            "state": "future"
+        },
         "keepcolletive.com": {
             "epoch": "1565308800",
             "expiration_date": "09-aug-2019",
@@ -18448,6 +18463,11 @@
         "kickasscash.biz": {
             "epoch": "1592092800",
             "expiration_date": "14-jun-2020",
+            "state": "future"
+        },
+        "kickasstorrents.website": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
             "state": "future"
         },
         "kickassvids.com": {
