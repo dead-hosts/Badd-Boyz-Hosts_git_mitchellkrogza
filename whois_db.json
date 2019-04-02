@@ -7213,7 +7213,7 @@
         "companycreators.co.uk": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "compassenergyservices.com": {
             "epoch": "1579824000",
@@ -7448,7 +7448,7 @@
         "cordstrap.cc": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "cornerstone-countertops.com": {
             "epoch": "1583366400",
@@ -9293,6 +9293,11 @@
         "domain2008.com": {
             "epoch": "1584316800",
             "expiration_date": "16-mar-2020",
+            "state": "future"
+        },
+        "domainanalyzing.xyz": {
+            "epoch": "1584057600",
+            "expiration_date": "13-mar-2020",
             "state": "future"
         },
         "domini.cat": {
@@ -11573,7 +11578,7 @@
         "fatmaelgarny.com": {
             "epoch": "1554163200",
             "expiration_date": "02-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "fatpussy.biz": {
             "epoch": "1539820800",
@@ -12085,6 +12090,11 @@
             "expiration_date": "17-sep-2019",
             "state": "future"
         },
+        "ficusoid.xyz": {
+            "epoch": "1570147200",
+            "expiration_date": "04-oct-2019",
+            "state": "future"
+        },
         "fil.ru": {
             "epoch": "1554076800",
             "expiration_date": "01-apr-2019",
@@ -12133,6 +12143,11 @@
         "financialnewsupdates.com": {
             "epoch": "1571702400",
             "expiration_date": "22-oct-2019",
+            "state": "future"
+        },
+        "flatterra.com": {
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "flooringinstallation-edmonton.com": {
@@ -14746,9 +14761,9 @@
             "state": "future"
         },
         "great-health.ru": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
-            "state": "past"
+            "epoch": "1588291200",
+            "expiration_date": "01-may-2020",
+            "state": "future"
         },
         "great-voipphoneoption.com": {
             "epoch": "1541116800",
@@ -16424,6 +16439,11 @@
             "epoch": "1535414400",
             "expiration_date": "28-aug-2018",
             "state": "past"
+        },
+        "hunger.xyz": {
+            "epoch": "1578182400",
+            "expiration_date": "05-jan-2020",
+            "state": "future"
         },
         "hungergame.com": {
             "epoch": "1554508800",
