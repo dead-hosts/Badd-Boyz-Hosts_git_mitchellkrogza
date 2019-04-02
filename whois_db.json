@@ -4420,6 +4420,11 @@
             "expiration_date": "16-oct-2019",
             "state": "future"
         },
+        "bagsonsale.online": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
         "bahisstratejileri.info": {
             "epoch": "1567814400",
             "expiration_date": "07-sep-2019",
