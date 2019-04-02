@@ -22756,8 +22756,8 @@
             "state": "future"
         },
         "odpicujfure.pl": {
-            "epoch": "1553644800",
-            "expiration_date": "27-mar-2019",
+            "epoch": "1555372800",
+            "expiration_date": "16-apr-2019",
             "state": "future"
         },
         "oecnhs.info": {
@@ -26851,9 +26851,9 @@
             "state": "future"
         },
         "q-moto.ru": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
-            "state": "past"
+            "epoch": "1588464000",
+            "expiration_date": "03-may-2020",
+            "state": "future"
         },
         "q-venture.com": {
             "epoch": "1557532800",
@@ -27036,8 +27036,8 @@
             "state": "future"
         },
         "quelle.ru": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
             "state": "future"
         },
         "quentes.com.br": {
@@ -27489,6 +27489,16 @@
             "epoch": "1538438400",
             "expiration_date": "02-oct-2018",
             "state": "past"
+        },
+        "renecaovilla.online": {
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
+        },
+        "renecaovillasale.online": {
+            "epoch": "1579996800",
+            "expiration_date": "26-jan-2020",
+            "state": "future"
         },
         "renewablewealth.com": {
             "epoch": "1545004800",
@@ -29618,6 +29628,11 @@
         "sexpeeks.com": {
             "epoch": "1573948800",
             "expiration_date": "17-nov-2019",
+            "state": "future"
+        },
+        "sexphoto.site": {
+            "epoch": "1559865600",
+            "expiration_date": "07-jun-2019",
             "state": "future"
         },
         "sexpics-xxx.com": {
