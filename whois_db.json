@@ -26240,6 +26240,11 @@
             "expiration_date": "27-sep-2019",
             "state": "future"
         },
+        "pts163.ru": {
+            "epoch": "1588550400",
+            "expiration_date": "04-may-2020",
+            "state": "future"
+        },
         "pubersletjes.com": {
             "epoch": "1544572800",
             "expiration_date": "12-dec-2018",
@@ -27116,8 +27121,8 @@
             "state": "future"
         },
         "quiltsr4u.com": {
-            "epoch": "1554249600",
-            "expiration_date": "03-apr-2019",
+            "epoch": "1585872000",
+            "expiration_date": "03-apr-2020",
             "state": "future"
         },
         "quirkycoolliving.com": {
