@@ -651,8 +651,8 @@
             "state": "future"
         },
         "202ch.com": {
-            "epoch": "1554681600",
-            "expiration_date": "08-apr-2019",
+            "epoch": "1586304000",
+            "expiration_date": "08-apr-2020",
             "state": "future"
         },
         "22kkkk.com": {
@@ -2548,7 +2548,7 @@
         "alkalifeph.fr": {
             "epoch": "1554681600",
             "expiration_date": "08-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "all-blonde.nu": {
             "epoch": "1540857600",
