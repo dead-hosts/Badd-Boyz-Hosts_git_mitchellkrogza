@@ -7376,8 +7376,8 @@
             "state": "future"
         },
         "coolemailnames.com": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
             "state": "future"
         },
         "coolfoto.dk": {
@@ -7658,7 +7658,7 @@
         "creativeteam.it": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "crystalshoot.in": {
             "epoch": "1572652800",
