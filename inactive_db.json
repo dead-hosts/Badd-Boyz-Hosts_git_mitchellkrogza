@@ -1458,9 +1458,7 @@
             "xbox-code.eu",
             "xcamgirls.be",
             "xfutdbnryjmh.bid",
-            "xn-----6kcaacnblni5c5bicdpcmficy.xn--p1ai"
-        ],
-        "to_test": [
+            "xn-----6kcaacnblni5c5bicdpcmficy.xn--p1ai",
             "xn-----7kceclhb4abre1b4a0ccl2fxch1a.xn--p1ai",
             "xn--90acenikpebbdd4f6d.xn--p1ai",
             "xn--avgng-ora.se",
@@ -1525,6 +1523,7 @@
             "zone-kev717.info",
             "zqzcphioh.top",
             "zyv.tiziana.ru"
-        ]
+        ],
+        "to_test": []
     }
 }
