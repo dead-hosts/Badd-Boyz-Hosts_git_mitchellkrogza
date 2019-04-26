@@ -1626,8 +1626,8 @@
             "state": "future"
         },
         "91abcw.com": {
-            "epoch": "1556150400",
-            "expiration_date": "25-apr-2019",
+            "epoch": "1587772800",
+            "expiration_date": "25-apr-2020",
             "state": "future"
         },
         "925.lt": {
@@ -2386,9 +2386,9 @@
             "state": "future"
         },
         "alboautotrasportatori.it": {
-            "epoch": "1554768000",
-            "expiration_date": "09-apr-2019",
-            "state": "past"
+            "epoch": "1586390400",
+            "expiration_date": "09-apr-2020",
+            "state": "future"
         },
         "alcohort.com": {
             "epoch": "1571443200",
