@@ -18321,8 +18321,8 @@
             "state": "future"
         },
         "katushka.net": {
-            "epoch": "1556496000",
-            "expiration_date": "29-apr-2019",
+            "epoch": "1588118400",
+            "expiration_date": "29-apr-2020",
             "state": "future"
         },
         "katyoung.co.uk": {
@@ -18758,7 +18758,7 @@
         "kitaj.dk": {
             "epoch": "1556582400",
             "expiration_date": "30-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "kittyscash.com": {
             "epoch": "1572134400",
