@@ -21651,8 +21651,8 @@
             "state": "future"
         },
         "myanyone.net": {
-            "epoch": "1556582400",
-            "expiration_date": "30-apr-2019",
+            "epoch": "1588204800",
+            "expiration_date": "30-apr-2020",
             "state": "future"
         },
         "myasianfetish.com": {
@@ -22628,7 +22628,7 @@
         "nugenix.co": {
             "epoch": "1556496000",
             "expiration_date": "29-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "nuit-artisanale.com": {
             "epoch": "1583366400",
@@ -22636,9 +22636,9 @@
             "state": "future"
         },
         "nuker.com": {
-            "epoch": "1556409600",
-            "expiration_date": "28-apr-2019",
-            "state": "past"
+            "epoch": "1588032000",
+            "expiration_date": "28-apr-2020",
+            "state": "future"
         },
         "nulik.net": {
             "epoch": "1569801600",
