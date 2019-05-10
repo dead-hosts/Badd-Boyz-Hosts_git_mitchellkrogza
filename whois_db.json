@@ -14836,9 +14836,9 @@
             "state": "future"
         },
         "greatlakessurveillance.com": {
-            "epoch": "1557273600",
-            "expiration_date": "08-may-2019",
-            "state": "past"
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
         },
         "greatpussies.com": {
             "epoch": "1573516800",
@@ -16868,7 +16868,7 @@
         "iforgotappple.com": {
             "epoch": "1557446400",
             "expiration_date": "10-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "iframe.cc": {
             "epoch": "1579737600",
@@ -17206,8 +17206,8 @@
             "state": "future"
         },
         "insytagram.com": {
-            "epoch": "1557446400",
-            "expiration_date": "10-may-2019",
+            "epoch": "1589068800",
+            "expiration_date": "10-may-2020",
             "state": "future"
         },
         "intabulations.org": {
@@ -17286,9 +17286,9 @@
             "state": "future"
         },
         "intermare.it": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
-            "state": "past"
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
+            "state": "future"
         },
         "intermaterials.net": {
             "epoch": "1580515200",
@@ -17598,7 +17598,7 @@
         "iposhq.com": {
             "epoch": "1557446400",
             "expiration_date": "10-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "ipostroika.ru": {
             "epoch": "1581292800",
@@ -20123,6 +20123,11 @@
         "m1crosoft.info": {
             "epoch": "1572480000",
             "expiration_date": "31-oct-2019",
+            "state": "future"
+        },
+        "m1media.net": {
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "m1videos.com": {
