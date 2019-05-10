@@ -961,8 +961,8 @@
             "state": "future"
         },
         "3dbluerayplayer.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "3dcgfx.net": {
@@ -1026,8 +1026,8 @@
             "state": "future"
         },
         "3w24.com": {
-            "epoch": "1557446400",
-            "expiration_date": "10-may-2019",
+            "epoch": "1589068800",
+            "expiration_date": "10-may-2020",
             "state": "future"
         },
         "3weekdiet.com": {
@@ -2288,7 +2288,7 @@
         "ajuntamentodastribos.com.br": {
             "epoch": "1557360000",
             "expiration_date": "09-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "akama.com": {
             "epoch": "1558483200",
@@ -3716,8 +3716,8 @@
             "state": "future"
         },
         "anticodistretto.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "anticosm.com": {
