@@ -6883,7 +6883,7 @@
         "cinemaenergy-hd.ru": {
             "epoch": "1557792000",
             "expiration_date": "14-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "cinematraffic.com": {
             "epoch": "1579824000",
