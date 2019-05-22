@@ -23209,6 +23209,11 @@
         "expiration_date": "05-oct-2018",
         "state": "past"
     },
+    "oshaqi.com": {
+        "epoch": 1590019200,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "oshoforge.com": {
         "epoch": "1554768000",
         "expiration_date": "09-apr-2019",
