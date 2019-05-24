@@ -31614,6 +31614,11 @@
         "expiration_date": "29-jul-2019",
         "state": "future"
     },
+    "solve.nu": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "spankbang.co.uk": {
         "epoch": "1576454400",
         "expiration_date": "16-dec-2019",
