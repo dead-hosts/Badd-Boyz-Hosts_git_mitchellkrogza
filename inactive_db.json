@@ -1,9 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
         "1558721096": [
-            "angel-x.com"
-        ],
-        "to_test": [
             "0190-telefonsex.de.lv",
             "0365.bid",
             "0912701309f8ce.com",
@@ -93,6 +90,13 @@
             "ads.lycos-europe.com",
             "ads.thebulgarianpost.com",
             "ads3.video97.com",
+            "angel-x.com",
+            "godmode-traders.de",
+            "gottensikisx.net",
+            "imap.drbill.de",
+            "zapatos.net.pl"
+        ],
+        "to_test": [
             "adsports.in",
             "aed4uozi.com",
             "afrikultureradio.com",
@@ -578,7 +582,6 @@
             "goergen-kellerpaket.de",
             "gofficedoc.com",
             "goldfighter.se",
-            "gottensikisx.net",
             "gp0hefr.com",
             "grabo-container.se",
             "gramtiopmalionsdons.com",
