@@ -840,9 +840,9 @@
         "state": "future"
     },
     "2p9fyvx.com": {
-        "epoch": 1559260800,
-        "expiration_date": "31-may-2019",
-        "state": "past"
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
     },
     "2pxg8bcf.top": {
         "epoch": "1584144000",
@@ -7245,9 +7245,9 @@
         "state": "past"
     },
     "companies-catalog.com": {
-        "epoch": 1559260800,
-        "expiration_date": "31-may-2019",
-        "state": "past"
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
     },
     "companycreators.co.uk": {
         "epoch": "1587945600",
@@ -7735,8 +7735,8 @@
         "state": "future"
     },
     "csk.ru": {
-        "epoch": "1559347200",
-        "expiration_date": "01-jun-2019",
+        "epoch": 1590969600,
+        "expiration_date": "01-jun-2020",
         "state": "future"
     },
     "csk2014.info": {
@@ -12835,9 +12835,9 @@
         "state": "past"
     },
     "freehealthpoints.com": {
-        "epoch": 1559260800,
-        "expiration_date": "31-may-2019",
-        "state": "past"
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
     },
     "freehentai.biz": {
         "epoch": "1539820800",
