@@ -21599,6 +21599,11 @@
         "expiration_date": "24-jan-2019",
         "state": "future"
     },
+    "my-aladin.com": {
+        "epoch": 1583020800,
+        "expiration_date": "01-mar-2020",
+        "state": "future"
+    },
     "my-bc.ru": {
         "epoch": "1576540800",
         "expiration_date": "17-dec-2019",
