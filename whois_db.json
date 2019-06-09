@@ -17555,8 +17555,8 @@
         "state": "future"
     },
     "ipbsgpm4.top": {
-        "epoch": "1559433600",
-        "expiration_date": "02-jun-2019",
+        "epoch": 1591056000,
+        "expiration_date": "02-jun-2020",
         "state": "future"
     },
     "ipcloak.org": {
@@ -18775,9 +18775,9 @@
         "state": "future"
     },
     "kitaj.dk": {
-        "epoch": "1556582400",
-        "expiration_date": "30-apr-2019",
-        "state": "past"
+        "epoch": 1588204800,
+        "expiration_date": "30-apr-2020",
+        "state": "future"
     },
     "kittyscash.com": {
         "epoch": "1572134400",
@@ -19400,9 +19400,9 @@
         "state": "future"
     },
     "lanticoforno.it": {
-        "epoch": 1558569600,
-        "expiration_date": "23-may-2019",
-        "state": "past"
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
     },
     "lanzarotehoppa.com": {
         "epoch": "1577491200",
@@ -31490,8 +31490,8 @@
         "state": "future"
     },
     "snomer1.ru": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "soellas.com": {
@@ -31555,8 +31555,8 @@
         "state": "future"
     },
     "softtor.com": {
-        "epoch": "1560038400",
-        "expiration_date": "09-jun-2019",
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
         "state": "future"
     },
     "softupdate.net": {
