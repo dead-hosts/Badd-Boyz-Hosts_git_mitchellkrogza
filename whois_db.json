@@ -11115,9 +11115,9 @@
         "state": "future"
     },
     "evile.co.uk": {
-        "epoch": "1559865600",
+        "epoch": 1559865600,
         "expiration_date": "07-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "evilsex.nu": {
         "epoch": "1536019200",
@@ -14555,8 +14555,8 @@
         "state": "future"
     },
     "goforexvps.com": {
-        "epoch": "1559952000",
-        "expiration_date": "08-jun-2019",
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "gofun.info": {
