@@ -1,8 +1,6 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/Badd-Boyz-Hosts.list": {
-        "1560622430": {
-            "gottensikisx.net": ""
-        },
+        "1560622430": {},
         "1560708600": {
             "0912701309f8ce.com": "",
             "0c47f8422d3f.com": "",
@@ -318,7 +316,6 @@
             "fiestamusic.se": "",
             "fillmprodsinfo.co.za": "",
             "finally.nu": "",
-            "fnmsk.ru": "",
             "fonemo.se": "",
             "forbattradittsalj.se": "",
             "foros.lokamagazine.com": "",
@@ -1182,6 +1179,7 @@
             "godmode-traders.de": "INACTIVE",
             "gofficedoc.com": "INACTIVE",
             "goldfighter.se": "INACTIVE",
+            "gottensikisx.net": "INACTIVE",
             "grcc.co.za": "INACTIVE",
             "gros-seins.recherche-sexe.info": "INACTIVE",
             "grvoflsctenq.bid": "INACTIVE",
