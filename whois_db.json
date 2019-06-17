@@ -2415,9 +2415,9 @@
         "state": "future"
     },
     "alessandroesse.biz": {
-        "epoch": "1543276800",
-        "expiration_date": "27-nov-2018",
-        "state": "past"
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
     },
     "alexa-silver.com": {
         "epoch": "1580947200",
@@ -3120,9 +3120,9 @@
         "state": "future"
     },
     "amateursex.nu": {
-        "epoch": "1540857600",
-        "expiration_date": "30-oct-2018",
-        "state": "past"
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
     },
     "amateursexclips.org": {
         "epoch": "1575590400",
@@ -31340,9 +31340,9 @@
         "state": "future"
     },
     "slonechka.ru": {
-        "epoch": "1560643200",
+        "epoch": 1560643200,
         "expiration_date": "16-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "sloppyhoes.com": {
         "epoch": "1575590400",
@@ -31622,6 +31622,11 @@
     "solve.nu": {
         "epoch": 1590192000,
         "expiration_date": "23-may-2020",
+        "state": "future"
+    },
+    "songplanet.ru": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "spankbang.co.uk": {
@@ -37930,9 +37935,9 @@
         "state": "future"
     },
     "yur-p.ru": {
-        "epoch": "1560643200",
+        "epoch": 1560643200,
         "expiration_date": "16-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "yurgorod.ru": {
         "epoch": "1566000000",
