@@ -1505,9 +1505,9 @@
         "state": "future"
     },
     "7wind.ru": {
-        "epoch": "1560729600",
+        "epoch": 1560729600,
         "expiration_date": "17-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "7xc4n.com": {
         "epoch": "1581638400",
