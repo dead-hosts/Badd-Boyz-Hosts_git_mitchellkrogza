@@ -2245,8 +2245,8 @@
         "state": "future"
     },
     "airportaxi.pl": {
-        "epoch": 1561075200,
-        "expiration_date": "21-jun-2019",
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
         "state": "future"
     },
     "airportsys.com": {
@@ -11125,9 +11125,9 @@
         "state": "past"
     },
     "evkc.com": {
-        "epoch": 1561075200,
-        "expiration_date": "21-jun-2019",
-        "state": "past"
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
     },
     "evobill.biz": {
         "epoch": "1576368000",
