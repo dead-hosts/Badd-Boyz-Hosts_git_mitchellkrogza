@@ -985,9 +985,9 @@
         "state": "future"
     },
     "3dviolet.com": {
-        "epoch": "1561334400",
+        "epoch": 1561334400,
         "expiration_date": "24-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "3gplay.pl": {
         "epoch": "1569888000",
