@@ -1695,9 +1695,9 @@
         "state": "future"
     },
     "9n68b4.top": {
-        "epoch": "1561766400",
+        "epoch": 1561766400,
         "expiration_date": "29-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "9stoneinvestments.com": {
         "epoch": "1576368000",
