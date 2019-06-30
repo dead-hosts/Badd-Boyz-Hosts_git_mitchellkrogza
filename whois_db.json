@@ -6855,9 +6855,9 @@
         "state": "future"
     },
     "cinedaily.com": {
-        "epoch": 1561766400,
-        "expiration_date": "29-jun-2019",
-        "state": "past"
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
     },
     "cineface.com": {
         "epoch": "1563408000",
