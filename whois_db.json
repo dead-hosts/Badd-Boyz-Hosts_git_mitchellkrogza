@@ -580,8 +580,8 @@
         "state": "future"
     },
     "1stat.ru": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "1stproxy.info": {
@@ -2145,9 +2145,9 @@
         "state": "future"
     },
     "acornpointlodge.com": {
-        "epoch": "1562025600",
+        "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "acoustoopticmodulator.com": {
         "epoch": "1577059200",
