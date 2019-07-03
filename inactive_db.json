@@ -1527,13 +1527,12 @@
         "1561833254": {},
         "1561919954": {},
         "1562006462": {},
-        "1562093534": {
-            "angel-x.com": "INACTIVE"
-        },
+        "1562093534": {},
         "1562180605": {
             "a.jadizayo.com": "INACTIVE",
             "a.mozefakt.com": "INACTIVE",
-            "a.muligov.com": "INACTIVE"
+            "a.muligov.com": "INACTIVE",
+            "angel-x.com": "INACTIVE"
         }
     }
 }
