@@ -1534,9 +1534,11 @@
         },
         "1562438083": {},
         "1562524656": {
-            "a.jadizayo.com": "INACTIVE",
             "a.mozefakt.com": "INACTIVE",
             "a.muligov.com": "INACTIVE"
+        },
+        "1562611320": {
+            "a.jadizayo.com": "INACTIVE"
         }
     }
 }
