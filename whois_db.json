@@ -17565,8 +17565,8 @@
         "state": "future"
     },
     "ipcom.ru": {
-        "epoch": "1562457600",
-        "expiration_date": "07-jul-2019",
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "ipdcgsdjkz.bid": {
@@ -17595,8 +17595,8 @@
         "state": "future"
     },
     "ipmsc.com": {
-        "epoch": "1562198400",
-        "expiration_date": "04-jul-2019",
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
         "state": "future"
     },
     "ipndulsempjgb.bid": {
@@ -18185,9 +18185,9 @@
         "state": "future"
     },
     "kabannihon.biz": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "kadikoyden.com": {
         "epoch": "1569542400",
@@ -18440,8 +18440,8 @@
         "state": "future"
     },
     "keepcolletive.com": {
-        "epoch": "1565308800",
-        "expiration_date": "09-aug-2019",
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "keephide.com": {
@@ -18470,9 +18470,9 @@
         "state": "past"
     },
     "kellnerengenharia.com.br": {
-        "epoch": "1565568000",
+        "epoch": 1565568000,
         "expiration_date": "12-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "kelly-arrant.us": {
         "epoch": "1539734400",
@@ -18790,8 +18790,8 @@
         "state": "future"
     },
     "kittystore.net": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "kiviksaif.se": {
@@ -19365,18 +19365,18 @@
         "state": "future"
     },
     "landreferat.ru": {
-        "epoch": "1561852800",
-        "expiration_date": "30-jun-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "landscaping.center": {
-        "epoch": "1565308800",
-        "expiration_date": "09-aug-2019",
+        "epoch": 1596931200,
+        "expiration_date": "09-aug-2020",
         "state": "future"
     },
     "landtrades.co.uk": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1596844800,
+        "expiration_date": "08-aug-2020",
         "state": "future"
     },
     "languagecode.com": {
@@ -19440,8 +19440,8 @@
         "state": "future"
     },
     "larutti.ru": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "lasherzlinks.com": {
@@ -19675,8 +19675,8 @@
         "state": "future"
     },
     "li-er.ru": {
-        "epoch": "1562112000",
-        "expiration_date": "03-jul-2019",
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "li122.cn": {
@@ -21610,8 +21610,8 @@
         "state": "future"
     },
     "my-big-family.com": {
-        "epoch": "1560902400",
-        "expiration_date": "19-jun-2019",
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "my-facial.com": {
@@ -24860,8 +24860,8 @@
         "state": "past"
     },
     "porno-raskazy.ru": {
-        "epoch": "1562803200",
-        "expiration_date": "11-jul-2019",
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "porno-service.com": {
@@ -30925,9 +30925,9 @@
         "state": "future"
     },
     "simple-image.com.ua": {
-        "epoch": "1562544000",
+        "epoch": 1562544000,
         "expiration_date": "08-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "simplenobile.com": {
         "epoch": "1582588800",
@@ -31615,8 +31615,8 @@
         "state": "future"
     },
     "solnplast.ru": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "solve.nu": {
@@ -31850,8 +31850,8 @@
         "state": "future"
     },
     "stainless-steel-producers.com": {
-        "epoch": "1561593600",
-        "expiration_date": "27-jun-2019",
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "stairliftsarea.com": {
@@ -31905,8 +31905,8 @@
         "state": "future"
     },
     "star-modelgroup.com": {
-        "epoch": "1564012800",
-        "expiration_date": "25-jul-2019",
+        "epoch": 1595635200,
+        "expiration_date": "25-jul-2020",
         "state": "future"
     },
     "star-movies.com": {
@@ -31955,8 +31955,8 @@
         "state": "past"
     },
     "startuptuesday.com": {
-        "epoch": "1564272000",
-        "expiration_date": "28-jul-2019",
+        "epoch": 1595894400,
+        "expiration_date": "28-jul-2020",
         "state": "future"
     },
     "starvirgin.com": {
@@ -37935,9 +37935,9 @@
         "state": "future"
     },
     "yur-p.ru": {
-        "epoch": 1560643200,
-        "expiration_date": "16-jun-2019",
-        "state": "past"
+        "epoch": 1595116800,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
     },
     "yurgorod.ru": {
         "epoch": "1566000000",
@@ -38005,13 +38005,13 @@
         "state": "future"
     },
     "zastenchivosti.net": {
-        "epoch": "1564963200",
-        "expiration_date": "05-aug-2019",
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
         "state": "future"
     },
     "zavariushoponline.com": {
-        "epoch": "1562803200",
-        "expiration_date": "11-jul-2019",
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
         "state": "future"
     },
     "zazagames.org": {
@@ -38220,8 +38220,8 @@
         "state": "future"
     },
     "zona-aqua.ru": {
-        "epoch": "1561161600",
-        "expiration_date": "22-jun-2019",
+        "epoch": 1592784000,
+        "expiration_date": "22-jun-2020",
         "state": "future"
     },
     "zonaamateur.com": {
@@ -38345,9 +38345,9 @@
         "state": "future"
     },
     "zrdom.com.ua": {
-        "epoch": 1560384000,
-        "expiration_date": "13-jun-2019",
-        "state": "past"
+        "epoch": 1592006400,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
     },
     "zssdi.it": {
         "epoch": "1573862400",
