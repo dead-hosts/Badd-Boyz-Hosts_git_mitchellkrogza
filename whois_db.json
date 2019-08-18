@@ -30795,9 +30795,9 @@
         "state": "future"
     },
     "shmetall.com.ua": {
-        "epoch": "1566000000",
+        "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "shockinganals.com": {
         "epoch": "1572307200",
@@ -37940,8 +37940,8 @@
         "state": "future"
     },
     "yurgorod.ru": {
-        "epoch": "1566000000",
-        "expiration_date": "17-aug-2019",
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "z-master.ru": {
