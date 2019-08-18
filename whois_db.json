@@ -2030,9 +2030,9 @@
         "state": "future"
     },
     "aboomnsaoq.top": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "abouthomesdecorating.com": {
         "epoch": "1588204800",
@@ -4310,9 +4310,9 @@
         "state": "future"
     },
     "avkzarabotok.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "avkzarabotok.info": {
         "epoch": "1581897600",
