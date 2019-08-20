@@ -425,8 +425,8 @@
         "state": "future"
     },
     "178evakuator178.ru": {
-        "epoch": "1565913600",
-        "expiration_date": "16-aug-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "17chezhan.com": {
@@ -21675,8 +21675,8 @@
         "state": "future"
     },
     "myanmardream.com": {
-        "epoch": "1566172800",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "myanyone.net": {
@@ -30795,9 +30795,9 @@
         "state": "future"
     },
     "shmetall.com.ua": {
-        "epoch": 1566000000,
-        "expiration_date": "17-aug-2019",
-        "state": "past"
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
     },
     "shockinganals.com": {
         "epoch": "1572307200",
@@ -37880,8 +37880,8 @@
         "state": "past"
     },
     "ytf8i5ce.top": {
-        "epoch": "1566172800",
-        "expiration_date": "19-aug-2019",
+        "epoch": 1597795200,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "ytiqdpws.bid": {
