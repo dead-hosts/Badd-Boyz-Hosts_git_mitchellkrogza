@@ -1970,9 +1970,9 @@
         "state": "future"
     },
     "abcsex.dk": {
-        "epoch": "1567209600",
+        "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "abctoppictures.net": {
         "epoch": "1573171200",
@@ -2215,8 +2215,8 @@
         "state": "future"
     },
     "actulite.com": {
-        "epoch": "1567209600",
-        "expiration_date": "31-aug-2019",
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "ad-logics.com": {
@@ -16895,9 +16895,9 @@
         "state": "future"
     },
     "ifuckshemales.com": {
-        "epoch": "1567296000",
+        "epoch": 1567296000,
         "expiration_date": "01-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "igadgetsworld.com": {
         "epoch": "1576454400",
