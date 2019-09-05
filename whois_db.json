@@ -10965,9 +10965,9 @@
         "state": "future"
     },
     "euadoroisso.com.br": {
-        "epoch": "1567641600",
+        "epoch": 1567641600,
         "expiration_date": "05-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "eugenevaultstorage.com": {
         "epoch": "1572566400",
@@ -16980,8 +16980,8 @@
         "state": "future"
     },
     "imaduras.com": {
-        "epoch": "1567641600",
-        "expiration_date": "05-sep-2019",
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "imafangirl.net": {
