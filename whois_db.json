@@ -1650,9 +1650,9 @@
         "state": "future"
     },
     "999webdesign.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "99bthgc.me": {
         "epoch": "1580342400",
@@ -2755,8 +2755,8 @@
         "state": "past"
     },
     "alloysteel.ru": {
-        "epoch": "1567814400",
-        "expiration_date": "07-sep-2019",
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "allpdfmags.net": {
@@ -7355,8 +7355,8 @@
         "state": "future"
     },
     "convertwordtoexcel.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "coocomall.com": {
