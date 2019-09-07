@@ -24905,8 +24905,8 @@
         "state": "future"
     },
     "porno-v1.com": {
-        "epoch": "1567728000",
-        "expiration_date": "06-sep-2019",
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "porno-video-photo.com": {
@@ -31080,8 +31080,8 @@
         "state": "future"
     },
     "sitebeam.net": {
-        "epoch": "1567814400",
-        "expiration_date": "07-sep-2019",
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
         "state": "future"
     },
     "siteduzero.net": {
@@ -31380,9 +31380,9 @@
         "state": "past"
     },
     "slutcock.com": {
-        "epoch": "1567814400",
+        "epoch": 1567814400,
         "expiration_date": "07-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "slutcorner.com": {
         "epoch": "1570752000",
