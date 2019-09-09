@@ -2330,9 +2330,9 @@
         "state": "future"
     },
     "alabamabackpage.com": {
-        "epoch": 1567900800,
-        "expiration_date": "08-sep-2019",
-        "state": "past"
+        "epoch": 1599523200,
+        "expiration_date": "08-sep-2020",
+        "state": "future"
     },
     "alamosupply.com": {
         "epoch": "1570838400",
@@ -2660,8 +2660,8 @@
         "state": "future"
     },
     "allergycenter.info": {
-        "epoch": "1567987200",
-        "expiration_date": "09-sep-2019",
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "allesohnegirls.net": {
@@ -16815,8 +16815,8 @@
         "state": "future"
     },
     "idkom.com": {
-        "epoch": "1567987200",
-        "expiration_date": "09-sep-2019",
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "ido3.com": {
@@ -17275,8 +17275,8 @@
         "state": "future"
     },
     "interesnie-faktu.ru": {
-        "epoch": "1567987200",
-        "expiration_date": "09-sep-2019",
+        "epoch": 1599609600,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "interfucks.net": {
