@@ -31055,8 +31055,8 @@
         "state": "future"
     },
     "sisterincest.com": {
-        "epoch": "1568073600",
-        "expiration_date": "10-sep-2019",
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "sisyfos.se": {
@@ -31530,9 +31530,9 @@
         "state": "future"
     },
     "softclit.com": {
-        "epoch": "1568073600",
+        "epoch": 1568073600,
         "expiration_date": "10-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "softfeather.nu": {
         "epoch": "1540944000",
