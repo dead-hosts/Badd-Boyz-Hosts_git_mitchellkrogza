@@ -31530,9 +31530,9 @@
         "state": "future"
     },
     "softclit.com": {
-        "epoch": 1568073600,
-        "expiration_date": "10-sep-2019",
-        "state": "past"
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
     },
     "softfeather.nu": {
         "epoch": "1540944000",
@@ -37855,9 +37855,9 @@
         "state": "past"
     },
     "yplassembly.in": {
-        "epoch": "1568160000",
+        "epoch": 1568160000,
         "expiration_date": "11-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "yqmnyyfe.bid": {
         "epoch": "1535587200",
