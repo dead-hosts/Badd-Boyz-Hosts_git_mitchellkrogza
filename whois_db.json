@@ -11090,9 +11090,9 @@
         "state": "future"
     },
     "everytalk.tv": {
-        "epoch": "1568332800",
+        "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "everythingisstory.com": {
         "epoch": 1593561600,
@@ -12810,9 +12810,9 @@
         "state": "future"
     },
     "freegayporn.biz": {
-        "epoch": "1568332800",
+        "epoch": 1568332800,
         "expiration_date": "13-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "freegothicporn.org": {
         "epoch": "1569024000",
