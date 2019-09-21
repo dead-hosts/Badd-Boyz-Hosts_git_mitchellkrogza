@@ -100,8 +100,8 @@
         "state": "past"
     },
     "07634.com": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "080jxrab.top": {
@@ -605,8 +605,8 @@
         "state": "future"
     },
     "1wish.net": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1583884800,
+        "expiration_date": "11-mar-2020",
         "state": "future"
     },
     "1worlditsolutions.com": {
@@ -705,29 +705,29 @@
         "state": "future"
     },
     "257639.com": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "259572.com": {
-        "epoch": "1569024000",
+        "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "267932.com": {
-        "epoch": "1569024000",
+        "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "271395.com": {
-        "epoch": "1569024000",
+        "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "272351.com": {
-        "epoch": "1569024000",
+        "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "280h.info": {
         "epoch": "1576800000",
@@ -980,8 +980,8 @@
         "state": "past"
     },
     "3dsemulator.info": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
         "state": "future"
     },
     "3dviolet.com": {
@@ -1085,8 +1085,8 @@
         "state": "future"
     },
     "4asianporn.com": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "4beast.com": {
@@ -1350,8 +1350,8 @@
         "state": "future"
     },
     "60secpanic.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "65xps.com": {
@@ -1935,8 +1935,8 @@
         "state": "future"
     },
     "abadass.com": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "abahah.com": {
@@ -2130,8 +2130,8 @@
         "state": "future"
     },
     "acompanhantesbrasil.com.br": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "acompanhantesdeportugal.com": {
