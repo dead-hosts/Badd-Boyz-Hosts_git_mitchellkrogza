@@ -31645,8 +31645,8 @@
         "state": "future"
     },
     "spanking-sex.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1593475200,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "spankingvideo.us": {
@@ -31930,9 +31930,9 @@
         "state": "past"
     },
     "startlmes.com": {
-        "epoch": "1569024000",
+        "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "startonmonday.com": {
         "epoch": 1589846400,
@@ -38050,8 +38050,8 @@
         "state": "future"
     },
     "zeed2you.com": {
-        "epoch": "1568937600",
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "zeg-distribution.com": {
