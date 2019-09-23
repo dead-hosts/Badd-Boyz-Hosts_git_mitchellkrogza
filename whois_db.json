@@ -2550,9 +2550,9 @@
         "state": "future"
     },
     "aljassarengineering.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
-        "state": "past"
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
     },
     "alkalifeph.fr": {
         "epoch": "1554681600",
@@ -6842,6 +6842,11 @@
     "cif.su": {
         "epoch": "1578614400",
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "cigar.pt": {
+        "epoch": 1596240000,
+        "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "cigarette-online.com": {
