@@ -7315,8 +7315,8 @@
         "state": "future"
     },
     "construfuturo.com.mx": {
-        "epoch": "1569196800",
-        "expiration_date": "23-sep-2019",
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "construmac.com.mx": {
@@ -16990,9 +16990,9 @@
         "state": "future"
     },
     "imafangirl.net": {
-        "epoch": "1569196800",
+        "epoch": 1569196800,
         "expiration_date": "23-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "imagecoolpub.com": {
         "epoch": "1577404800",
