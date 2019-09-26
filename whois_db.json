@@ -4325,8 +4325,8 @@
         "state": "future"
     },
     "avoidfilter.net": {
-        "epoch": "1569456000",
-        "expiration_date": "26-sep-2019",
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
         "state": "future"
     },
     "avon-novosib.ru": {
