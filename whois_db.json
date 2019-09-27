@@ -110,9 +110,9 @@
         "state": "future"
     },
     "09zyy.com": {
-        "epoch": "1569542400",
+        "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "0azx1.com": {
         "epoch": "1576195200",
@@ -4305,9 +4305,9 @@
         "state": "future"
     },
     "avixxx.com": {
-        "epoch": "1569542400",
+        "epoch": 1569542400,
         "expiration_date": "27-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "avkzarabotok.com": {
         "epoch": 1597536000,
