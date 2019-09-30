@@ -460,8 +460,8 @@
         "state": "future"
     },
     "18freeporn.com": {
-        "epoch": "1569801600",
-        "expiration_date": "30-sep-2019",
+        "epoch": 1639699200,
+        "expiration_date": "17-dec-2021",
         "state": "future"
     },
     "18hdxxx.com": {
@@ -540,8 +540,8 @@
         "state": "future"
     },
     "1forced.com": {
-        "epoch": "1569801600",
-        "expiration_date": "30-sep-2019",
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "1hour.info": {
@@ -770,8 +770,8 @@
         "state": "future"
     },
     "2gay.net": {
-        "epoch": "1569801600",
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "2girls1cumshot.com": {
@@ -2375,9 +2375,9 @@
         "state": "future"
     },
     "alberguecasaanita.com": {
-        "epoch": "1569801600",
+        "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "alblux.com": {
         "epoch": "1575849600",
