@@ -990,9 +990,9 @@
         "state": "future"
     },
     "3gplay.pl": {
-        "epoch": "1569888000",
+        "epoch": 1569888000,
         "expiration_date": "01-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "3henterprise.com": {
         "epoch": "1607212800",
