@@ -990,9 +990,9 @@
         "state": "future"
     },
     "3gplay.pl": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
-        "state": "past"
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
     },
     "3henterprise.com": {
         "epoch": "1607212800",
@@ -2375,9 +2375,9 @@
         "state": "future"
     },
     "alberguecasaanita.com": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
-        "state": "past"
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
     },
     "alblux.com": {
         "epoch": "1575849600",
