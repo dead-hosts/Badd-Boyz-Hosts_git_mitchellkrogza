@@ -235,8 +235,8 @@
         "state": "future"
     },
     "101billion.com": {
-        "epoch": "1570492800",
-        "expiration_date": "08-oct-2019",
+        "epoch": 1577145600,
+        "expiration_date": "24-dec-2019",
         "state": "future"
     },
     "101cities.se": {
