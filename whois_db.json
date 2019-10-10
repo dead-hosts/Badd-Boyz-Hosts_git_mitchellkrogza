@@ -675,9 +675,9 @@
         "state": "future"
     },
     "247locksmith-tucson.com": {
-        "epoch": "1570665600",
+        "epoch": 1570665600,
         "expiration_date": "10-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "247lyrics.com": {
         "epoch": "1572825600",
@@ -1470,9 +1470,9 @@
         "state": "future"
     },
     "791026.com": {
-        "epoch": "1570665600",
+        "epoch": 1570665600,
         "expiration_date": "10-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "7cfmnf.top": {
         "epoch": "1571184000",
