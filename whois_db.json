@@ -675,9 +675,9 @@
         "state": "future"
     },
     "247locksmith-tucson.com": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
-        "state": "past"
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
     },
     "247lyrics.com": {
         "epoch": "1572825600",
