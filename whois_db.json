@@ -1105,9 +1105,9 @@
         "state": "future"
     },
     "4ever.cc": {
-        "epoch": "1570838400",
+        "epoch": 1570838400,
         "expiration_date": "12-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "4girlss.com": {
         "epoch": "1578528000",
@@ -2335,9 +2335,9 @@
         "state": "future"
     },
     "alamosupply.com": {
-        "epoch": "1570838400",
+        "epoch": 1570838400,
         "expiration_date": "12-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "alamuk.com": {
         "epoch": "1577491200",
