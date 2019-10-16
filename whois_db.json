@@ -1475,9 +1475,9 @@
         "state": "future"
     },
     "7cfmnf.top": {
-        "epoch": "1571184000",
+        "epoch": 1571184000,
         "expiration_date": "16-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "7fb.ru": {
         "epoch": 1594080000,
