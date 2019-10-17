@@ -1225,9 +1225,9 @@
         "state": "future"
     },
     "4youcom.com": {
-        "epoch": "1571270400",
+        "epoch": 1571270400,
         "expiration_date": "17-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "5000-cotydzien.com": {
         "epoch": "1569369600",
