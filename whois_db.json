@@ -1295,8 +1295,8 @@
         "state": "future"
     },
     "5finder.com": {
-        "epoch": "1571443200",
-        "expiration_date": "19-oct-2019",
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
         "state": "future"
     },
     "5forex.ru": {
@@ -3650,8 +3650,8 @@
         "state": "future"
     },
     "angelinfo.com": {
-        "epoch": "1570579200",
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "anhangueraeducacional.com": {
@@ -7160,8 +7160,8 @@
         "state": "past"
     },
     "com-reports.com": {
-        "epoch": "1569801600",
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "com-sms-id.com": {
