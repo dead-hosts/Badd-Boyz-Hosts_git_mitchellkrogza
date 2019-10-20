@@ -135,8 +135,8 @@
         "state": "future"
     },
     "0m4.ru": {
-        "epoch": "1571529600",
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "0n-line.tv": {
@@ -14655,9 +14655,9 @@
         "state": "past"
     },
     "graffcolor.net": {
-        "epoch": "1571529600",
+        "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "grafit.pl": {
         "epoch": "1585180800",
