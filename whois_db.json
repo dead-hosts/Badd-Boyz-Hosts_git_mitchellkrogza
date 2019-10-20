@@ -16600,9 +16600,9 @@
         "state": "past"
     },
     "hy-tec.com": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "hybrid.ru": {
         "epoch": 1590451200,
@@ -19725,9 +19725,9 @@
         "state": "future"
     },
     "libidoo.net": {
-        "epoch": 1571443200,
-        "expiration_date": "19-oct-2019",
-        "state": "past"
+        "epoch": 1603065600,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
     },
     "licealistki.pl": {
         "epoch": "1574640000",
@@ -31470,9 +31470,9 @@
         "state": "future"
     },
     "smiles.org.il": {
-        "epoch": "1571529600",
+        "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "smilingboys.com": {
         "epoch": "1576800000",
