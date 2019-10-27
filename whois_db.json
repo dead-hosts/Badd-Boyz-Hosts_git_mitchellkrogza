@@ -545,8 +545,8 @@
         "state": "future"
     },
     "1hour.info": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "1hwy.com": {
@@ -830,8 +830,8 @@
         "state": "future"
     },
     "2n2qlh5hqcwrvo.net": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "2o34.com": {
@@ -920,8 +920,8 @@
         "state": "future"
     },
     "34.gs": {
-        "epoch": "1572134400",
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "365locksmithsminneapolis.com": {
@@ -940,8 +940,8 @@
         "state": "future"
     },
     "3am.info": {
-        "epoch": "1572048000",
-        "expiration_date": "26-oct-2019",
+        "epoch": 1579132800,
+        "expiration_date": "16-jan-2020",
         "state": "future"
     },
     "3angelsvideo.com": {
@@ -1045,8 +1045,8 @@
         "state": "future"
     },
     "3xit.net": {
-        "epoch": "1572134400",
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "3xlist.com": {
@@ -14530,14 +14530,14 @@
         "state": "future"
     },
     "gocitytext.com": {
-        "epoch": "1572048000",
+        "epoch": 1572048000,
         "expiration_date": "26-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "goddessvip.com": {
-        "epoch": "1572134400",
+        "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "godegodage.com": {
         "epoch": "1572652800",
