@@ -1220,9 +1220,9 @@
         "state": "future"
     },
     "4xporn.com": {
-        "epoch": "1572393600",
+        "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "4youcom.com": {
         "epoch": 1602892800,
@@ -1585,8 +1585,8 @@
         "state": "future"
     },
     "8si.ru": {
-        "epoch": "1572393600",
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "8streams.com": {
@@ -2520,9 +2520,9 @@
         "state": "future"
     },
     "aliecspres.com": {
-        "epoch": "1572393600",
+        "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "aliexpresscashback.club": {
         "epoch": "1556323200",
@@ -14525,9 +14525,9 @@
         "state": "future"
     },
     "gobusinessloan.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
-        "state": "past"
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
     },
     "gocitytext.com": {
         "epoch": 1572048000,
