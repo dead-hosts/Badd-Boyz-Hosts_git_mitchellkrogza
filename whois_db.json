@@ -435,8 +435,8 @@
         "state": "future"
     },
     "17youzi.com": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "1818sex.com": {
@@ -575,8 +575,8 @@
         "state": "future"
     },
     "1re.info": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1581897600,
+        "expiration_date": "17-feb-2020",
         "state": "future"
     },
     "1stat.ru": {
@@ -955,8 +955,8 @@
         "state": "future"
     },
     "3d-daughter-list.info": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "3dbluerayplayer.com": {
@@ -1220,9 +1220,9 @@
         "state": "future"
     },
     "4xporn.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "4youcom.com": {
         "epoch": 1602892800,
@@ -1660,8 +1660,8 @@
         "state": "future"
     },
     "99topnn.info": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "9c51vda.com": {
@@ -2520,9 +2520,9 @@
         "state": "future"
     },
     "aliecspres.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "aliexpresscashback.club": {
         "epoch": "1556323200",
@@ -7745,8 +7745,8 @@
         "state": "future"
     },
     "csk2014.info": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "csmc.org": {
