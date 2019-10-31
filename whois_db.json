@@ -16660,8 +16660,8 @@
         "state": "future"
     },
     "hymen-defloration.info": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "hympsvtktvtm.biz": {
@@ -16740,8 +16740,8 @@
         "state": "future"
     },
     "icipourtoi.com": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1579305600,
+        "expiration_date": "18-jan-2020",
         "state": "future"
     },
     "icloud-ifor.com": {
@@ -18180,8 +18180,8 @@
         "state": "future"
     },
     "justteenmovie.com": {
-        "epoch": "1572480000",
-        "expiration_date": "31-oct-2019",
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
         "state": "future"
     },
     "k9europe.com": {
@@ -38425,9 +38425,9 @@
         "state": "future"
     },
     "zzhomes.com": {
-        "epoch": "1572480000",
+        "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "zzqrt.com": {
         "epoch": "1585785600",
