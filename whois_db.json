@@ -16810,9 +16810,9 @@
         "state": "future"
     },
     "idecoideas.com": {
-        "epoch": "1572566400",
+        "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "ideibiznesa2015.ru": {
         "epoch": "1575158400",
@@ -17355,8 +17355,8 @@
         "state": "future"
     },
     "interracial-anal1.com": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "interracial-dating-services.info": {
@@ -37875,8 +37875,8 @@
         "state": "past"
     },
     "ypcpw.com": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
         "state": "future"
     },
     "ypfghpqnkgbxu.bid": {
@@ -38425,9 +38425,9 @@
         "state": "future"
     },
     "zzhomes.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
     },
     "zzqrt.com": {
         "epoch": "1585785600",
