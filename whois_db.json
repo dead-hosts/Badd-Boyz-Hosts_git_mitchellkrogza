@@ -400,8 +400,8 @@
         "state": "future"
     },
     "15bb51.info": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1581292800,
+        "expiration_date": "10-feb-2020",
         "state": "future"
     },
     "15x.info": {
@@ -485,8 +485,8 @@
         "state": "future"
     },
     "18pure.info": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1579478400,
+        "expiration_date": "20-jan-2020",
         "state": "future"
     },
     "18teengirl.com": {
@@ -1260,9 +1260,9 @@
         "state": "future"
     },
     "529collegesaving.com": {
-        "epoch": "1572566400",
+        "epoch": 1572566400,
         "expiration_date": "01-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "52djcy.com": {
         "epoch": "1574553600",
@@ -2510,8 +2510,8 @@
         "state": "future"
     },
     "alibestsale.com": {
-        "epoch": "1572566400",
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "aliclonepro.xyz": {
