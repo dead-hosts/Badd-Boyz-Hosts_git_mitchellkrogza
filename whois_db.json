@@ -16810,9 +16810,9 @@
         "state": "future"
     },
     "idecoideas.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
-        "state": "past"
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "ideibiznesa2015.ru": {
         "epoch": "1575158400",
@@ -16835,9 +16835,9 @@
         "state": "future"
     },
     "idolax.com": {
-        "epoch": "1572652800",
+        "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "idolhairsalon.com": {
         "epoch": 1601078400,
@@ -31585,9 +31585,9 @@
         "state": "future"
     },
     "softupdate.net": {
-        "epoch": "1572652800",
+        "epoch": 1572652800,
         "expiration_date": "02-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "softwareoutfit.com": {
         "epoch": "1577923200",
