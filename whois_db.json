@@ -18775,8 +18775,8 @@
         "state": "future"
     },
     "kit-opt.ru": {
-        "epoch": "1572825600",
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "kitabagi.id": {
@@ -24935,9 +24935,9 @@
         "state": "future"
     },
     "porno.biz.pl": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "pornoduel.com": {
         "epoch": "1577923200",
@@ -38005,9 +38005,9 @@
         "state": "future"
     },
     "zapme.net": {
-        "epoch": 1572739200,
-        "expiration_date": "03-nov-2019",
-        "state": "past"
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
     },
     "zapreal.com": {
         "epoch": "1574640000",
