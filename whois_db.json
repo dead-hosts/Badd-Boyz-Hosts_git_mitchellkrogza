@@ -965,9 +965,9 @@
         "state": "future"
     },
     "3dcgfx.net": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "3dpassport.com": {
         "epoch": 1592006400,
