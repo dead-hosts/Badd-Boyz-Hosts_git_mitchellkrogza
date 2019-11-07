@@ -21780,8 +21780,8 @@
         "state": "future"
     },
     "mydancexpress.com": {
-        "epoch": "1572998400",
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "mydanfoss.com": {
@@ -30810,9 +30810,9 @@
         "state": "future"
     },
     "shivafurnishings.com": {
-        "epoch": "1573084800",
+        "epoch": 1573084800,
         "expiration_date": "07-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "shlyahten.ru": {
         "epoch": "1571270400",
@@ -31475,9 +31475,9 @@
         "state": "future"
     },
     "smiles.org.il": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
-        "state": "past"
+        "epoch": 1634688000,
+        "expiration_date": "20-oct-2021",
+        "state": "future"
     },
     "smilingboys.com": {
         "epoch": "1576800000",
@@ -31595,8 +31595,8 @@
         "state": "future"
     },
     "softwaretrend.net": {
-        "epoch": "1572998400",
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "softxaker.ru": {
