@@ -352,7 +352,7 @@
     "12research.com": {
         "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "12u.info": {
         "epoch": "1589241600",
@@ -1365,8 +1365,8 @@
         "state": "future"
     },
     "666s.info": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
         "state": "future"
     },
     "66av.cc": {
@@ -1420,9 +1420,9 @@
         "state": "future"
     },
     "6ftlady.com": {
-        "epoch": 1574380800.0,
-        "expiration_date": "22-nov-2019",
-        "state": "past"
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
     },
     "6server.com": {
         "epoch": 1600905600.0,

@@ -1546,12 +1546,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "1574451203": {
-            "25cat.tk": "INACTIVE"
-        },
-        "1574451245": {
-            "ici-sexe.tk": "INACTIVE"
-        },
         "1574451351": {
             "007freepics.com": "INACTIVE",
             "1stproxy.info": "INACTIVE",
@@ -1645,6 +1639,12 @@
             "zone3x.net": "INACTIVE",
             "zoo-x.net": "INACTIVE",
             "zybezradio.com": "INACTIVE"
+        },
+        "1574537706": {
+            "6.spacepur.de": "INACTIVE"
+        },
+        "1574537759": {
+            "25cat.tk": "INACTIVE"
         }
     }
 }
