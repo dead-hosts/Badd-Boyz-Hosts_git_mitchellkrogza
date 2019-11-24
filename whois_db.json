@@ -350,9 +350,9 @@
         "state": "future"
     },
     "12research.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
-        "state": "past"
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
+        "state": "future"
     },
     "12u.info": {
         "epoch": "1589241600",
@@ -790,8 +790,8 @@
         "state": "future"
     },
     "2kporn.com": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "2lesbians.net": {
@@ -915,8 +915,8 @@
         "state": "future"
     },
     "3278dy.com": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "34.gs": {
@@ -1265,8 +1265,8 @@
         "state": "future"
     },
     "52djcy.com": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
         "state": "future"
     },
     "550a.com": {
@@ -2465,8 +2465,8 @@
         "state": "future"
     },
     "alfa-search.com": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
         "state": "future"
     },
     "alfa9.com": {
@@ -3747,7 +3747,7 @@
     "appyaviator.com": {
         "epoch": 1574553600.0,
         "expiration_date": "24-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "aprendainglesya.com.ve": {
         "epoch": "1520208000",
@@ -4300,8 +4300,8 @@
         "state": "future"
     },
     "avitocars.ru": {
-        "epoch": 1574553600.0,
-        "expiration_date": "24-nov-2019",
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "avixxx.com": {
