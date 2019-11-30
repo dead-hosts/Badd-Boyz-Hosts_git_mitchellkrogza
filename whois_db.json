@@ -7725,9 +7725,9 @@
         "state": "future"
     },
     "csgoezknife.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
-        "state": "past"
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
     },
     "csgojackpot.im": {
         "epoch": "1548547200",
@@ -16615,8 +16615,8 @@
         "state": "future"
     },
     "hydropneuengg.com": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "hydropump.su": {
@@ -18450,7 +18450,7 @@
         "state": "future"
     },
     "keepcolletive.com": {
-        "epoch": 1596931200,
+        "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
