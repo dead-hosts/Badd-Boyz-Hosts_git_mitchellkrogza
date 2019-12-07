@@ -1546,9 +1546,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "1575631684": {
-            "all4invest.ru": "INACTIVE"
-        },
         "1575674607": {
             "175storis.com": "INACTIVE",
             "1whore.com": "INACTIVE",
@@ -1636,6 +1633,9 @@
             "zone3x.net": "INACTIVE",
             "zoo-x.net": "INACTIVE",
             "zybezradio.com": "INACTIVE"
+        },
+        "1575730266": {
+            "all4invest.ru": "INACTIVE"
         }
     }
 }
