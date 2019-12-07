@@ -7332,7 +7332,7 @@
     "contactos-gay.com": {
         "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "contactosporno.net": {
         "epoch": "1575849600",
@@ -14880,9 +14880,9 @@
         "state": "future"
     },
     "greatsimplicity.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "greatwork.info": {
         "epoch": "1570060800",
