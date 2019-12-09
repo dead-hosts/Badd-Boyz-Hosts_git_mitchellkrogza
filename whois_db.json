@@ -50,29 +50,29 @@
         "state": "future"
     },
     "012br.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "013sv.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "015gf.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "016ih.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "017gj.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "01apple.com": {
         "epoch": 1576800000.0,
@@ -375,8 +375,8 @@
         "state": "future"
     },
     "138shenbosbo.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1582675200.0,
+        "expiration_date": "26-feb-2020",
         "state": "future"
     },
     "13tabs.com": {
@@ -1580,8 +1580,8 @@
         "state": "future"
     },
     "8rf.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "8si.ru": {
@@ -2380,8 +2380,8 @@
         "state": "future"
     },
     "alblux.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "alboautotrasportatori.it": {
@@ -3212,7 +3212,7 @@
     "amatueranal.com": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "amaturesex.net": {
         "epoch": "1571356800",
@@ -3640,9 +3640,9 @@
         "state": "future"
     },
     "angelbetting.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
     },
     "angelfuns.info": {
         "epoch": "1572480000",
