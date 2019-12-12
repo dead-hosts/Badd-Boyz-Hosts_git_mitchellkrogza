@@ -1572,7 +1572,6 @@
             "3xlist.com": "INACTIVE",
             "4unblock.info": "INACTIVE",
             "5000-cotydzien.com": "INACTIVE",
-            "6.spacepur.de": "INACTIVE",
             "7156.info": "INACTIVE",
             "a-n-o-n-y-m-o-u-s.info": "INACTIVE",
             "a.namitol.com": "INACTIVE",
@@ -1635,6 +1634,9 @@
             "zone3x.net": "INACTIVE",
             "zoo-x.net": "INACTIVE",
             "zybezradio.com": "INACTIVE"
+        },
+        "1576145562": {
+            "6.spacepur.de": "INACTIVE"
         }
     }
 }
