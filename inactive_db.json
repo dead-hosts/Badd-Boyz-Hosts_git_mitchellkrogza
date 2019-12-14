@@ -1546,9 +1546,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "1576145562": {
-            "6.spacepur.de": "INACTIVE"
-        },
         "1576150092": {
             "007freepics.com": "INACTIVE",
             "1whore.com": "INACTIVE",
@@ -1636,6 +1633,12 @@
             "zc1.delta-boa.com": "INACTIVE",
             "zoo-x.net": "INACTIVE",
             "zybezradio.com": "INACTIVE"
+        },
+        "1576347151": {
+            "acunt-fanpage00.plis-suport2-center.ga": "INACTIVE"
+        },
+        "1576347162": {
+            "bacanal.cl": "INACTIVE"
         }
     }
 }

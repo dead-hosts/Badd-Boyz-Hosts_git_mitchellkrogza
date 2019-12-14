@@ -1,6 +1,6 @@
 {
     "000free.us": {
-        "epoch": "1580774400",
+        "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
         "state": "future"
     },
@@ -115,8 +115,8 @@
         "state": "future"
     },
     "0azx1.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "0cc175b9c0f1b6a831c399e269772661.com": {
@@ -492,7 +492,7 @@
     "18teengirl.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "18xtube.com": {
         "epoch": 1577750400.0,
@@ -1515,8 +1515,8 @@
         "state": "future"
     },
     "7y7.us": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "7yue.org": {
@@ -3380,7 +3380,7 @@
         "state": "future"
     },
     "amung.us": {
-        "epoch": "1647475200",
+        "epoch": 1647475200.0,
         "expiration_date": "17-mar-2022",
         "state": "future"
     },
