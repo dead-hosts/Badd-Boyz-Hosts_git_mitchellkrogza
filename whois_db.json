@@ -490,9 +490,9 @@
         "state": "future"
     },
     "18teengirl.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
-        "state": "past"
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
     },
     "18xtube.com": {
         "epoch": 1577750400.0,
@@ -1700,8 +1700,8 @@
         "state": "future"
     },
     "9stoneinvestments.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "9thien.com": {
@@ -2027,7 +2027,7 @@
     "abogadodejacksonville.com": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "aboomnsaoq.top": {
         "epoch": 1597708800,
@@ -4327,7 +4327,7 @@
     "avoidfilter.net": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "avon-novosib.ru": {
         "epoch": "1562630400",
@@ -11137,7 +11137,7 @@
     "evobill.biz": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "evogarage.com": {
         "epoch": 1582675200.0,

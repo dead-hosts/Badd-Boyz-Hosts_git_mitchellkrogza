@@ -1546,12 +1546,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "1576347151": {
-            "acunt-fanpage00.plis-suport2-center.ga": "INACTIVE"
-        },
-        "1576347162": {
-            "bacanal.cl": "INACTIVE"
-        },
         "1576347659": {
             "007freepics.com": "INACTIVE",
             "1auntie-phone-sex.info": "INACTIVE",
@@ -1639,6 +1633,15 @@
             "zone3x.net": "INACTIVE",
             "zoo-x.net": "INACTIVE",
             "zybezradio.com": "INACTIVE"
+        },
+        "1576439541": {
+            "6.spacepur.de": "INACTIVE"
+        },
+        "1576439548": {
+            "acunt-fanpage00.plis-suport2-center.ga": "INACTIVE"
+        },
+        "1576439557": {
+            "bacanal.cl": "INACTIVE"
         }
     }
 }
