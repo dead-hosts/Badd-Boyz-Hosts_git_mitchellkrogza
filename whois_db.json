@@ -3620,9 +3620,9 @@
         "state": "past"
     },
     "angel-x.com": {
-        "epoch": "1537315200",
-        "expiration_date": "19-sep-2018",
-        "state": "past"
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
     },
     "angelalittle.net": {
         "epoch": 1596153600.0,
@@ -16532,7 +16532,7 @@
     "hunktoons.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "hunt4porn.com": {
         "epoch": 1603411200.0,
