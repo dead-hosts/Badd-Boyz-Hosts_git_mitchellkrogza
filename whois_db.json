@@ -237,7 +237,7 @@
     "101billion.com": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "101cities.se": {
         "epoch": "1535414400",
@@ -1832,7 +1832,7 @@
     "aac500b7a15b2646968f6bd8c6305869d7.com": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "aac52006ec82a24e08b665f4db2b5013f7.com": {
         "epoch": 1579305600.0,
