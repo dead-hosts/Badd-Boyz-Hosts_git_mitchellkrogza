@@ -497,7 +497,7 @@
     "18xtube.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "1920.co.kr": {
         "epoch": "1550880000",
@@ -1387,7 +1387,7 @@
     "69lingerie.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "69proof.com": {
         "epoch": 1605484800.0,
@@ -1997,7 +1997,7 @@
     "abeggs.com": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "abercrombiehollister.net": {
         "epoch": "1573516800",
@@ -3470,8 +3470,8 @@
         "state": "future"
     },
     "analdude.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "analextasy.com": {
