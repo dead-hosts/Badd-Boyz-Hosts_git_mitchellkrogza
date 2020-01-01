@@ -245,8 +245,8 @@
         "state": "past"
     },
     "101flag.ru": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "101gals.com": {
@@ -495,9 +495,9 @@
         "state": "future"
     },
     "18xtube.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "1920.co.kr": {
         "epoch": "1550880000",
@@ -1385,9 +1385,9 @@
         "state": "past"
     },
     "69lingerie.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "69proof.com": {
         "epoch": 1605484800.0,
@@ -1400,8 +1400,8 @@
         "state": "future"
     },
     "69tubex.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "6amateure.net": {
@@ -1995,9 +1995,9 @@
         "state": "future"
     },
     "abeggs.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "abercrombiehollister.net": {
         "epoch": "1573516800",
@@ -2125,8 +2125,8 @@
         "state": "future"
     },
     "acneforums.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "acompanhantesbrasil.com.br": {
@@ -7355,8 +7355,8 @@
         "state": "future"
     },
     "controlsecurity.net": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "convertwordtoexcel.com": {
