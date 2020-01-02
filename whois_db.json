@@ -467,7 +467,7 @@
     "18hdxxx.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "18pluscard.com": {
         "epoch": 1672876800.0,
@@ -657,7 +657,7 @@
     "22kkkk.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "24-ak.ru": {
         "epoch": 1600128000.0,
@@ -1722,7 +1722,7 @@
     "a1thumbpost.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "a2btrans.pl": {
         "epoch": 1596412800.0,
@@ -1930,8 +1930,8 @@
         "state": "future"
     },
     "abacuspresents.com": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "abadass.com": {
@@ -2607,7 +2607,7 @@
     "allaboutxxx.com": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "allamericanmadetoys.com": {
         "epoch": 1605744000.0,
@@ -3467,7 +3467,7 @@
     "analcreampie.net": {
         "epoch": 1577923200.0,
         "expiration_date": "02-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "analdude.com": {
         "epoch": 1609372800.0,
