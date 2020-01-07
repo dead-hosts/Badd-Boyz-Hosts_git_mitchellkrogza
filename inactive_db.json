@@ -1546,9 +1546,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "1578254307": {
-            "6.spacepur.de": "INACTIVE"
-        },
         "1578254719": {
             "175storis.com": "INACTIVE",
             "247lyrics.com": "INACTIVE",
@@ -1639,8 +1636,8 @@
             "zone3x.net": "INACTIVE",
             "zoo-x.net": "INACTIVE"
         },
-        "1578305558": {
-            "aviodg.eu": "INACTIVE"
+        "1578427142": {
+            "6.spacepur.de": "INACTIVE"
         }
     }
 }
