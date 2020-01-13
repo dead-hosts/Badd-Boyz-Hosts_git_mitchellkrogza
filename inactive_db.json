@@ -1546,13 +1546,10 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "1578773628": {
-            "6.spacepur.de": "INACTIVE"
+        "1578910407": {
+            "airmore.co": "INACTIVE"
         },
-        "1578773645": {
-            "constructionskills.in": "INACTIVE"
-        },
-        "1578774795": {
+        "1578912450": {
             "007freepics.com": "INACTIVE",
             "175storis.com": "INACTIVE",
             "1auntie-phone-sex.info": "INACTIVE",
@@ -1565,6 +1562,7 @@
             "3xlist.com": "INACTIVE",
             "4unblock.info": "INACTIVE",
             "5000-cotydzien.com": "INACTIVE",
+            "6.spacepur.de": "INACTIVE",
             "7156.info": "INACTIVE",
             "a-n-o-n-y-m-o-u-s.info": "INACTIVE",
             "a.kilomansa.com": "INACTIVE",
@@ -1594,6 +1592,7 @@
             "backseatbangers-porn.info": "INACTIVE",
             "ballymoreboardingkennels.ie": "INACTIVE",
             "com-todaynews.com": "INACTIVE",
+            "constructionskills.in": "INACTIVE",
             "contexualsearch.com": "INACTIVE",
             "crystalshoot.in": "INACTIVE",
             "esqchamber.com": "INACTIVE",
@@ -1638,9 +1637,6 @@
             "zone3x.net": "INACTIVE",
             "zoo-x.net": "INACTIVE",
             "zybezradio.com": "INACTIVE"
-        },
-        "1578910407": {
-            "airmore.co": "INACTIVE"
         }
     }
 }
