@@ -165,8 +165,8 @@
         "state": "past"
     },
     "1-800onlinecasino.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "1-free-share-buttons.com": {
@@ -6800,9 +6800,9 @@
         "state": "future"
     },
     "cialisforsalecialiscostcye.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
-        "state": "past"
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "state": "future"
     },
     "cialismed.com": {
         "epoch": 1597449600.0,
