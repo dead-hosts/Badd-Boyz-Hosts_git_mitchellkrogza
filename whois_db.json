@@ -47,7 +47,7 @@
     "01-sex-amateur.info": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "012br.com": {
         "epoch": 1607385600.0,
@@ -487,7 +487,7 @@
     "18pure.info": {
         "epoch": 1579478400.0,
         "expiration_date": "20-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "18teengirl.com": {
         "epoch": 1607904000.0,
@@ -1620,8 +1620,8 @@
         "state": "future"
     },
     "90i.info": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1586304000.0,
+        "expiration_date": "08-apr-2020",
         "state": "future"
     },
     "91abcw.com": {
@@ -7370,8 +7370,8 @@
         "state": "future"
     },
     "cookevegas.com": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "cookingmeat.ru": {
