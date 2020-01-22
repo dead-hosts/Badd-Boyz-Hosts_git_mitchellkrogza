@@ -1642,7 +1642,7 @@
     "98oi.ru": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "991mostfm.co.id": {
         "epoch": "1565136000",
@@ -12867,7 +12867,7 @@
     "freeindiangals.com": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "freelifeclub.org": {
         "epoch": "1569196800",
@@ -16700,8 +16700,8 @@
         "state": "future"
     },
     "hzdoctor.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "i-c-c-c.com": {
