@@ -1487,7 +1487,7 @@
     "7gfs.com": {
         "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "7minuteworkout.com": {
         "epoch": 1610668800.0,
@@ -2022,7 +2022,7 @@
     "ablefull.com": {
         "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "abogadodejacksonville.com": {
         "epoch": 1607990400.0,
@@ -14612,7 +14612,7 @@
     "gotporn.info": {
         "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "gottensikisx.net": {
         "epoch": "1536969600",
