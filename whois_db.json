@@ -932,7 +932,7 @@
     "377baidu.com": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "39bola.com": {
         "epoch": 1585526400.0,
@@ -1257,7 +1257,7 @@
     "5241.it": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "529collegesaving.com": {
         "epoch": 1604188800.0,
@@ -1485,9 +1485,9 @@
         "state": "future"
     },
     "7gfs.com": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
-        "state": "past"
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
     },
     "7minuteworkout.com": {
         "epoch": 1610668800.0,
@@ -6890,8 +6890,8 @@
         "state": "past"
     },
     "cinematraffic.com": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "cinepornox.com": {
@@ -7260,8 +7260,8 @@
         "state": "future"
     },
     "compassenergyservices.com": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1706054400.0,
+        "expiration_date": "24-jan-2024",
         "state": "future"
     },
     "compitte.com": {
@@ -11110,8 +11110,8 @@
         "state": "future"
     },
     "evidencecleanergold.com": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "evil69.com": {
