@@ -945,8 +945,8 @@
         "state": "future"
     },
     "3angelsvideo.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "3cloud.net": {
@@ -1870,8 +1870,8 @@
         "state": "future"
     },
     "aanqylta.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "aapz.com": {
@@ -2447,7 +2447,7 @@
     "alexxxxpages.info": {
         "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "alf-img.com": {
         "epoch": 1590192000.0,
@@ -3545,8 +3545,8 @@
         "state": "future"
     },
     "anbstudios.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "anchorpoint.co.za": {
@@ -7675,8 +7675,8 @@
         "state": "future"
     },
     "creativemindhacks.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1641254400.0,
+        "expiration_date": "04-jan-2022",
         "state": "future"
     },
     "creativeteam.it": {
