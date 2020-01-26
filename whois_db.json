@@ -910,8 +910,8 @@
         "state": "future"
     },
     "31seconds.net": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "3278dy.com": {
@@ -2507,7 +2507,7 @@
     "alhijaztrvl.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "alibestsale.com": {
         "epoch": 1604188800.0,
@@ -6882,7 +6882,7 @@
     "cinemabio.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinemaenergy-hd.ru": {
         "epoch": "1557792000",
