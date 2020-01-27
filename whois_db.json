@@ -1122,7 +1122,7 @@
     "4love.info": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "4meme.com": {
         "epoch": 1585180800.0,
@@ -2017,7 +2017,7 @@
     "abetting.net": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ablefull.com": {
         "epoch": 1586649600.0,
@@ -2637,7 +2637,7 @@
     "allbestpantyhose.com": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "allbritishescorts.com": {
         "epoch": 1600992000.0,
@@ -12565,8 +12565,8 @@
         "state": "future"
     },
     "free-gluten.ru": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
         "state": "future"
     },
     "free-groupsex.com": {
