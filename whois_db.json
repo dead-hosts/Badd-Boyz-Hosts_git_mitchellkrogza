@@ -190,8 +190,8 @@
         "state": "future"
     },
     "1000cumshots.com": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "1000lashes.com": {
@@ -4442,7 +4442,7 @@
     "bagsonsale.online": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "bahisstratejileri.info": {
         "epoch": "1567814400",
