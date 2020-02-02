@@ -10967,7 +10967,7 @@
     "eu-survey.com": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "euadoroisso.com.br": {
         "epoch": 1599264000.0,
@@ -14470,8 +14470,8 @@
         "state": "future"
     },
     "go-gal.com": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1588118400.0,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "go.biz": {
@@ -14517,7 +14517,7 @@
     "goawos.com": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "gobettygo.com": {
         "epoch": 1583280000.0,
