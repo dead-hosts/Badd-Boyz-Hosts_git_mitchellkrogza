@@ -1035,9 +1035,9 @@
         "state": "future"
     },
     "3wt4c.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
-        "state": "past"
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
     },
     "3x-fist-fucking.com": {
         "epoch": "1576195200",
@@ -14515,9 +14515,9 @@
         "state": "future"
     },
     "goawos.com": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
-        "state": "past"
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
     },
     "gobettygo.com": {
         "epoch": 1583280000.0,
