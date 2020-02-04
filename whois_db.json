@@ -2,7 +2,7 @@
     "000free.us": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "007angels.com": {
         "epoch": 1589414400.0,
@@ -16457,7 +16457,7 @@
     "hugersoft.com": {
         "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "hugoparisescort.com": {
         "epoch": 1605052800.0,
