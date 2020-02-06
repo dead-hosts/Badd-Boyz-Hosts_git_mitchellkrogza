@@ -2422,7 +2422,7 @@
     "alexa-silver.com": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "alexandria-locksmithservice.com": {
         "epoch": 1602547200.0,
@@ -2652,7 +2652,7 @@
     "alldubai.biz": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "allergiques.com": {
         "epoch": 1584576000.0,
