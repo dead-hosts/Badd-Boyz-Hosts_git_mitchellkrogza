@@ -697,7 +697,7 @@
     "24tradeplus.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "24videos.tv": {
         "epoch": 1592006400.0,
@@ -1255,9 +1255,9 @@
         "state": "future"
     },
     "5241.it": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
-        "state": "past"
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
     },
     "529collegesaving.com": {
         "epoch": 1604188800.0,
