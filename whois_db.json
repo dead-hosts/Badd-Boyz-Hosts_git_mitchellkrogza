@@ -367,7 +367,7 @@
     "1314dh.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "1337crew.info": {
         "epoch": 1587254400.0,
@@ -917,7 +917,7 @@
     "3278dy.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "34.gs": {
         "epoch": 1603756800.0,
@@ -2467,7 +2467,7 @@
     "alfa-search.com": {
         "epoch": 1581379200.0,
         "expiration_date": "11-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "alfa9.com": {
         "epoch": 1624060800.0,
