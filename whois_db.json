@@ -1267,7 +1267,7 @@
     "52djcy.com": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "550a.com": {
         "epoch": 1585785600.0,
