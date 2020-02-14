@@ -1212,7 +1212,7 @@
     "4v9wp.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "4webmasters.com": {
         "epoch": 1596240000.0,
@@ -1285,8 +1285,8 @@
         "state": "past"
     },
     "59cn7.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "5dimessports.com": {
@@ -1357,7 +1357,7 @@
     "65xps.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "6660003.com": {
         "epoch": 1599696000.0,
@@ -1510,8 +1510,8 @@
         "state": "future"
     },
     "7xc4n.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "7y7.us": {
@@ -1675,8 +1675,8 @@
         "state": "future"
     },
     "9h7n8.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "9hp.info": {
@@ -6907,7 +6907,7 @@
     "cingualr.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "cinnamonmaster.com": {
         "epoch": 1584144000.0,
@@ -16695,8 +16695,8 @@
         "state": "past"
     },
     "hystersister.com": {
-        "epoch": 1581638400.0,
-        "expiration_date": "14-feb-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "hzdoctor.com": {
