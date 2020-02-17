@@ -575,9 +575,9 @@
         "state": "future"
     },
     "1re.info": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
-        "state": "past"
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
     },
     "1stat.ru": {
         "epoch": 1593648000.0,
@@ -4315,9 +4315,9 @@
         "state": "future"
     },
     "avkzarabotok.info": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
-        "state": "past"
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
     },
     "avoidaroid.com": {
         "epoch": 1606608000.0,
