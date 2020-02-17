@@ -577,7 +577,7 @@
     "1re.info": {
         "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "1stat.ru": {
         "epoch": 1593648000.0,
@@ -2040,8 +2040,8 @@
         "state": "future"
     },
     "aboutproperty.co.uk": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1645056000.0,
+        "expiration_date": "17-feb-2022",
         "state": "future"
     },
     "above.com": {
@@ -2480,8 +2480,8 @@
         "state": "past"
     },
     "alfalakgifts.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "alfapro.ru": {
@@ -4317,7 +4317,7 @@
     "avkzarabotok.info": {
         "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "avoidaroid.com": {
         "epoch": 1606608000.0,
