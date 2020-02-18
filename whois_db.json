@@ -2502,7 +2502,7 @@
     "algodon.net": {
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "alhijaztrvl.com": {
         "epoch": 1611619200.0,
