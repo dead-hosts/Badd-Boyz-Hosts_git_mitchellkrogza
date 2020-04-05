@@ -272,7 +272,7 @@
     "108shot.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "10bet.com": {
         "epoch": 1594944000.0,
@@ -300,8 +300,8 @@
         "state": "future"
     },
     "123any.com": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "123cha.com": {
@@ -2135,8 +2135,8 @@
         "state": "future"
     },
     "acompanhantesdeportugal.com": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "acompanhantesportoalegre.net": {
@@ -3175,8 +3175,8 @@
         "state": "past"
     },
     "amateurtour.biz": {
-        "epoch": 1586044800.0,
-        "expiration_date": "05-apr-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "amateurwifevids.com": {
