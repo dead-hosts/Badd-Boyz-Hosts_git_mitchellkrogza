@@ -1558,7 +1558,6 @@
             "5000-cotydzien.com": "INACTIVE",
             "7156.info": "INACTIVE",
             "a-n-o-n-y-m-o-u-s.info": "INACTIVE",
-            "a.civitik.com": "INACTIVE",
             "a.kilomansa.com": "INACTIVE",
             "a.namitol.com": "INACTIVE",
             "a62.info": "INACTIVE",
@@ -1571,17 +1570,14 @@
             "alcohort.com": "INACTIVE",
             "alexbensonship.com": "INACTIVE",
             "alhamdtravel.com.pk": "INACTIVE",
-            "all4invest.ru": "INACTIVE",
             "amaturesex.net": "INACTIVE",
             "analextasy.com": "INACTIVE",
             "angelfuns.info": "INACTIVE",
             "baby.dorki.info": "INACTIVE",
             "ballymoreboardingkennels.ie": "INACTIVE",
             "com-todaynews.com": "INACTIVE",
-            "crystalshoot.in": "INACTIVE",
             "esqchamber.com": "INACTIVE",
             "evobill.biz": "INACTIVE",
-            "exgrafix.com": "INACTIVE",
             "exhibi-club.com": "INACTIVE",
             "gocitytext.com": "INACTIVE",
             "godegodage.com": "INACTIVE",
@@ -1594,7 +1590,6 @@
             "iooopsadd.info": "INACTIVE",
             "justmoresex.com": "INACTIVE",
             "katrinashotline.net": "INACTIVE",
-            "kayakingtrips.info": "INACTIVE",
             "kazaki.az": "INACTIVE",
             "kecap.cn": "INACTIVE",
             "la-jeune-fille.com": "INACTIVE",
@@ -1607,7 +1602,6 @@
             "spankme.info": "INACTIVE",
             "sslgo.info": "INACTIVE",
             "stackthatbucks.com": "INACTIVE",
-            "star-movies.com": "INACTIVE",
             "zc1.delta-boa.com": "INACTIVE",
             "zoo-x.net": "INACTIVE",
             "zybezradio.com": "INACTIVE"
@@ -1638,6 +1632,14 @@
         },
         "1586093003": {
             "go.game2me.cn": "INACTIVE"
+        },
+        "1586159838": {
+            "a.civitik.com": "INACTIVE",
+            "all4invest.ru": "INACTIVE",
+            "crystalshoot.in": "INACTIVE",
+            "exgrafix.com": "INACTIVE",
+            "kayakingtrips.info": "INACTIVE",
+            "star-movies.com": "INACTIVE"
         }
     }
 }
