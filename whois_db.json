@@ -650,8 +650,8 @@
         "state": "future"
     },
     "202ch.com": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "22kkkk.com": {
@@ -1622,7 +1622,7 @@
     "90i.info": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "91abcw.com": {
         "epoch": 1587772800.0,
@@ -11010,9 +11010,9 @@
         "state": "past"
     },
     "euro-option.info": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
-        "state": "past"
+        "epoch": 1617753600.0,
+        "expiration_date": "07-apr-2021",
+        "state": "future"
     },
     "euro-rencontres.com": {
         "epoch": "1536451200",
@@ -16682,7 +16682,7 @@
     "hypnoseterapi.com": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "hypnotone.com": {
         "epoch": 1616198400.0,
@@ -16775,8 +16775,8 @@
         "state": "future"
     },
     "idc.com.ua": {
-        "epoch": 1586304000.0,
-        "expiration_date": "08-apr-2020",
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "iddpmiram.org": {
