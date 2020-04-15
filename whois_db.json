@@ -945,9 +945,9 @@
         "state": "future"
     },
     "3angelsvideo.com": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
-        "state": "past"
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
     },
     "3cloud.net": {
         "epoch": 1609632000.0,
