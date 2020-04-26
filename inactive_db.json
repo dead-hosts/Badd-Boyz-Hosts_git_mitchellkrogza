@@ -10614,13 +10614,6 @@
             "last_retested_at_iso": "2020-04-02T22:32:10",
             "status": "INACTIVE"
         },
-        "103.hosting-5.xtream.co.il": {
-            "included_at_epoch": 1587190802.0,
-            "included_at_iso": "2020-04-18T06:20:02",
-            "last_retested_at_epoch": 1587190802.0,
-            "last_retested_at_iso": "2020-04-18T06:20:02",
-            "status": "INACTIVE"
-        },
         "175storis.com": {
             "included_at_epoch": 1585866730.0,
             "included_at_iso": "2020-04-02T22:32:10",
@@ -10873,13 +10866,6 @@
             "last_retested_at_iso": "2020-04-02T22:32:10",
             "status": "INACTIVE"
         },
-        "ayerbo.xhost.ro": {
-            "included_at_epoch": 1587186375.0,
-            "included_at_iso": "2020-04-18T05:06:15",
-            "last_retested_at_epoch": 1587186375.0,
-            "last_retested_at_iso": "2020-04-18T05:06:15",
-            "status": "INACTIVE"
-        },
         "baby.dorki.info": {
             "included_at_epoch": 1585866730.0,
             "included_at_iso": "2020-04-02T22:32:10",
@@ -11009,8 +10995,8 @@
         "husky-shop.cz": {
             "included_at_epoch": 1586911371.0,
             "included_at_iso": "2020-04-15T00:42:51",
-            "last_retested_at_epoch": 1586911371.0,
-            "last_retested_at_iso": "2020-04-15T00:42:51",
+            "last_retested_at_epoch": 1587942578.056295,
+            "last_retested_at_iso": "2020-04-26T23:09:38.056295",
             "status": "INACTIVE"
         },
         "hympsvtktvtm.biz": {
