@@ -10621,13 +10621,6 @@
             "last_retested_at_iso": "2020-04-28T20:57:58.148405",
             "status": "INACTIVE"
         },
-        "17990.vicp.net": {
-            "included_at_epoch": 1588085610.603834,
-            "included_at_iso": "2020-04-28T14:53:30.603834",
-            "last_retested_at_epoch": 1588085610.603834,
-            "last_retested_at_iso": "2020-04-28T14:53:30.603834",
-            "status": "INACTIVE"
-        },
         "1auntie-phone-sex.info": {
             "included_at_epoch": 1585866730.0,
             "included_at_iso": "2020-04-02T22:32:10",
@@ -10764,8 +10757,8 @@
         "abercrombiehollister.net": {
             "included_at_epoch": 1586088748.0,
             "included_at_iso": "2020-04-05T12:12:28",
-            "last_retested_at_epoch": 1588107478.126099,
-            "last_retested_at_iso": "2020-04-28T20:57:58.126099",
+            "last_retested_at_epoch": 1588241825.487631,
+            "last_retested_at_iso": "2020-04-30T10:17:05.487631",
             "status": "INACTIVE"
         },
         "abercrombieport.com": {
@@ -10794,6 +10787,13 @@
             "included_at_iso": "2020-04-05T12:12:28",
             "last_retested_at_epoch": 1588107478.482138,
             "last_retested_at_iso": "2020-04-28T20:57:58.482138",
+            "status": "INACTIVE"
+        },
+        "acunt-fanpage00.plis-suport2-center.ga": {
+            "included_at_epoch": 1588241785.009043,
+            "included_at_iso": "2020-04-30T10:16:25.009043",
+            "last_retested_at_epoch": 1588241785.009043,
+            "last_retested_at_iso": "2020-04-30T10:16:25.009043",
             "status": "INACTIVE"
         },
         "ad.econet.hu": {
@@ -10985,13 +10985,6 @@
             "last_retested_at_iso": "2020-04-28T20:57:58.032647",
             "status": "INACTIVE"
         },
-        "godfather3movies.blogs-blogs.com": {
-            "included_at_epoch": 1588098342.188596,
-            "included_at_iso": "2020-04-28T18:25:42.188596",
-            "last_retested_at_epoch": 1588098342.188596,
-            "last_retested_at_iso": "2020-04-28T18:25:42.188596",
-            "status": "INACTIVE"
-        },
         "gottensikisx.net": {
             "included_at_epoch": 1585866730.0,
             "included_at_iso": "2020-04-02T22:32:10",
@@ -11011,6 +11004,13 @@
             "included_at_iso": "2020-04-02T22:32:10",
             "last_retested_at_epoch": 1588107478.572323,
             "last_retested_at_iso": "2020-04-28T20:57:58.572323",
+            "status": "INACTIVE"
+        },
+        "husky-shop.cz": {
+            "included_at_epoch": 1588241803.124961,
+            "included_at_iso": "2020-04-30T10:16:43.124961",
+            "last_retested_at_epoch": 1588241803.124961,
+            "last_retested_at_iso": "2020-04-30T10:16:43.124961",
             "status": "INACTIVE"
         },
         "hympsvtktvtm.biz": {
@@ -11079,8 +11079,8 @@
         "kazaki.az": {
             "included_at_epoch": 1585866730.0,
             "included_at_iso": "2020-04-02T22:32:10",
-            "last_retested_at_epoch": 1588102664.335277,
-            "last_retested_at_iso": "2020-04-28T19:37:44.335277",
+            "last_retested_at_epoch": 1588241825.553107,
+            "last_retested_at_iso": "2020-04-30T10:17:05.553107",
             "status": "INACTIVE"
         },
         "kecap.cn": {
@@ -11093,8 +11093,8 @@
         "la-jeune-fille.com": {
             "included_at_epoch": 1585866730.0,
             "included_at_iso": "2020-04-02T22:32:10",
-            "last_retested_at_epoch": 1588107478.771972,
-            "last_retested_at_iso": "2020-04-28T20:57:58.771972",
+            "last_retested_at_epoch": 1588241825.531767,
+            "last_retested_at_iso": "2020-04-30T10:17:05.531767",
             "status": "INACTIVE"
         },
         "lagubox.net": {
@@ -11163,8 +11163,8 @@
         "shopiconboutiqe.com": {
             "included_at_epoch": 1586088748.0,
             "included_at_iso": "2020-04-05T12:12:28",
-            "last_retested_at_epoch": 1588102664.402728,
-            "last_retested_at_iso": "2020-04-28T19:37:44.402728",
+            "last_retested_at_epoch": 1588241825.510044,
+            "last_retested_at_iso": "2020-04-30T10:17:05.510044",
             "status": "INACTIVE"
         },
         "simple-image.com.ua": {
