@@ -10621,6 +10621,13 @@
             "last_retested_at_iso": "2020-05-07T21:06:29.482714",
             "status": "INACTIVE"
         },
+        "husky-shop.cz": {
+            "included_at_epoch": 1588976162.543375,
+            "included_at_iso": "2020-05-08T22:16:02.543375",
+            "last_retested_at_epoch": 1588976162.543375,
+            "last_retested_at_iso": "2020-05-08T22:16:02.543375",
+            "status": "INACTIVE"
+        },
         "hympsvtktvtm.biz": {
             "included_at_epoch": 1586566152.0,
             "included_at_iso": "2020-04-11T00:49:12",
