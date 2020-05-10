@@ -960,8 +960,8 @@
         "state": "future"
     },
     "3dbluerayplayer.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "3dcgfx.net": {
@@ -1025,8 +1025,8 @@
         "state": "future"
     },
     "3w24.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "3weekdiet.com": {
@@ -3715,8 +3715,8 @@
         "state": "future"
     },
     "anticodistretto.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "anticosm.com": {
@@ -7300,9 +7300,9 @@
         "state": "future"
     },
     "comsprague.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "comsysnet.com": {
         "epoch": 1602288000.0,

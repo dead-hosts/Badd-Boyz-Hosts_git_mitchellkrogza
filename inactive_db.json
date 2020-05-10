@@ -10610,36 +10610,22 @@
         "acount-cheks0912.suport-acount-confrim12.gq": {
             "included_at_epoch": 1588107424.987898,
             "included_at_iso": "2020-04-28T20:57:04.987898",
-            "last_retested_at_epoch": 1588977843.701295,
-            "last_retested_at_iso": "2020-05-08T22:44:03.701295",
+            "last_retested_at_epoch": 1589105730.167364,
+            "last_retested_at_iso": "2020-05-10T10:15:30.167364",
             "status": "INACTIVE"
         },
         "acunt-fanpage00.plis-suport2-center.ga": {
             "included_at_epoch": 1588241785.009043,
             "included_at_iso": "2020-04-30T10:16:25.009043",
-            "last_retested_at_epoch": 1588977843.659406,
-            "last_retested_at_iso": "2020-05-08T22:44:03.659406",
-            "status": "INACTIVE"
-        },
-        "husky-shop.cz": {
-            "included_at_epoch": 1588976162.543375,
-            "included_at_iso": "2020-05-08T22:16:02.543375",
-            "last_retested_at_epoch": 1588976162.543375,
-            "last_retested_at_iso": "2020-05-08T22:16:02.543375",
-            "status": "INACTIVE"
-        },
-        "hympsvtktvtm.biz": {
-            "included_at_epoch": 1586566152.0,
-            "included_at_iso": "2020-04-11T00:49:12",
-            "last_retested_at_epoch": 1588977843.63727,
-            "last_retested_at_iso": "2020-05-08T22:44:03.637270",
+            "last_retested_at_epoch": 1589105730.270875,
+            "last_retested_at_iso": "2020-05-10T10:15:30.270875",
             "status": "INACTIVE"
         },
         "zc1.delta-boa.com": {
             "included_at_epoch": 1588713102.887775,
             "included_at_iso": "2020-05-05T21:11:42.887775",
-            "last_retested_at_epoch": 1588977843.680054,
-            "last_retested_at_iso": "2020-05-08T22:44:03.680054",
+            "last_retested_at_epoch": 1589105730.146687,
+            "last_retested_at_iso": "2020-05-10T10:15:30.146687",
             "status": "INACTIVE"
         }
     }
