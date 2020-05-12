@@ -85,13 +85,13 @@
         "state": "past"
     },
     "03e.info": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "03p.info": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "075.nu": {
@@ -355,8 +355,8 @@
         "state": "future"
     },
     "12u.info": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "12xhardcore.com": {
@@ -385,8 +385,8 @@
         "state": "future"
     },
     "14b.info": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "14teen.com": {
@@ -1250,8 +1250,8 @@
         "state": "future"
     },
     "511a.cn": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "5241.it": {
@@ -1690,8 +1690,8 @@
         "state": "future"
     },
     "9med.net": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "9n68b4.top": {
