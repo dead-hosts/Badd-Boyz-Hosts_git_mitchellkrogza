@@ -5,8 +5,8 @@
         "state": "future"
     },
     "007angels.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "007freepics.com": {
@@ -230,9 +230,9 @@
         "state": "future"
     },
     "100shemales.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "101billion.com": {
         "epoch": 1608768000.0,
@@ -415,9 +415,9 @@
         "state": "future"
     },
     "16aq.cn": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "175storis.com": {
         "epoch": "1569801600",
@@ -1460,9 +1460,9 @@
         "state": "future"
     },
     "777-club.ru": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "78tdd75.com": {
         "epoch": 1614470400.0,
