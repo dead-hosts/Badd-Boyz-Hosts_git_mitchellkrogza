@@ -2480,8 +2480,8 @@
         "state": "past"
     },
     "alfalakgifts.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "alfapro.ru": {
@@ -4377,7 +4377,7 @@
     "babywantsbling.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "bacanal.cl": {
         "epoch": 1610323200.0,
