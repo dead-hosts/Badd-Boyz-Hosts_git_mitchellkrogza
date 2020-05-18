@@ -10610,29 +10610,29 @@
         "360clicks.de": {
             "included_at_epoch": 1589317419.44123,
             "included_at_iso": "2020-05-12T21:03:39.441230",
-            "last_retested_at_epoch": 1589663091.388661,
-            "last_retested_at_iso": "2020-05-16T21:04:51.388661",
+            "last_retested_at_epoch": 1589835978.151307,
+            "last_retested_at_iso": "2020-05-18T21:06:18.151307",
             "status": "INACTIVE"
         },
         "acount-cheks0912.suport-acount-confrim12.gq": {
             "included_at_epoch": 1588107424.987898,
             "included_at_iso": "2020-04-28T20:57:04.987898",
-            "last_retested_at_epoch": 1589663091.408312,
-            "last_retested_at_iso": "2020-05-16T21:04:51.408312",
+            "last_retested_at_epoch": 1589835978.172634,
+            "last_retested_at_iso": "2020-05-18T21:06:18.172634",
             "status": "INACTIVE"
         },
         "acunt-fanpage00.plis-suport2-center.ga": {
             "included_at_epoch": 1588241785.009043,
             "included_at_iso": "2020-04-30T10:16:25.009043",
-            "last_retested_at_epoch": 1589663091.428126,
-            "last_retested_at_iso": "2020-05-16T21:04:51.428126",
+            "last_retested_at_epoch": 1589835978.214656,
+            "last_retested_at_iso": "2020-05-18T21:06:18.214656",
             "status": "INACTIVE"
         },
         "zc1.delta-boa.com": {
             "included_at_epoch": 1588713102.887775,
             "included_at_iso": "2020-05-05T21:11:42.887775",
-            "last_retested_at_epoch": 1589663091.367711,
-            "last_retested_at_iso": "2020-05-16T21:04:51.367711",
+            "last_retested_at_epoch": 1589835978.193532,
+            "last_retested_at_iso": "2020-05-18T21:06:18.193532",
             "status": "INACTIVE"
         }
     }
