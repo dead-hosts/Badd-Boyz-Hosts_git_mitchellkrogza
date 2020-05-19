@@ -10614,6 +10614,27 @@
             "last_retested_at_iso": "2020-05-18T21:06:18.151307",
             "status": "INACTIVE"
         },
+        "a.kilorama.com": {
+            "included_at_epoch": 1589883380.010532,
+            "included_at_iso": "2020-05-19T10:16:20.010532",
+            "last_retested_at_epoch": 1589883380.010532,
+            "last_retested_at_iso": "2020-05-19T10:16:20.010532",
+            "status": "INACTIVE"
+        },
+        "a.liktirov.com": {
+            "included_at_epoch": 1589883382.177469,
+            "included_at_iso": "2020-05-19T10:16:22.177469",
+            "last_retested_at_epoch": 1589883382.177469,
+            "last_retested_at_iso": "2020-05-19T10:16:22.177469",
+            "status": "INACTIVE"
+        },
+        "a.nimdinb.com": {
+            "included_at_epoch": 1589883386.255763,
+            "included_at_iso": "2020-05-19T10:16:26.255763",
+            "last_retested_at_epoch": 1589883386.255763,
+            "last_retested_at_iso": "2020-05-19T10:16:26.255763",
+            "status": "INACTIVE"
+        },
         "acount-cheks0912.suport-acount-confrim12.gq": {
             "included_at_epoch": 1588107424.987898,
             "included_at_iso": "2020-04-28T20:57:04.987898",
@@ -10626,6 +10647,13 @@
             "included_at_iso": "2020-04-30T10:16:25.009043",
             "last_retested_at_epoch": 1589835978.214656,
             "last_retested_at_iso": "2020-05-18T21:06:18.214656",
+            "status": "INACTIVE"
+        },
+        "imdaginea.cf": {
+            "included_at_epoch": 1589883399.981386,
+            "included_at_iso": "2020-05-19T10:16:39.981386",
+            "last_retested_at_epoch": 1589883399.981386,
+            "last_retested_at_iso": "2020-05-19T10:16:39.981386",
             "status": "INACTIVE"
         },
         "zc1.delta-boa.com": {
