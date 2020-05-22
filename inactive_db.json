@@ -10607,20 +10607,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "103.hosting-5.xtream.co.il": {
-            "included_at_epoch": 1590008772.321012,
-            "included_at_iso": "2020-05-20T21:06:12.321012",
-            "last_retested_at_epoch": 1590008772.321012,
-            "last_retested_at_iso": "2020-05-20T21:06:12.321012",
-            "status": "INACTIVE"
-        },
-        "2wink.com.au": {
-            "included_at_epoch": 1590008778.485257,
-            "included_at_iso": "2020-05-20T21:06:18.485257",
-            "last_retested_at_epoch": 1590008778.485257,
-            "last_retested_at_iso": "2020-05-20T21:06:18.485257",
-            "status": "INACTIVE"
-        },
         "360clicks.de": {
             "included_at_epoch": 1589317419.44123,
             "included_at_iso": "2020-05-12T21:03:39.441230",
@@ -10661,6 +10647,13 @@
             "included_at_iso": "2020-04-30T10:16:25.009043",
             "last_retested_at_epoch": 1590008819.192768,
             "last_retested_at_iso": "2020-05-20T21:06:59.192768",
+            "status": "INACTIVE"
+        },
+        "akzmaihd.net": {
+            "included_at_epoch": 1590142560.796962,
+            "included_at_iso": "2020-05-22T10:16:00.796962",
+            "last_retested_at_epoch": 1590142560.796962,
+            "last_retested_at_iso": "2020-05-22T10:16:00.796962",
             "status": "INACTIVE"
         },
         "zc1.delta-boa.com": {
