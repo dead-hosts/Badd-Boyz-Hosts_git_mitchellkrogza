@@ -10610,43 +10610,36 @@
         "360clicks.de": {
             "included_at_epoch": 1589317419.44123,
             "included_at_iso": "2020-05-12T21:03:39.441230",
-            "last_retested_at_epoch": 1591046058.777466,
-            "last_retested_at_iso": "2020-06-01T21:14:18.777466",
+            "last_retested_at_epoch": 1591218796.396379,
+            "last_retested_at_iso": "2020-06-03T21:13:16.396379",
             "status": "INACTIVE"
         },
         "a.kilorama.com": {
             "included_at_epoch": 1589883380.010532,
             "included_at_iso": "2020-05-19T10:16:20.010532",
-            "last_retested_at_epoch": 1591046058.672712,
-            "last_retested_at_iso": "2020-06-01T21:14:18.672712",
+            "last_retested_at_epoch": 1591218796.374913,
+            "last_retested_at_iso": "2020-06-03T21:13:16.374913",
             "status": "INACTIVE"
         },
         "a.liktirov.com": {
             "included_at_epoch": 1589883382.177469,
             "included_at_iso": "2020-05-19T10:16:22.177469",
-            "last_retested_at_epoch": 1591046058.693834,
-            "last_retested_at_iso": "2020-06-01T21:14:18.693834",
+            "last_retested_at_epoch": 1591218796.440197,
+            "last_retested_at_iso": "2020-06-03T21:13:16.440197",
             "status": "INACTIVE"
         },
         "a.nimdinb.com": {
             "included_at_epoch": 1589883386.255763,
             "included_at_iso": "2020-05-19T10:16:26.255763",
-            "last_retested_at_epoch": 1591046058.756556,
-            "last_retested_at_iso": "2020-06-01T21:14:18.756556",
+            "last_retested_at_epoch": 1591218796.418505,
+            "last_retested_at_iso": "2020-06-03T21:13:16.418505",
             "status": "INACTIVE"
         },
         "akzmaihd.net": {
             "included_at_epoch": 1590142560.796962,
             "included_at_iso": "2020-05-22T10:16:00.796962",
-            "last_retested_at_epoch": 1591046058.714698,
-            "last_retested_at_iso": "2020-06-01T21:14:18.714698",
-            "status": "INACTIVE"
-        },
-        "zc1.delta-boa.com": {
-            "included_at_epoch": 1588713102.887775,
-            "included_at_iso": "2020-05-05T21:11:42.887775",
-            "last_retested_at_epoch": 1591046058.735404,
-            "last_retested_at_iso": "2020-06-01T21:14:18.735404",
+            "last_retested_at_epoch": 1591218796.461423,
+            "last_retested_at_iso": "2020-06-03T21:13:16.461423",
             "status": "INACTIVE"
         }
     }
