@@ -10607,6 +10607,13 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
+        "2wink.com.au": {
+            "included_at_epoch": 1591564535.336239,
+            "included_at_iso": "2020-06-07T21:15:35.336239",
+            "last_retested_at_epoch": 1591564535.336239,
+            "last_retested_at_iso": "2020-06-07T21:15:35.336239",
+            "status": "INACTIVE"
+        },
         "360clicks.de": {
             "included_at_epoch": 1589317419.44123,
             "included_at_iso": "2020-05-12T21:03:39.441230",
