@@ -10617,36 +10617,36 @@
         "360clicks.de": {
             "included_at_epoch": 1589317419.44123,
             "included_at_iso": "2020-05-12T21:03:39.441230",
-            "last_retested_at_epoch": 1591391814.245022,
-            "last_retested_at_iso": "2020-06-05T21:16:54.245022",
+            "last_retested_at_epoch": 1591564698.386501,
+            "last_retested_at_iso": "2020-06-07T21:18:18.386501",
             "status": "INACTIVE"
         },
         "a.kilorama.com": {
             "included_at_epoch": 1589883380.010532,
             "included_at_iso": "2020-05-19T10:16:20.010532",
-            "last_retested_at_epoch": 1591391814.202216,
-            "last_retested_at_iso": "2020-06-05T21:16:54.202216",
+            "last_retested_at_epoch": 1591564698.301598,
+            "last_retested_at_iso": "2020-06-07T21:18:18.301598",
             "status": "INACTIVE"
         },
         "a.liktirov.com": {
             "included_at_epoch": 1589883382.177469,
             "included_at_iso": "2020-05-19T10:16:22.177469",
-            "last_retested_at_epoch": 1591391814.180659,
-            "last_retested_at_iso": "2020-06-05T21:16:54.180659",
+            "last_retested_at_epoch": 1591564698.365383,
+            "last_retested_at_iso": "2020-06-07T21:18:18.365383",
             "status": "INACTIVE"
         },
         "a.nimdinb.com": {
             "included_at_epoch": 1589883386.255763,
             "included_at_iso": "2020-05-19T10:16:26.255763",
-            "last_retested_at_epoch": 1591391814.26635,
-            "last_retested_at_iso": "2020-06-05T21:16:54.266350",
+            "last_retested_at_epoch": 1591564698.322707,
+            "last_retested_at_iso": "2020-06-07T21:18:18.322707",
             "status": "INACTIVE"
         },
         "akzmaihd.net": {
             "included_at_epoch": 1590142560.796962,
             "included_at_iso": "2020-05-22T10:16:00.796962",
-            "last_retested_at_epoch": 1591391814.223375,
-            "last_retested_at_iso": "2020-06-05T21:16:54.223375",
+            "last_retested_at_epoch": 1591564698.343673,
+            "last_retested_at_iso": "2020-06-07T21:18:18.343673",
             "status": "INACTIVE"
         }
     }
