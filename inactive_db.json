@@ -10607,46 +10607,32 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "2wink.com.au": {
-            "included_at_epoch": 1591564535.336239,
-            "included_at_iso": "2020-06-07T21:15:35.336239",
-            "last_retested_at_epoch": 1591564535.336239,
-            "last_retested_at_iso": "2020-06-07T21:15:35.336239",
-            "status": "INACTIVE"
-        },
-        "360clicks.de": {
-            "included_at_epoch": 1589317419.44123,
-            "included_at_iso": "2020-05-12T21:03:39.441230",
-            "last_retested_at_epoch": 1591564698.386501,
-            "last_retested_at_iso": "2020-06-07T21:18:18.386501",
-            "status": "INACTIVE"
-        },
         "a.kilorama.com": {
             "included_at_epoch": 1589883380.010532,
             "included_at_iso": "2020-05-19T10:16:20.010532",
-            "last_retested_at_epoch": 1591564698.301598,
-            "last_retested_at_iso": "2020-06-07T21:18:18.301598",
+            "last_retested_at_epoch": 1591737445.456322,
+            "last_retested_at_iso": "2020-06-09T21:17:25.456322",
             "status": "INACTIVE"
         },
         "a.liktirov.com": {
             "included_at_epoch": 1589883382.177469,
             "included_at_iso": "2020-05-19T10:16:22.177469",
-            "last_retested_at_epoch": 1591564698.365383,
-            "last_retested_at_iso": "2020-06-07T21:18:18.365383",
+            "last_retested_at_epoch": 1591737445.435071,
+            "last_retested_at_iso": "2020-06-09T21:17:25.435071",
             "status": "INACTIVE"
         },
         "a.nimdinb.com": {
             "included_at_epoch": 1589883386.255763,
             "included_at_iso": "2020-05-19T10:16:26.255763",
-            "last_retested_at_epoch": 1591564698.322707,
-            "last_retested_at_iso": "2020-06-07T21:18:18.322707",
+            "last_retested_at_epoch": 1591737445.413037,
+            "last_retested_at_iso": "2020-06-09T21:17:25.413037",
             "status": "INACTIVE"
         },
         "akzmaihd.net": {
             "included_at_epoch": 1590142560.796962,
             "included_at_iso": "2020-05-22T10:16:00.796962",
-            "last_retested_at_epoch": 1591564698.343673,
-            "last_retested_at_iso": "2020-06-07T21:18:18.343673",
+            "last_retested_at_epoch": 1591737445.390782,
+            "last_retested_at_iso": "2020-06-09T21:17:25.390782",
             "status": "INACTIVE"
         }
     }
