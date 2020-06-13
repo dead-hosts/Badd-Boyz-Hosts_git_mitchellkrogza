@@ -10610,36 +10610,29 @@
         "a.kilorama.com": {
             "included_at_epoch": 1589883380.010532,
             "included_at_iso": "2020-05-19T10:16:20.010532",
-            "last_retested_at_epoch": 1591910828.921105,
-            "last_retested_at_iso": "2020-06-11T21:27:08.921105",
+            "last_retested_at_epoch": 1592083185.113491,
+            "last_retested_at_iso": "2020-06-13T21:19:45.113491",
             "status": "INACTIVE"
         },
         "a.liktirov.com": {
             "included_at_epoch": 1589883382.177469,
             "included_at_iso": "2020-05-19T10:16:22.177469",
-            "last_retested_at_epoch": 1591910828.876518,
-            "last_retested_at_iso": "2020-06-11T21:27:08.876518",
+            "last_retested_at_epoch": 1592083185.092225,
+            "last_retested_at_iso": "2020-06-13T21:19:45.092225",
             "status": "INACTIVE"
         },
         "a.nimdinb.com": {
             "included_at_epoch": 1589883386.255763,
             "included_at_iso": "2020-05-19T10:16:26.255763",
-            "last_retested_at_epoch": 1591910828.898885,
-            "last_retested_at_iso": "2020-06-11T21:27:08.898885",
+            "last_retested_at_epoch": 1592083185.155742,
+            "last_retested_at_iso": "2020-06-13T21:19:45.155742",
             "status": "INACTIVE"
         },
         "akzmaihd.net": {
             "included_at_epoch": 1590142560.796962,
             "included_at_iso": "2020-05-22T10:16:00.796962",
-            "last_retested_at_epoch": 1591910828.85549,
-            "last_retested_at_iso": "2020-06-11T21:27:08.855490",
-            "status": "INACTIVE"
-        },
-        "computernama.ownsthis.com": {
-            "included_at_epoch": 1591910815.670889,
-            "included_at_iso": "2020-06-11T21:26:55.670889",
-            "last_retested_at_epoch": 1591910815.670889,
-            "last_retested_at_iso": "2020-06-11T21:26:55.670889",
+            "last_retested_at_epoch": 1592083185.134563,
+            "last_retested_at_iso": "2020-06-13T21:19:45.134563",
             "status": "INACTIVE"
         }
     }
