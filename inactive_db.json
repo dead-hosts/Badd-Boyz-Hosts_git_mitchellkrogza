@@ -10607,32 +10607,11 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "a.kilorama.com": {
-            "included_at_epoch": 1589883380.010532,
-            "included_at_iso": "2020-05-19T10:16:20.010532",
-            "last_retested_at_epoch": 1592256677.991021,
-            "last_retested_at_iso": "2020-06-15T21:31:17.991021",
-            "status": "INACTIVE"
-        },
-        "a.liktirov.com": {
-            "included_at_epoch": 1589883382.177469,
-            "included_at_iso": "2020-05-19T10:16:22.177469",
-            "last_retested_at_epoch": 1592256677.95003,
-            "last_retested_at_iso": "2020-06-15T21:31:17.950030",
-            "status": "INACTIVE"
-        },
-        "a.nimdinb.com": {
-            "included_at_epoch": 1589883386.255763,
-            "included_at_iso": "2020-05-19T10:16:26.255763",
-            "last_retested_at_epoch": 1592256677.970491,
-            "last_retested_at_iso": "2020-06-15T21:31:17.970491",
-            "status": "INACTIVE"
-        },
         "akzmaihd.net": {
             "included_at_epoch": 1590142560.796962,
             "included_at_iso": "2020-05-22T10:16:00.796962",
-            "last_retested_at_epoch": 1592256677.929052,
-            "last_retested_at_iso": "2020-06-15T21:31:17.929052",
+            "last_retested_at_epoch": 1592388926.971802,
+            "last_retested_at_iso": "2020-06-17T10:15:26.971802",
             "status": "INACTIVE"
         }
     }

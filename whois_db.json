@@ -1505,8 +1505,8 @@
         "state": "future"
     },
     "7wind.ru": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "7xc4n.com": {
@@ -2517,7 +2517,7 @@
     "aliclonepro.xyz": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "aliecspres.com": {
         "epoch": 1604016000.0,
@@ -19300,8 +19300,8 @@
         "state": "future"
     },
     "ladsblue.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "ladsup.com": {
