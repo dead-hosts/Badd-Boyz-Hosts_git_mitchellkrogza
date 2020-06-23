@@ -10610,8 +10610,8 @@
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
-            "last_retested_at_epoch": 1592777641.975222,
-            "last_retested_at_iso": "2020-06-21T22:14:01.975222",
+            "last_retested_at_epoch": 1592947649.261293,
+            "last_retested_at_iso": "2020-06-23T21:27:29.261293",
             "status": "INACTIVE"
         }
     }
