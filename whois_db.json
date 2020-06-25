@@ -2052,7 +2052,7 @@
     "abrahamschildren.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "absinths.com": {
         "epoch": 1613174400.0,
@@ -2105,8 +2105,8 @@
         "state": "future"
     },
     "acimo.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "acmedia.org": {
@@ -7345,8 +7345,8 @@
         "state": "future"
     },
     "contextualyield.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "contexualsearch.com": {
@@ -34102,7 +34102,7 @@
     "townhousefilms.com": {
         "epoch": 1593043200.0,
         "expiration_date": "25-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "toxicwap.com": {
         "epoch": "1561507200",
