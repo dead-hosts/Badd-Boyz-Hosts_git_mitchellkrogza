@@ -10614,6 +10614,13 @@
             "last_retested_at_iso": "2020-06-27T21:26:55.364832",
             "status": "INACTIVE"
         },
+        "eurovisions.free.fr": {
+            "included_at_epoch": 1593296736.282619,
+            "included_at_iso": "2020-06-27T22:25:36.282619",
+            "last_retested_at_epoch": 1593296736.282619,
+            "last_retested_at_iso": "2020-06-27T22:25:36.282619",
+            "status": "INACTIVE"
+        },
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
