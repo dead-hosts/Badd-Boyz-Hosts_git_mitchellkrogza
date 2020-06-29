@@ -10610,22 +10610,15 @@
         "acortarurl.es": {
             "included_at_epoch": 1593036966.067197,
             "included_at_iso": "2020-06-24T22:16:06.067197",
-            "last_retested_at_epoch": 1593293215.364832,
-            "last_retested_at_iso": "2020-06-27T21:26:55.364832",
-            "status": "INACTIVE"
-        },
-        "eurovisions.free.fr": {
-            "included_at_epoch": 1593296736.282619,
-            "included_at_iso": "2020-06-27T22:25:36.282619",
-            "last_retested_at_epoch": 1593296736.282619,
-            "last_retested_at_iso": "2020-06-27T22:25:36.282619",
+            "last_retested_at_epoch": 1593466121.219712,
+            "last_retested_at_iso": "2020-06-29T21:28:41.219712",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
-            "last_retested_at_epoch": 1593293215.342612,
-            "last_retested_at_iso": "2020-06-27T21:26:55.342612",
+            "last_retested_at_epoch": 1593466121.198166,
+            "last_retested_at_iso": "2020-06-29T21:28:41.198166",
             "status": "INACTIVE"
         }
     }
