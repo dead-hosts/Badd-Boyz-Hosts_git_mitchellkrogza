@@ -10607,25 +10607,18 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "103.hosting-5.xtream.co.il": {
-            "included_at_epoch": 1593512341.040286,
-            "included_at_iso": "2020-06-30T10:19:01.040286",
-            "last_retested_at_epoch": 1593512341.040286,
-            "last_retested_at_iso": "2020-06-30T10:19:01.040286",
-            "status": "INACTIVE"
-        },
         "acortarurl.es": {
             "included_at_epoch": 1593036966.067197,
             "included_at_iso": "2020-06-24T22:16:06.067197",
-            "last_retested_at_epoch": 1593466121.219712,
-            "last_retested_at_iso": "2020-06-29T21:28:41.219712",
+            "last_retested_at_epoch": 1593638927.931124,
+            "last_retested_at_iso": "2020-07-01T21:28:47.931124",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
-            "last_retested_at_epoch": 1593466121.198166,
-            "last_retested_at_iso": "2020-06-29T21:28:41.198166",
+            "last_retested_at_epoch": 1593638927.910079,
+            "last_retested_at_iso": "2020-07-01T21:28:47.910079",
             "status": "INACTIVE"
         }
     }
