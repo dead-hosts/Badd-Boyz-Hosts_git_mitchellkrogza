@@ -10610,15 +10610,15 @@
         "acortarurl.es": {
             "included_at_epoch": 1593036966.067197,
             "included_at_iso": "2020-06-24T22:16:06.067197",
-            "last_retested_at_epoch": 1593638927.931124,
-            "last_retested_at_iso": "2020-07-01T21:28:47.931124",
+            "last_retested_at_epoch": 1593727922.051588,
+            "last_retested_at_iso": "2020-07-02T22:12:02.051588",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
-            "last_retested_at_epoch": 1593638927.910079,
-            "last_retested_at_iso": "2020-07-01T21:28:47.910079",
+            "last_retested_at_epoch": 1593727922.030295,
+            "last_retested_at_iso": "2020-07-02T22:12:02.030295",
             "status": "INACTIVE"
         }
     }
