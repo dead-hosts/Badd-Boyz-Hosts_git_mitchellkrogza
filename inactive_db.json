@@ -10607,13 +10607,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "103.hosting-5.xtream.co.il": {
-            "included_at_epoch": 1593771185.328045,
-            "included_at_iso": "2020-07-03T10:13:05.328045",
-            "last_retested_at_epoch": 1593771185.328045,
-            "last_retested_at_iso": "2020-07-03T10:13:05.328045",
-            "status": "INACTIVE"
-        },
         "acortarurl.es": {
             "included_at_epoch": 1593036966.067197,
             "included_at_iso": "2020-06-24T22:16:06.067197",
