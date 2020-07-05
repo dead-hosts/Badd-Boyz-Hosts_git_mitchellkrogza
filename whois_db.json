@@ -447,7 +447,7 @@
     "18744.com": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "189zx.com": {
         "epoch": 1622937600.0,
@@ -2165,8 +2165,8 @@
         "state": "future"
     },
     "acrowiswhite.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1600560000.0,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "actingonacts.com": {
@@ -16712,7 +16712,7 @@
     "i-dating.info": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "i-gay.ru": {
         "epoch": 1581811200.0,
