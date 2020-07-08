@@ -10607,13 +10607,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "103.hosting-5.xtream.co.il": {
-            "included_at_epoch": 1594159911.106993,
-            "included_at_iso": "2020-07-07T22:11:51.106993",
-            "last_retested_at_epoch": 1594159911.106993,
-            "last_retested_at_iso": "2020-07-07T22:11:51.106993",
-            "status": "INACTIVE"
-        },
         "2wink.com.au": {
             "included_at_epoch": 1594203119.580627,
             "included_at_iso": "2020-07-08T10:11:59.580627",
