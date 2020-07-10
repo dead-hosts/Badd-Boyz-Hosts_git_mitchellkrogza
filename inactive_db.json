@@ -10610,22 +10610,22 @@
         "2wink.com.au": {
             "included_at_epoch": 1594203119.580627,
             "included_at_iso": "2020-07-08T10:11:59.580627",
-            "last_retested_at_epoch": 1594203119.580627,
-            "last_retested_at_iso": "2020-07-08T10:11:59.580627",
+            "last_retested_at_epoch": 1594375939.279556,
+            "last_retested_at_iso": "2020-07-10T10:12:19.279556",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
             "included_at_epoch": 1593036966.067197,
             "included_at_iso": "2020-06-24T22:16:06.067197",
-            "last_retested_at_epoch": 1594289515.828023,
-            "last_retested_at_iso": "2020-07-09T10:11:55.828023",
+            "last_retested_at_epoch": 1594375994.003343,
+            "last_retested_at_iso": "2020-07-10T10:13:14.003343",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
-            "last_retested_at_epoch": 1594289515.805258,
-            "last_retested_at_iso": "2020-07-09T10:11:55.805258",
+            "last_retested_at_epoch": 1594375993.982036,
+            "last_retested_at_iso": "2020-07-10T10:13:13.982036",
             "status": "INACTIVE"
         }
     }
