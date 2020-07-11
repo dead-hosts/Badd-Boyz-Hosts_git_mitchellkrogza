@@ -10607,25 +10607,32 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "2wink.com.au": {
-            "included_at_epoch": 1594203119.580627,
-            "included_at_iso": "2020-07-08T10:11:59.580627",
-            "last_retested_at_epoch": 1594375939.279556,
-            "last_retested_at_iso": "2020-07-10T10:12:19.279556",
+        "000owamail0.000webhostapp.com": {
+            "included_at_epoch": 1594503131.733336,
+            "included_at_iso": "2020-07-11T21:32:11.733336",
+            "last_retested_at_epoch": 1594503131.733336,
+            "last_retested_at_iso": "2020-07-11T21:32:11.733336",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
             "included_at_epoch": 1593036966.067197,
             "included_at_iso": "2020-06-24T22:16:06.067197",
-            "last_retested_at_epoch": 1594375994.003343,
-            "last_retested_at_iso": "2020-07-10T10:13:14.003343",
+            "last_retested_at_epoch": 1594503194.055926,
+            "last_retested_at_iso": "2020-07-11T21:33:14.055926",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
-            "last_retested_at_epoch": 1594375993.982036,
-            "last_retested_at_iso": "2020-07-10T10:13:13.982036",
+            "last_retested_at_epoch": 1594503194.033976,
+            "last_retested_at_iso": "2020-07-11T21:33:14.033976",
+            "status": "INACTIVE"
+        },
+        "kabey.000webhostapp.com": {
+            "included_at_epoch": 1594503174.041105,
+            "included_at_iso": "2020-07-11T21:32:54.041105",
+            "last_retested_at_epoch": 1594503174.041105,
+            "last_retested_at_iso": "2020-07-11T21:32:54.041105",
             "status": "INACTIVE"
         }
     }
