@@ -10634,6 +10634,13 @@
             "last_retested_at_epoch": 1594503174.041105,
             "last_retested_at_iso": "2020-07-11T21:32:54.041105",
             "status": "INACTIVE"
+        },
+        "sistemacentral.xpg.com.br": {
+            "included_at_epoch": 1594548683.554086,
+            "included_at_iso": "2020-07-12T10:11:23.554086",
+            "last_retested_at_epoch": 1594548683.554086,
+            "last_retested_at_iso": "2020-07-12T10:11:23.554086",
+            "status": "INACTIVE"
         }
     }
 }
