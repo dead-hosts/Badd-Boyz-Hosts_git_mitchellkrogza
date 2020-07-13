@@ -10610,36 +10610,29 @@
         "000owamail0.000webhostapp.com": {
             "included_at_epoch": 1594503131.733336,
             "included_at_iso": "2020-07-11T21:32:11.733336",
-            "last_retested_at_epoch": 1594503131.733336,
-            "last_retested_at_iso": "2020-07-11T21:32:11.733336",
+            "last_retested_at_epoch": 1594635057.578104,
+            "last_retested_at_iso": "2020-07-13T10:10:57.578104",
             "status": "INACTIVE"
         },
         "acortarurl.es": {
             "included_at_epoch": 1593036966.067197,
             "included_at_iso": "2020-06-24T22:16:06.067197",
-            "last_retested_at_epoch": 1594503194.055926,
-            "last_retested_at_iso": "2020-07-11T21:33:14.055926",
+            "last_retested_at_epoch": 1594635119.265235,
+            "last_retested_at_iso": "2020-07-13T10:11:59.265235",
             "status": "INACTIVE"
         },
         "fnmsk.ru": {
             "included_at_epoch": 1592515371.61512,
             "included_at_iso": "2020-06-18T21:22:51.615120",
-            "last_retested_at_epoch": 1594503194.033976,
-            "last_retested_at_iso": "2020-07-11T21:33:14.033976",
+            "last_retested_at_epoch": 1594635119.242822,
+            "last_retested_at_iso": "2020-07-13T10:11:59.242822",
             "status": "INACTIVE"
         },
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1594503174.041105,
             "included_at_iso": "2020-07-11T21:32:54.041105",
-            "last_retested_at_epoch": 1594503174.041105,
-            "last_retested_at_iso": "2020-07-11T21:32:54.041105",
-            "status": "INACTIVE"
-        },
-        "sistemacentral.xpg.com.br": {
-            "included_at_epoch": 1594548683.554086,
-            "included_at_iso": "2020-07-12T10:11:23.554086",
-            "last_retested_at_epoch": 1594548683.554086,
-            "last_retested_at_iso": "2020-07-12T10:11:23.554086",
+            "last_retested_at_epoch": 1594635099.386835,
+            "last_retested_at_iso": "2020-07-13T10:11:39.386835",
             "status": "INACTIVE"
         }
     }
