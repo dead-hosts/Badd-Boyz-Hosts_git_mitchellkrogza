@@ -2295,8 +2295,8 @@
         "state": "future"
     },
     "akariyer.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "aksao.com": {
@@ -7365,9 +7365,9 @@
         "state": "future"
     },
     "coocomall.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "cookevegas.com": {
         "epoch": 1611100800.0,
@@ -14565,9 +14565,9 @@
         "state": "future"
     },
     "gofun.info": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "gogalleryawesome.com": {
         "epoch": 1582243200.0,
@@ -20270,9 +20270,9 @@
         "state": "future"
     },
     "maincert.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "mainlinehobby.net": {
         "epoch": "1580947200",
