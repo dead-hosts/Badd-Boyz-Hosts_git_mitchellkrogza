@@ -10610,22 +10610,8 @@
         "000owamail0.000webhostapp.com": {
             "included_at_epoch": 1594503131.733336,
             "included_at_iso": "2020-07-11T21:32:11.733336",
-            "last_retested_at_epoch": 1595369396.041337,
-            "last_retested_at_iso": "2020-07-21T22:09:56.041337",
-            "status": "INACTIVE"
-        },
-        "2wink.com.au": {
-            "included_at_epoch": 1595412579.696126,
-            "included_at_iso": "2020-07-22T10:09:39.696126",
-            "last_retested_at_epoch": 1595412579.696126,
-            "last_retested_at_iso": "2020-07-22T10:09:39.696126",
-            "status": "INACTIVE"
-        },
-        "acortarurl.es": {
-            "included_at_epoch": 1593036966.067197,
-            "included_at_iso": "2020-06-24T22:16:06.067197",
-            "last_retested_at_epoch": 1595153458.551337,
-            "last_retested_at_iso": "2020-07-19T10:10:58.551337",
+            "last_retested_at_epoch": 1595540167.160824,
+            "last_retested_at_iso": "2020-07-23T21:36:07.160824",
             "status": "INACTIVE"
         },
         "android-systems.ru": {
@@ -10638,8 +10624,8 @@
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1594503174.041105,
             "included_at_iso": "2020-07-11T21:32:54.041105",
-            "last_retested_at_epoch": 1595369439.295203,
-            "last_retested_at_iso": "2020-07-21T22:10:39.295203",
+            "last_retested_at_epoch": 1595540209.072331,
+            "last_retested_at_iso": "2020-07-23T21:36:49.072331",
             "status": "INACTIVE"
         }
     }
