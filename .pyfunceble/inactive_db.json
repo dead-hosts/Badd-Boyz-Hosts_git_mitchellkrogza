@@ -10610,8 +10610,8 @@
         "000owamail0.000webhostapp.com": {
             "included_at_epoch": 1594503131.733336,
             "included_at_iso": "2020-07-11T21:32:11.733336",
-            "last_retested_at_epoch": 1595540167.160824,
-            "last_retested_at_iso": "2020-07-23T21:36:07.160824",
+            "last_retested_at_epoch": 1595713064.102384,
+            "last_retested_at_iso": "2020-07-25T21:37:44.102384",
             "status": "INACTIVE"
         },
         "android-systems.ru": {
@@ -10624,8 +10624,8 @@
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1594503174.041105,
             "included_at_iso": "2020-07-11T21:32:54.041105",
-            "last_retested_at_epoch": 1595540209.072331,
-            "last_retested_at_iso": "2020-07-23T21:36:49.072331",
+            "last_retested_at_epoch": 1595713104.939376,
+            "last_retested_at_iso": "2020-07-25T21:38:24.939376",
             "status": "INACTIVE"
         }
     }
