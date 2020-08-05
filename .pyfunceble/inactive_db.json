@@ -10610,29 +10610,36 @@
         "000owamail0.000webhostapp.com": {
             "included_at_epoch": 1594503131.733336,
             "included_at_iso": "2020-07-11T21:32:11.733336",
-            "last_retested_at_epoch": 1596535794.648369,
-            "last_retested_at_iso": "2020-08-04T10:09:54.648369",
+            "last_retested_at_epoch": 1596622278.336161,
+            "last_retested_at_iso": "2020-08-05T10:11:18.336161",
             "status": "INACTIVE"
         },
         "android-systems.ru": {
             "included_at_epoch": 1595369424.059442,
             "included_at_iso": "2020-07-21T22:10:24.059442",
-            "last_retested_at_epoch": 1596535841.838177,
-            "last_retested_at_iso": "2020-08-04T10:10:41.838177",
+            "last_retested_at_epoch": 1596622278.399449,
+            "last_retested_at_iso": "2020-08-05T10:11:18.399449",
             "status": "INACTIVE"
         },
         "companycreators.co.uk": {
             "included_at_epoch": 1596058801.31079,
             "included_at_iso": "2020-07-29T21:40:01.310790",
-            "last_retested_at_epoch": 1596535841.816886,
-            "last_retested_at_iso": "2020-08-04T10:10:41.816886",
+            "last_retested_at_epoch": 1596622278.378475,
+            "last_retested_at_iso": "2020-08-05T10:11:18.378475",
+            "status": "INACTIVE"
+        },
+        "creatives.adbetclickin.pink": {
+            "included_at_epoch": 1596622265.217068,
+            "included_at_iso": "2020-08-05T10:11:05.217068",
+            "last_retested_at_epoch": 1596622265.217068,
+            "last_retested_at_iso": "2020-08-05T10:11:05.217068",
             "status": "INACTIVE"
         },
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1594503174.041105,
             "included_at_iso": "2020-07-11T21:32:54.041105",
-            "last_retested_at_epoch": 1596535836.504538,
-            "last_retested_at_iso": "2020-08-04T10:10:36.504538",
+            "last_retested_at_epoch": 1596622278.357445,
+            "last_retested_at_iso": "2020-08-05T10:11:18.357445",
             "status": "INACTIVE"
         }
     }
