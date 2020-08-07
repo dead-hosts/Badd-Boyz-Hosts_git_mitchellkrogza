@@ -10610,22 +10610,22 @@
         "000owamail0.000webhostapp.com": {
             "included_at_epoch": 1594503131.733336,
             "included_at_iso": "2020-07-11T21:32:11.733336",
-            "last_retested_at_epoch": 1596708702.085529,
-            "last_retested_at_iso": "2020-08-06T10:11:42.085529",
+            "last_retested_at_epoch": 1596836668.757971,
+            "last_retested_at_iso": "2020-08-07T21:44:28.757971",
             "status": "INACTIVE"
         },
         "android-systems.ru": {
             "included_at_epoch": 1595369424.059442,
             "included_at_iso": "2020-07-21T22:10:24.059442",
-            "last_retested_at_epoch": 1596708702.128145,
-            "last_retested_at_iso": "2020-08-06T10:11:42.128145",
+            "last_retested_at_epoch": 1596836716.382226,
+            "last_retested_at_iso": "2020-08-07T21:45:16.382226",
             "status": "INACTIVE"
         },
         "companycreators.co.uk": {
             "included_at_epoch": 1596058801.31079,
             "included_at_iso": "2020-07-29T21:40:01.310790",
-            "last_retested_at_epoch": 1596708702.049842,
-            "last_retested_at_iso": "2020-08-06T10:11:42.049842",
+            "last_retested_at_epoch": 1596836716.343873,
+            "last_retested_at_iso": "2020-08-07T21:45:16.343873",
             "status": "INACTIVE"
         },
         "creatives.adbetclickin.pink": {
@@ -10638,8 +10638,8 @@
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1594503174.041105,
             "included_at_iso": "2020-07-11T21:32:54.041105",
-            "last_retested_at_epoch": 1596708702.106812,
-            "last_retested_at_iso": "2020-08-06T10:11:42.106812",
+            "last_retested_at_epoch": 1596836710.821463,
+            "last_retested_at_iso": "2020-08-07T21:45:10.821463",
             "status": "INACTIVE"
         }
     }
