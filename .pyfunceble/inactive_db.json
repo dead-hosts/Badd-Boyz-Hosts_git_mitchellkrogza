@@ -10608,10 +10608,10 @@
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
         "000owamail0.000webhostapp.com": {
-            "included_at_epoch": 1594503131.733336,
-            "included_at_iso": "2020-07-11T21:32:11.733336",
-            "last_retested_at_epoch": 1596836668.757971,
-            "last_retested_at_iso": "2020-08-07T21:44:28.757971",
+            "included_at_epoch": 1597009954.424012,
+            "included_at_iso": "2020-08-09T21:52:34.424012",
+            "last_retested_at_epoch": 1597009954.424012,
+            "last_retested_at_iso": "2020-08-09T21:52:34.424012",
             "status": "INACTIVE"
         },
         "android-systems.ru": {
@@ -10624,22 +10624,29 @@
         "companycreators.co.uk": {
             "included_at_epoch": 1596058801.31079,
             "included_at_iso": "2020-07-29T21:40:01.310790",
-            "last_retested_at_epoch": 1596836716.343873,
-            "last_retested_at_iso": "2020-08-07T21:45:16.343873",
+            "last_retested_at_epoch": 1597010000.372447,
+            "last_retested_at_iso": "2020-08-09T21:53:20.372447",
             "status": "INACTIVE"
         },
         "creatives.adbetclickin.pink": {
             "included_at_epoch": 1596622265.217068,
             "included_at_iso": "2020-08-05T10:11:05.217068",
-            "last_retested_at_epoch": 1596622265.217068,
-            "last_retested_at_iso": "2020-08-05T10:11:05.217068",
+            "last_retested_at_epoch": 1597010000.336132,
+            "last_retested_at_iso": "2020-08-09T21:53:20.336132",
             "status": "INACTIVE"
         },
         "kabey.000webhostapp.com": {
-            "included_at_epoch": 1594503174.041105,
-            "included_at_iso": "2020-07-11T21:32:54.041105",
-            "last_retested_at_epoch": 1596836710.821463,
-            "last_retested_at_iso": "2020-08-07T21:45:10.821463",
+            "included_at_epoch": 1597009998.395684,
+            "included_at_iso": "2020-08-09T21:53:18.395684",
+            "last_retested_at_epoch": 1597009998.395684,
+            "last_retested_at_iso": "2020-08-09T21:53:18.395684",
+            "status": "INACTIVE"
+        },
+        "keepcolletive.com": {
+            "included_at_epoch": 1597009998.418215,
+            "included_at_iso": "2020-08-09T21:53:18.418215",
+            "last_retested_at_epoch": 1597009998.418215,
+            "last_retested_at_iso": "2020-08-09T21:53:18.418215",
             "status": "INACTIVE"
         }
     }
