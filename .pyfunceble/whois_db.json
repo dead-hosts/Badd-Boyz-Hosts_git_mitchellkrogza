@@ -860,8 +860,8 @@
         "state": "future"
     },
     "2sexy.ro": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "2step-garage.co.uk": {
@@ -14562,7 +14562,7 @@
     "goforexvps.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gofun.info": {
         "epoch": 1626652800.0,
