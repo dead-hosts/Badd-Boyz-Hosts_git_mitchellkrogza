@@ -10610,36 +10610,36 @@
         "000owamail0.000webhostapp.com": {
             "included_at_epoch": 1597009954.424012,
             "included_at_iso": "2020-08-09T21:52:34.424012",
-            "last_retested_at_epoch": 1598220016.14813,
-            "last_retested_at_iso": "2020-08-23T22:00:16.148130",
+            "last_retested_at_epoch": 1598393493.217425,
+            "last_retested_at_iso": "2020-08-25T22:11:33.217425",
             "status": "INACTIVE"
         },
         "companycreators.co.uk": {
             "included_at_epoch": 1596058801.31079,
             "included_at_iso": "2020-07-29T21:40:01.310790",
-            "last_retested_at_epoch": 1598220061.48252,
-            "last_retested_at_iso": "2020-08-23T22:01:01.482520",
+            "last_retested_at_epoch": 1598393540.67737,
+            "last_retested_at_iso": "2020-08-25T22:12:20.677370",
             "status": "INACTIVE"
         },
         "creatives.adbetclickin.pink": {
             "included_at_epoch": 1596622265.217068,
             "included_at_iso": "2020-08-05T10:11:05.217068",
-            "last_retested_at_epoch": 1598220061.461157,
-            "last_retested_at_iso": "2020-08-23T22:01:01.461157",
+            "last_retested_at_epoch": 1598393540.699548,
+            "last_retested_at_iso": "2020-08-25T22:12:20.699548",
             "status": "INACTIVE"
         },
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1597009998.395684,
             "included_at_iso": "2020-08-09T21:53:18.395684",
-            "last_retested_at_epoch": 1598220059.289266,
-            "last_retested_at_iso": "2020-08-23T22:00:59.289266",
+            "last_retested_at_epoch": 1598393537.892503,
+            "last_retested_at_iso": "2020-08-25T22:12:17.892503",
             "status": "INACTIVE"
         },
         "keepcolletive.com": {
             "included_at_epoch": 1597009998.418215,
             "included_at_iso": "2020-08-09T21:53:18.418215",
-            "last_retested_at_epoch": 1598220059.311073,
-            "last_retested_at_iso": "2020-08-23T22:00:59.311073",
+            "last_retested_at_epoch": 1598393537.915336,
+            "last_retested_at_iso": "2020-08-25T22:12:17.915336",
             "status": "INACTIVE"
         }
     }
