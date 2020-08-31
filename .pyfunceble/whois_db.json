@@ -1500,8 +1500,9 @@
         "state": "future"
     },
     "7thlegion.ru": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "7wind.ru": {
@@ -1973,7 +1974,8 @@
     "abcsex.dk": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.dk-hostmaster.dk",
+        "state": "past"
     },
     "abctoppictures.net": {
         "epoch": 1629504000.0,
@@ -2216,8 +2218,9 @@
         "state": "future"
     },
     "actulite.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad-logics.com": {
@@ -2451,8 +2454,9 @@
         "state": "future"
     },
     "alf-img.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alfa-img.com": {
@@ -7346,8 +7350,9 @@
         "state": "future"
     },
     "contextualyield.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "contexualsearch.com": {
