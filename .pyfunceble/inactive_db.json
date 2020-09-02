@@ -10614,13 +10614,6 @@
             "last_retested_at_iso": "2020-08-27T22:00:13.624577",
             "status": "INACTIVE"
         },
-        "creatives.adbetclickin.pink": {
-            "included_at_epoch": 1596622265.217068,
-            "included_at_iso": "2020-08-05T10:11:05.217068",
-            "last_retested_at_epoch": 1598393540.699548,
-            "last_retested_at_iso": "2020-08-25T22:12:20.699548",
-            "status": "INACTIVE"
-        },
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1597009998.395684,
             "included_at_iso": "2020-08-09T21:53:18.395684",
