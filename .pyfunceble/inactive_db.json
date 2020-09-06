@@ -10607,13 +10607,6 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "000owamail0.000webhostapp.com": {
-            "included_at_epoch": 1597009954.424012,
-            "included_at_iso": "2020-08-09T21:52:34.424012",
-            "last_retested_at_epoch": 1598565613.624577,
-            "last_retested_at_iso": "2020-08-27T22:00:13.624577",
-            "status": "INACTIVE"
-        },
         "kabey.000webhostapp.com": {
             "included_at_epoch": 1597009998.395684,
             "included_at_iso": "2020-08-09T21:53:18.395684",

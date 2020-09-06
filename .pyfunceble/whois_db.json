@@ -2073,8 +2073,9 @@
         "state": "future"
     },
     "acads.net": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1662336000.0,
+        "expiration_date": "05-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "accur.biz": {
@@ -2550,8 +2551,9 @@
         "state": "future"
     },
     "alive-ua.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aljassarengineering.com": {
@@ -7368,7 +7370,8 @@
     "convertwordtoexcel.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "coocomall.com": {
         "epoch": 1626652800.0,
@@ -10978,7 +10981,8 @@
     "euadoroisso.com.br": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
-        "state": "future"
+        "server": "whois.registro.br",
+        "state": "past"
     },
     "eugenevaultstorage.com": {
         "epoch": "1572566400",
