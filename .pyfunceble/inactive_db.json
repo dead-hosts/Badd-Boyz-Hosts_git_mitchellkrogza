@@ -10607,18 +10607,11 @@
         }
     },
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
-        "kabey.000webhostapp.com": {
-            "included_at_epoch": 1597009998.395684,
-            "included_at_iso": "2020-08-09T21:53:18.395684",
-            "last_retested_at_epoch": 1598565656.920723,
-            "last_retested_at_iso": "2020-08-27T22:00:56.920723",
-            "status": "INACTIVE"
-        },
         "keepcolletive.com": {
-            "included_at_epoch": 1597009998.418215,
-            "included_at_iso": "2020-08-09T21:53:18.418215",
-            "last_retested_at_epoch": 1598565656.942656,
-            "last_retested_at_iso": "2020-08-27T22:00:56.942656",
+            "included_at_epoch": 1599602481.948763,
+            "included_at_iso": "2020-09-08T22:01:21.948763",
+            "last_retested_at_epoch": 1599602481.948763,
+            "last_retested_at_iso": "2020-09-08T22:01:21.948763",
             "status": "INACTIVE"
         }
     }
