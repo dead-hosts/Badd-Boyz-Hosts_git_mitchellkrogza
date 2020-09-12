@@ -735,8 +735,9 @@
         "state": "future"
     },
     "289931.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2a24.com": {
@@ -867,7 +868,8 @@
     "2step-garage.co.uk": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
-        "state": "future"
+        "server": "whois.nic.uk",
+        "state": "past"
     },
     "2stopy.pl": {
         "epoch": "1551830400",
@@ -2262,8 +2264,9 @@
         "state": "future"
     },
     "aisiansex.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aivae2o.top": {
