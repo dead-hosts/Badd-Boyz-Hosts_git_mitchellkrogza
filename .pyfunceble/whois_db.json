@@ -1089,8 +1089,9 @@
         "state": "future"
     },
     "4asianporn.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4beast.com": {
@@ -1355,8 +1356,9 @@
         "state": "future"
     },
     "60secpanic.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "65xps.com": {
@@ -2021,8 +2023,9 @@
         "state": "future"
     },
     "abetran.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abetting.net": {
@@ -2179,7 +2182,8 @@
     "acrowiswhite.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "actingonacts.com": {
         "epoch": "1568937600",
@@ -16885,7 +16889,8 @@
     "idrct.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "idvipteam.com": {
         "epoch": 1620172800.0,
