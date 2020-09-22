@@ -100,8 +100,9 @@
         "state": "past"
     },
     "07634.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "080jxrab.top": {
@@ -707,13 +708,15 @@
         "state": "future"
     },
     "257639.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "259572.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1607126400.0,
+        "expiration_date": "05-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "267932.com": {
@@ -722,8 +725,9 @@
         "state": "future"
     },
     "271395.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "272351.com": {
@@ -909,8 +913,9 @@
         "state": "future"
     },
     "30sec.info": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "31seconds.net": {
@@ -1947,8 +1952,9 @@
         "state": "future"
     },
     "abadass.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abahah.com": {
@@ -1982,10 +1988,10 @@
         "state": "future"
     },
     "abcsex.dk": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "server": "whois.dk-hostmaster.dk",
-        "state": "past"
+        "state": "future"
     },
     "abctoppictures.net": {
         "epoch": 1629504000.0,
@@ -2145,8 +2151,9 @@
         "state": "future"
     },
     "acompanhantesbrasil.com.br": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.registro.br",
         "state": "future"
     },
     "acompanhantesdeportugal.com": {
@@ -2180,10 +2187,10 @@
         "state": "future"
     },
     "acrowiswhite.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "actingonacts.com": {
         "epoch": "1568937600",
@@ -2571,8 +2578,9 @@
         "state": "future"
     },
     "aljassarengineering.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alkalifeph.fr": {
@@ -4409,8 +4417,9 @@
         "state": "future"
     },
     "back.dog": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.nic.dog",
         "state": "future"
     },
     "backalleyblowjobs.com": {
@@ -16887,10 +16896,10 @@
         "state": "past"
     },
     "idrct.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "idvipteam.com": {
         "epoch": 1620172800.0,
