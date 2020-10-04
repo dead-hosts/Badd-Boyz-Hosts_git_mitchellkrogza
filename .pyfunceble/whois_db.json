@@ -1332,8 +1332,9 @@
         "state": "future"
     },
     "5kstore.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "5toc.com": {
@@ -2813,8 +2814,9 @@
         "state": "future"
     },
     "allpornauditions.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "allpornofilm.com": {
@@ -6943,8 +6945,9 @@
         "state": "future"
     },
     "cinepornox.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cinepro.com": {
@@ -14679,8 +14682,9 @@
         "state": "past"
     },
     "gotwebsite1.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "grabberporno.com": {
