@@ -16285,10 +16285,10 @@
             "status": "ACTIVE"
         },
         "keepcolletive.com": {
-            "included_at_epoch": 1599602481.948763,
-            "included_at_iso": "2020-09-08T22:01:21.948763",
-            "last_retested_at_epoch": 1601849658.865071,
-            "last_retested_at_iso": "2020-10-04T22:14:18.865071",
+            "included_at_epoch": 1602021999.710747,
+            "included_at_iso": "2020-10-06T22:06:39.710747",
+            "last_retested_at_epoch": 1602021999.710747,
+            "last_retested_at_iso": "2020-10-06T22:06:39.710747",
             "status": "INACTIVE"
         },
         "kiwi237au.tk": {
