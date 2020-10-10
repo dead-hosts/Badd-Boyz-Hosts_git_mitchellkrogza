@@ -394,8 +394,9 @@
         "state": "future"
     },
     "14teen.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "156002.com": {
@@ -1117,8 +1118,9 @@
         "state": "future"
     },
     "4cock.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4ever.cc": {
@@ -1498,7 +1500,8 @@
     "791026.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "7cfmnf.top": {
         "epoch": 1602806400.0,
@@ -2574,8 +2577,9 @@
         "state": "future"
     },
     "alif-ba-ta.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alirey.com": {
@@ -3702,8 +3706,9 @@
         "state": "future"
     },
     "angelinfo.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anhangueraeducacional.com": {
@@ -4399,10 +4404,10 @@
         "state": "future"
     },
     "avpayments.com": {
-        "epoch": 1602115200.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "avramstroy.ru": {
         "epoch": 1612483200.0,
@@ -4456,8 +4461,9 @@
         "state": "future"
     },
     "backlink4u.net": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "backlinkwatch.com": {
@@ -7351,7 +7357,8 @@
     "computernetworksonline.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "comsalud360.com": {
         "epoch": 1634774400.0,
@@ -7364,8 +7371,9 @@
         "state": "future"
     },
     "comsysnet.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "constructionskills.in": {
