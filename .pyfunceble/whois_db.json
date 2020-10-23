@@ -808,8 +808,9 @@
         "state": "future"
     },
     "2lesbians.net": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2manshow.com": {
@@ -879,10 +880,10 @@
         "state": "future"
     },
     "2step-garage.co.uk": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
         "server": "whois.nic.uk",
-        "state": "past"
+        "state": "future"
     },
     "2stopy.pl": {
         "epoch": "1551830400",
@@ -1551,7 +1552,8 @@
     "7y7.us": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
-        "state": "future"
+        "server": "whois.nic.us",
+        "state": "past"
     },
     "7yue.org": {
         "epoch": "1575417600",
@@ -1990,8 +1992,9 @@
         "state": "future"
     },
     "abbanreddy.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abbeyxxx.com": {
@@ -3724,8 +3727,9 @@
         "state": "past"
     },
     "animadulte.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "animal-drawings.com": {
@@ -14496,8 +14500,9 @@
         "state": "future"
     },
     "globusdate.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "glopages.ru": {
@@ -14910,7 +14915,8 @@
     "great-comics.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "great-health.ru": {
         "epoch": "1588291200",
@@ -16627,7 +16633,8 @@
     "hunt4porn.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "husky-shop.cz": {
         "epoch": 1581379200.0,
