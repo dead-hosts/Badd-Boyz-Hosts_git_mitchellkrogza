@@ -173,8 +173,9 @@
         "state": "future"
     },
     "1-free-share-buttons.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1-pregnant-sex.com": {
@@ -1581,8 +1582,9 @@
         "state": "future"
     },
     "883zy.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "888-vip.net": {
@@ -2204,7 +2206,8 @@
     "acpbdf.com.br": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
-        "state": "future"
+        "server": "whois.registro.br",
+        "state": "past"
     },
     "acproyectos.com": {
         "epoch": 1634515200.0,
@@ -3480,8 +3483,9 @@
         "state": "future"
     },
     "anal-et-sodomie.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anal-fisting.nu": {
@@ -14913,10 +14917,10 @@
         "state": "future"
     },
     "great-comics.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "great-health.ru": {
         "epoch": "1588291200",
@@ -16586,8 +16590,9 @@
         "state": "future"
     },
     "humorpool.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "humraaz.com": {
@@ -16631,10 +16636,10 @@
         "state": "future"
     },
     "hunt4porn.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "husky-shop.cz": {
         "epoch": 1581379200.0,
@@ -16864,8 +16869,9 @@
         "state": "past"
     },
     "ico.re": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "server": "whois.nic.re",
         "state": "future"
     },
     "icscards-login.club": {
