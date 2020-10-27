@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/Badd-Boyz-Hosts_git_mitchellkrogza/domains.list": {
         "base": {
-            "datetime_iso": "2020-10-24T22:15:48.069941",
-            "hash": "46ad63a9d111e755e4b5a1018ddb7c953568404b6aaa28f71fb83607"
+            "datetime_iso": "2020-10-27T00:39:03.798452",
+            "hash": "874d1cca8a9d52db30589e43b6dd40a6467ed18307f96ec11622f9ea"
         },
         "latest": {
-            "datetime_iso": "2020-10-24T22:15:48.069941",
-            "hash": "46ad63a9d111e755e4b5a1018ddb7c953568404b6aaa28f71fb83607"
+            "datetime_iso": "2020-10-27T00:39:03.798452",
+            "hash": "874d1cca8a9d52db30589e43b6dd40a6467ed18307f96ec11622f9ea"
         },
         "position": 0
     }

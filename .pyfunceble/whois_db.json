@@ -512,8 +512,9 @@
         "state": "past"
     },
     "19blog.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1adult.com": {
@@ -847,7 +848,8 @@
     "2n2qlh5hqcwrvo.net": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "2o34.com": {
         "epoch": 1625616000.0,
@@ -938,8 +940,9 @@
         "state": "future"
     },
     "34.gs": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.nic.gs",
         "state": "future"
     },
     "365locksmithsminneapolis.com": {
@@ -1064,8 +1067,9 @@
         "state": "future"
     },
     "3xit.net": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3xlist.com": {
@@ -14631,8 +14635,9 @@
         "state": "past"
     },
     "goddessvip.com": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "godegodage.com": {
@@ -16952,8 +16957,9 @@
         "state": "future"
     },
     "idolight.net": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "idqsygpvizjp.bid": {
