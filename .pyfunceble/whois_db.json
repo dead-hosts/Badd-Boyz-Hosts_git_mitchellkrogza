@@ -127,8 +127,9 @@
         "state": "future"
     },
     "0dax.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "0m3.ru": {
@@ -846,10 +847,10 @@
         "state": "future"
     },
     "2n2qlh5hqcwrvo.net": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "2o34.com": {
         "epoch": 1625616000.0,
@@ -12911,10 +12912,10 @@
         "state": "future"
     },
     "freegayporn.biz": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "freegothicporn.org": {
         "epoch": "1569024000",
@@ -14627,7 +14628,8 @@
     "gobusinessloan.com": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "gocitytext.com": {
         "epoch": 1572048000.0,
