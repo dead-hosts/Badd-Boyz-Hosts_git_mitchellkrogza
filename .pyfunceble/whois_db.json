@@ -843,8 +843,9 @@
         "state": "future"
     },
     "2mycomputer.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2n2qlh5hqcwrvo.net": {
@@ -908,7 +909,8 @@
     "3-dauto.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "3-gay.com": {
         "epoch": 1608422400.0,
@@ -988,8 +990,9 @@
         "state": "future"
     },
     "3dcgfx.net": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3dpassport.com": {
@@ -1294,10 +1297,10 @@
         "state": "future"
     },
     "529collegesaving.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "52djcy.com": {
         "epoch": 1613088000.0,
@@ -1385,7 +1388,8 @@
     "600co.info": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "60secpanic.com": {
         "epoch": 1632096000.0,
@@ -1977,8 +1981,9 @@
         "state": "past"
     },
     "abacusnet.info": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1699142400.0,
+        "expiration_date": "05-nov-2023",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "abacuspresents.com": {
@@ -2579,10 +2584,10 @@
         "state": "future"
     },
     "alibestsale.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "aliclonepro.xyz": {
         "epoch": 1623888000.0,
@@ -3223,8 +3228,9 @@
         "state": "past"
     },
     "amateurspain.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amateurspread.nu": {
@@ -3439,8 +3445,9 @@
         "state": "future"
     },
     "ampower.me": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "amricanfidelity.com": {
@@ -3646,8 +3653,9 @@
         "state": "future"
     },
     "andrewrobertsllc.info": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1699056000.0,
+        "expiration_date": "04-nov-2023",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "android-style.com": {
@@ -14660,8 +14668,9 @@
         "state": "past"
     },
     "godrix.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "godsadvice.com": {
@@ -16956,8 +16965,9 @@
         "state": "future"
     },
     "idolax.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "idolhairsalon.com": {
