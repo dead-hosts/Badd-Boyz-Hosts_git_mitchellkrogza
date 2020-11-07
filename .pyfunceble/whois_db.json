@@ -907,10 +907,10 @@
         "state": "future"
     },
     "3-dauto.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "3-gay.com": {
         "epoch": 1608422400.0,
@@ -2045,8 +2045,9 @@
         "state": "future"
     },
     "abdl-adult-baby-phone-sex.info": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "abdlphone.com": {
@@ -2725,8 +2726,9 @@
         "state": "future"
     },
     "allcredits.su": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "alldubai.biz": {
