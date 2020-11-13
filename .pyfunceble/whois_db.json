@@ -904,8 +904,9 @@
         "state": "future"
     },
     "2ydian.com": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3-dauto.com": {
@@ -1174,10 +1175,10 @@
         "state": "past"
     },
     "4plus11.com": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "4pornxxx.com": {
         "epoch": 1608508800.0,
@@ -14993,8 +14994,9 @@
         "state": "future"
     },
     "greatpussies.com": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "greatsex.nu": {
@@ -16593,10 +16595,10 @@
         "state": "future"
     },
     "hugoparisescort.com": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "huhmag.com": {
         "epoch": 1574208000.0,
