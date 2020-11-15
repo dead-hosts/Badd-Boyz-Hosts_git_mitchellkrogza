@@ -542,8 +542,9 @@
         "state": "past"
     },
     "1ejaculationinterne.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1eroticspanking.info": {
@@ -1567,10 +1568,10 @@
         "state": "future"
     },
     "7y7.us": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
         "server": "whois.nic.us",
-        "state": "past"
+        "state": "future"
     },
     "7yue.org": {
         "epoch": "1575417600",
