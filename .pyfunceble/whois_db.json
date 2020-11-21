@@ -288,7 +288,8 @@
     "11-15.net": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "11pikachu.ru": {
         "epoch": 1607299200.0,
@@ -2700,10 +2701,10 @@
         "state": "future"
     },
     "allamericanmadetoys.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "allanimehentai.com": {
         "epoch": 1608940800.0,
@@ -6945,8 +6946,9 @@
         "state": "future"
     },
     "cienum.fr": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "cif.su": {
