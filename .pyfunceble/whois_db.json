@@ -365,8 +365,9 @@
         "state": "past"
     },
     "12u.info": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "12xhardcore.com": {
@@ -613,7 +614,8 @@
     "1unblock.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "1whore.com": {
         "epoch": "1573257600",
@@ -4903,8 +4905,9 @@
         "state": "future"
     },
     "beamfall.info": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "bean-bang.ru": {
@@ -16796,8 +16799,9 @@
         "state": "future"
     },
     "hyipbrowser.biz": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "hyiphunter.org": {
