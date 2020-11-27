@@ -612,10 +612,10 @@
         "state": "future"
     },
     "1unblock.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "1whore.com": {
         "epoch": "1573257600",
@@ -684,8 +684,9 @@
         "state": "future"
     },
     "24-xxx.biz": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "24695.com": {
@@ -7519,7 +7520,8 @@
     "cooknfit.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "cool-wedding.net": {
         "epoch": "1576281600",
