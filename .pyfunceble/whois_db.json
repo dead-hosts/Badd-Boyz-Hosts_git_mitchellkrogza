@@ -111,8 +111,8 @@
         "state": "future"
     },
     "09zyy.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -294,7 +294,8 @@
     "11pikachu.ru": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
-        "state": "future"
+        "server": "whois.tcinet.ru",
+        "state": "past"
     },
     "12.com": {
         "epoch": 1636416000.0,
@@ -732,10 +733,10 @@
         "state": "future"
     },
     "259572.com": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "267932.com": {
         "epoch": 1600646400.0,
@@ -1036,8 +1037,9 @@
         "state": "future"
     },
     "3henterprise.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1701820800.0,
+        "expiration_date": "06-dec-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "3jmcwio.com": {
@@ -7473,8 +7475,9 @@
         "state": "future"
     },
     "contactos-gay.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "contactosporno.net": {
@@ -15052,8 +15055,9 @@
         "state": "future"
     },
     "greatsimplicity.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "greatwork.info": {
