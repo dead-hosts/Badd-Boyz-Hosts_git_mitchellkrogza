@@ -70,8 +70,9 @@
         "state": "future"
     },
     "017gj.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "01apple.com": {
@@ -445,8 +446,9 @@
         "state": "future"
     },
     "17chezhan.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "17youzi.com": {
@@ -1243,8 +1245,9 @@
         "state": "future"
     },
     "4u69.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "4unblock.info": {
@@ -1652,8 +1655,9 @@
         "state": "future"
     },
     "8rf.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "8si.ru": {
@@ -2477,8 +2481,9 @@
         "state": "future"
     },
     "alblux.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alboautotrasportatori.it": {
@@ -3763,8 +3768,9 @@
         "state": "future"
     },
     "angelbetting.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "angelfuns.info": {
@@ -4522,8 +4528,9 @@
         "state": "future"
     },
     "backalleyblowjobs.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "backgroundpictures.net": {
@@ -11104,7 +11111,8 @@
     "etisalatebill.net": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "etymonline.co": {
         "epoch": 1611619200.0,
@@ -14639,10 +14647,10 @@
         "state": "future"
     },
     "go.biz": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
         "server": "whois.nic.biz",
-        "state": "past"
+        "state": "future"
     },
     "go2album.com": {
         "epoch": "1561852800",
