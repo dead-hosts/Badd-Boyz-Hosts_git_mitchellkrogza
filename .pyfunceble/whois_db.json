@@ -565,8 +565,9 @@
         "state": "future"
     },
     "1forced.com": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1hour.info": {
@@ -641,8 +642,9 @@
         "state": "future"
     },
     "2005-search.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2012countdown.info": {
@@ -792,8 +794,9 @@
         "state": "past"
     },
     "2daytrendingnews.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2gaap.com": {
@@ -972,7 +975,8 @@
     "365locksmithsminneapolis.com": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "377baidu.com": {
         "epoch": 1611446400.0,
@@ -1300,7 +1304,7 @@
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "50h6v79p.top": {
         "epoch": 1597795200,
@@ -1628,8 +1632,9 @@
         "state": "future"
     },
     "888-vip.net": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "888.com": {
@@ -2483,10 +2488,10 @@
         "state": "future"
     },
     "alberguecasaanita.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "alblux.com": {
         "epoch": 1639008000.0,
@@ -2609,8 +2614,9 @@
         "state": "future"
     },
     "algerianembassy.co.in": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "algodon.net": {
@@ -3525,8 +3531,9 @@
         "state": "future"
     },
     "an-donut.com": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anal-acrobats.com": {
@@ -13039,10 +13046,10 @@
         "state": "future"
     },
     "freehostservers.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "freeindiangals.com": {
         "epoch": 1611273600.0,
