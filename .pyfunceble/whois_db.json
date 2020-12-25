@@ -216,8 +216,9 @@
         "state": "future"
     },
     "1000russianwomen.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1000websporno.com": {
@@ -246,8 +247,9 @@
         "state": "future"
     },
     "101billion.com": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "101cities.se": {
@@ -1732,7 +1734,8 @@
     "94cdn.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "98oi.ru": {
         "epoch": 1613952000.0,
@@ -1864,8 +1867,9 @@
         "state": "future"
     },
     "a85.info": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "a94.info": {
@@ -14401,8 +14405,9 @@
         "state": "future"
     },
     "girlporn.ru": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "girls-pictures.net": {
